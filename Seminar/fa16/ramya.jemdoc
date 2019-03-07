@@ -1,0 +1,21 @@
+# jemdoc: menu{MENU}{ramya.html}
+= Ramya Srinivasan (Intel)
+
+Oct 10, 2016.
+
+== Title and Abstract
+*Beyond GPS: high accuracy technologies for your smartphone* \n
+Global navigation systems (GPS/GNSS) have played an important role in the proliferation of location and context aware applications. Today, almost every smartphone sold has a built-in GNSS chipset. Unfortunately, GNSS has its shortcomings - a) it is not accurate in urban canyons and in indoor environments, b) GNSS receivers are power intensive and c) they have high time to first fix (TTTF), going up to 2 minutes with a cold start. Clearly GNSS is not a complete solution to the location needs of the modern world and alternate location solutions are needed where GNSS is deficient. 
+
+This presentation will provide an overview of alternate location technologies, with specific focus on Wi-Fi based indoor positioning and a high accuracy LTE based solution for E911 for locating smartphones. 
+
+Wi-Fi based indoor location can provide an accuracy up to one meter. This unleashes a huge set of use-cases. For example, in the case of first responders, locating fire-fighters/victims in a large high rise burning building requires high precision localization. Other use-cases include providing routing assistance to visually disabled, providing advertisements/coupons in a mall or stadium in a context-aware manner etc. 
+
+E-911 is mandated in the United States and is regulated by the FCC (Federal Communications Commission) which specifies the accuracy with which a 911 caller should be located. In challenging deep indoor environments and urban canyons, GNSS does not meet these accuracy requirements. The LTE based positioning  - Observed time difference of arrival (OTDOA) - has been developed as an effective fallback to GNSS in these scenarios.
+
+== Bio
+Dr. Srinivasan obtained her PhD in Electrical & Computer Engineering from Georgia Institute of Technology in December, 2011. Her research was focused on optimizing data rates in MIMO (multi-input, multi-output) wireless networks. MIMO is one of the fundamental technologies responsible for the high data rates possible in current Wi-Fi technology, LTE and next generation communication systems. 
+
+Between 2012 to 2016,Dr. Srinivasan was a systems engineer for Qualcomm Inc, Santa Clara, where she worked on various position location technologies, including on Wi-Fi based indoor navigation and LTE-based positioning for E-911. 
+
+She is currently a modem simulation engineer at Intel, Santa Clara where she is involved in designing the 5G baseband modem for mobile chipsets. 

@@ -1,0 +1,13 @@
+# jemdoc: menu{MENU}{balzano.html}
+= Laura Balzano (Michigan)
+
+Nov 6, 11am-12pm.
+
+== Title and Abstract
+*Non-linear matrix completion* \n
+The low rank assumption in low rank matrix completion (LRMC) means that the columns (or rows) of the matrix to be completed are points have linear low rank. I will present two extensions of this thinking. In the first, we observe every entry of the matrix through a single unknown monotonic transformation. This is common in calibration and quantization problems. We show that matrix completion is still possible in this context and demonstrate a simple algorithm with an MSE guarantee. In the second, columns are points on low-dimensional nonlinear algebraic varieties. We discuss two optimization approaches to this problem, one kernelized algorithm and one that leverages existing LRMC techniques on a tensorized representation of the data. We also provide a formal mathematical justification for the success of our method and experimental results showing that the new approach outperforms existing state-of-the-art methods for matrix completion in many situations. This is joint work with Ravi Ganti, Rebecca Willett, Greg Ongie, Daniel Pimentel-Alarcon, and Rob Nowak.
+
+== Bio
+Laura Balzano is an assistant professor in Electrical Engineering and Computer Science at the University of Michigan. She is an Intel Early Career Faculty Fellow, a 3M Non-tenured Faculty Awardee, an ARO Young Investigator, and an AFOSR Young Investigator. Her main research focus is on modeling with big, messy data — highly incomplete or corrupted data, uncalibrated data, and highly heterogeneous data — and its applications in networks, environmental monitoring, and computer vision. Her expertise is in statistical signal processing, matrix factorization, and optimization.
+
+Laura received a BS from Rice University in Electrical and Computer Engineering, MS from the University of California in Los Angeles in Electrical Engineering, and PhD from the University of Wisconsin in Electrical and Computer Engineering. She received the Outstanding MS Degree of the year award from the UCLA EE Department, and the Best Dissertation award from the University of Wisconsin ECE Department. Her PhD was supported by a 3M fellowship. Before graduate school she worked as a software engineer at Applied Signal Technology, Inc.

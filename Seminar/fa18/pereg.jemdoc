@@ -1,0 +1,35 @@
+# jemdoc: menu{MENU}{pereg.html}
+= Uzi Pereg (Technion)
+
+Oct 10, 2-3pm, 212 Cory.
+
+== Title and Abstract
+*Arbitrarily Varying Broadcast and Relay Channels* \n
+Two models of an arbitrarily varying channel (AVC) are studied; both are relevant to modern networks under jamming attacks by an adversary or a hacker. The arbitrarily varying
+broadcast channel is considered when state information is available at the transmitter in a causal manner. Inner and outer bounds are established, on both the random code capacity
+region and the deterministic code capacity region with degraded message sets. The form of
+the bounds raises the question whether the minimax theorem can be generalized to rate
+regions, i.e. whether the order of the intersection over state distributions and the union
+over Shannon strategies can be interchanged. A sufficient condition is given, under which
+this assertion holds and the random code capacity region is determined. As an example, the
+arbitrarily varying binary symmetric broadcast channel is examined, showing that there are
+cases where the condition holds, hence the capacity region is determined, and other cases
+where there is a gap between the bounds. The gap implies that the minimax theorem does
+not always hold for rate regions.
+
+In the second part of the talk, a new model is introduced, namely, the arbitrarily varying
+relay channel. The results include the cutset bound, decode-forward bound and partial
+decode-forward bound on the random code capacity, which require modification of the
+usual methods for the AVC to fit the block Markov coding scheme. The random code
+capacity is further determined for special cases. Then, deterministic coding schemes are
+considered, and the deterministic code capacity is derived under certain conditions, for the degraded and reversely degraded relay channel, and the case of orthogonal sender
+components. The following question is addressed: If the encoder-decoder and encoder-relay
+marginals are both symmetrizable, does that necessarily imply zero capacity? We show and
+explain why the answer is no. The random code capacity is determined for the arbitrarily
+varying Gaussian relay channel with sender frequency division, and the deterministic code
+capacity is bounded using the techniques of Csisz\&#39;ar and Narayan&#39;s 1991 paper on the Gaussian AVC. It is observed that the gap vanishes as the input becomes less constrained. It is commonly believed that the primitive relay channel &quot;captures most essential features and challenges of relaying, and thus serves as a good testbed for new relay coding techniques (Kim, 2007). It is observed that in the arbitrarily varying case, this may no longer be true.
+
+This work is part of a Ph.D. thesis under the supervision of Yossef Steinberg.
+
+== Bio
+Uzi Pereg is a Ph.D. student at the Viterbi Faculty of Electrical Engineering, Technion - Israel Institute of Technology. He received the B.Sc. (summa cum laude) degree in Electrical Engineering from Azrieli College of Engineering, Jerusalem, Israel, in 2011, and the M.Sc. degree from Technion, Haifa, Israel, in 2015. His research interests are in the areas of digital communications, information theory and coding theory. Uzi is a recipient of the Pearl Award for outstanding research work in the field of communications, the KLA-Tencor Award for an excellent conference paper, and the 2018 Viterbi Scholarship.

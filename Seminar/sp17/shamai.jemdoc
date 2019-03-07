@@ -1,0 +1,45 @@
+# jemdoc: menu{MENU}{shamai.html}
+= Shlomo Shamai (Technion)
+
+May 26, 2017.
+11am-12pm, 306 Soda.
+
+== Title and Abstract
+*A View of Information-Estimation Relations in Gaussian Networks* \n
+
+This talk will focus on the recent applications of
+Information-Estimation Relations to Gaussian
+Networks. In the first part of the talk, we will go over recent connections
+between estimation theoretic and
+information theoretic measures. The estimation theoretic measures that would
+be of importance to us are
+the Minimum Means p-th Error (MMPE) and its special case the Minimum Mean
+Square Error (MMSE). As
+will be demonstrated, the MMSE can be very useful in bounding mutual
+information via the I-MMSE
+relationship of Guo-Shamai-Verdu, and the MMPE can be used to bound the
+conditional entropy via the
+moment entropy inequality.
+In the second part of the talk, we will discuss several applications of
+Information-Estimation Relations in
+Gaussian noise networks. As the first application, we show how the I-MMSE
+relationship can be used to
+determine the behavior, for every signal-to-noise ratio (SNR), of the mutual
+information and the MMSE of
+the transmitted codeword for the setting of the Gaussian Broadcast Channel and
+the Gaussian Wiretap Channel.
+As a second application, the notion of the MMPE is used to generalize the
+Ozarow-Wyner lower bound on
+the mutual information for discrete inputs on Gaussian noise channels.
+A short outlook of future applications concludes the presentation.
+
+This work is in collaboration with R. Bustin, A. Dytso, H. Vincent Poor,
+Daniela Tuninetti, Natasha Devroye, and it is
+supported by the European Union's Horizon 2020 Research
+And Innovation Programme, grant agreement no. 694630.
+
+
+== Bio
+Shlomo Shamai
+The Andrew and Erna Viterbi Department of Electrical Engineering,
+Technion-Israel Institute of Technology.

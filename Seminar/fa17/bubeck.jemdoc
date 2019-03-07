@@ -1,0 +1,14 @@
+# jemdoc: menu{MENU}{bubeck.html}
+= Sebastien Bubeck (Microsoft Research)
+
+Oct 23, 2017.
+
+== Title and Abstract
+*Sparsity, variance and curvature in multi-armed bandits* \n
+
+In (online) learning theory the concepts of sparsity, variance and curvature are well-understood and are routinely used to obtain refined regret and generalization bounds. In this work we further our understanding of these concepts in the more challenging limited feedback scenario. We consider the adversarial multi-armed bandit and linear bandit problems and solve several open problems pertaining to the existence of algorithms with good regret bounds under the following assumptions: (i) sparsity of the individual losses (open problem by Kwon and Perchet), (ii) small variation of the loss sequence (open problem by Kale and Hazan), and (iii) curvature of the action set (open problem by Bubeck, Cesa-Bianchi and Kakade). 
+
+Joint work with Michael B. Cohen and Yuanzhi Li.
+
+== Bio
+Sébastien Bubeck is a senior researcher at Microsoft Research Redmond. Prior to MSR, he was an Assistant Professor in the Department of Operations Research and Financial Engineering at Princeton University. He received his MS in Mathematics from the Ecole Normale Supérieure de Cachan and his PhD in Mathematics from the University of Lille 1, France. He was awarded the Jacques Neveu 2010 prize for the best French PhD thesis in Probability and Statistics, the Sloan Research Fellowship in Computer Science in 2015, the Best Student Paper Award at COLT (Conference on Learning Theory) 2009 and the Best Paper Award at COLT 2016.

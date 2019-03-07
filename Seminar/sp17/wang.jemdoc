@@ -1,0 +1,11 @@
+# jemdoc: menu{MENU}{wang.html}
+= Lele Wang (Stanford)
+
+Mar 6, 2017.
+
+== Title and Abstract
+* Graph information ratio* \n
+Inspired by a problem in joint source-channel coding, we introduce a new notion of similarity between graphs, termed graph information ratio. We discuss various properties of this measure, including in particular metric structure and partial ordering of graphs, an information ratio power inequality, relations to graph homomorphism, algebraic identities and inequalities, and more.
+
+== Bio
+Lele Wang is a joint postdoctoral researcher at Stanford University and Tel Aviv University. She received the B.E. degree at Tsinghua University, China, and the Ph.D. degree at UCSD. Her research interests include Information Theory, Coding Theory, and Discrete Mathematics. She is a recipient of the 2013 UCSD Shannon Memorial Fellowship and the 2013-2014 Qualcomm Innovation Fellowship.

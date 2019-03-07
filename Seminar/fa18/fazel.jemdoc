@@ -1,0 +1,11 @@
+# jemdoc: menu{MENU}{fazel.html}
+= Maryam Fazel (UW Seattle)
+
+Sep 10.
+
+== Title and Abstract
+*Online Competitive Algorithms for Resource Allocation* \n
+In online optimization with budgets, the data in the optimization problem is revealed over time. At each step a decision variable needs to be set without knowing the future inputs, while there is a budget constraint that couples the decisions across time. In this talk, we consider an online setup that includes problems such as online (budgeted) resource allocation with a fixed inventory, and the ‘Adwords’ problem popular in online advertising. We examine two types of primal-dual algorithms, with a focus on the competitive ratio, i.e., the ratio of the objective achieved by the algorithm to that of the optimal offline sequence of decisions. We give a bound on this ratio and show how certain smoothing of the objective function can improve the bound, and how to seek the optimal smoothing by solving a convex design problem. This approach allows us to design effective smoothing customized for a given cost function and problem structure. The framework also extends to problems with positive semidefinite matrix variables, such as online D-optimal and A-optimal experiment design (from statistics).
+
+== Bio
+Maryam Fazel is an Associate Professor of Electrical Engineering at the University of Washington, with adjunct appointments in Computer Science and Engineering, Mathematics, and Statistics. Maryam received her MS and PhD from Stanford University, her BS from Sharif University of Technology in Iran, and was a postdoctoral scholar at Caltech before joining UW. Her current research interests are in mathematical optimization and applications in machine learning. She is a recipient of the NSF Career Award, UWEE Outstanding Teaching Award, UAI conference Best Student Paper Award (with her student), and coauthored a paper selected as a Fast-Breaking paper by Science Watch (2011). She co-leads the NSF Algorithmic Foundations for Data Science Institute (ADSI) at UW, and is an associate editor of SIAM journals on Optimization and on Mathematics of Data Science. 

@@ -1,0 +1,13 @@
+# jemdoc: menu{MENU}{lai.html}
+= Lifeng Lai (UC Davis)
+
+Oct 31, 2016.
+
+== Title and Abstract
+*Distributed Statistical Inference with Compressed Data* \n
+In the classic statistical inference problems, all data is available at a centralized location. With the explosion of the size of data set, it is increasingly common that data is stored in multiple terminals connected by links with a limited communication capacity. In this scenario, terminals have to exchange compressed data and perform statistical inference using the compressed data. In this talk, we will discuss our recent work that addressed the following two questions: 1) Suppose we would like to achieve the same optimal inference as that of the centralized case, how much data compression can be performed?; and 2) Suppose we compress the data extremely (zero-rate compression), what is the optimal inference performance?
+
+== Bio
+Lifeng Lai received the B.E. and M. E. degrees from Zhejiang University, Hangzhou, China in 2001 and 2004 respectively, and the PhD degree from The Ohio State University at Columbus, OH, in 2007. He was a postdoctoral research associate at Princeton University from 2007 to 2009. He is now an associate professor at University of California, Davis. Dr. Lai’s research interests include information theory, stochastic signal processing and their applications in wireless communications, security and other related areas.
+
+Dr. Lai is a co-recipient of the Best Paper Award from IEEE Global Communications Conference (Globecom) in 2008, the Best Paper Award from IEEE Conference on Communications (ICC) in 2011 and the Best Paper Award from IEEE Smart Grid Communications (SmartGridComm) in 2012. He received the National Science Foundation CAREER Award in 2011, and Northrop Young Researcher Award in 2012. He served as a Guest Editor for IEEE Journal on Selected Areas in Communications, Special Issue on Signal Processing Techniques for Wireless Physical Layer Security. He is currently serving as an Editor for IEEE Transactions on Wireless Communications, and an Associate Editor for IEEE Transactions on Information Forensics and Security.

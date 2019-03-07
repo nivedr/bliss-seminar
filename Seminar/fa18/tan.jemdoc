@@ -1,0 +1,11 @@
+# jemdoc: menu{MENU}{tan.html}
+= Yan Shuo Tan (Berkeley)
+
+Oct 2, 2-3PM, Cory 531.
+
+== Title and Abstract
+*Efficient algorithms for phase retrieval in high dimensions* \n
+Mathematical phase retrieval is the problem of solving systems of rank-1 quadratic equations. Over the last few years, there has been much interest in constructing algorithms with provable guarantees. Both theoretically and empirically, the most successful approaches have involved direct optimization of non-convex loss functions. In the first half of this talk, we will discuss how SGD for one of these loss functions provably results in linear convergence with high probability. In the second half of the talk, we will discuss a semidefinite programming algorithm that simultaneously makes use of a sparsity prior on the solution vector, while overcoming possible model misspecification.
+
+== Bio
+Yan Shuo Tan is a postdoctoral fellow at the UC Berkeley Foundations of Data Analysis Institute. He obtained his PhD in mathematics from the University of Michigan, where he was advised by Professor Roman Vershynin. He is interested broadly in mathematical data science, and particularly in stochastic optimization and learning theory.

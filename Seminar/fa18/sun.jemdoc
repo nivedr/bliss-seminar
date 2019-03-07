@@ -1,0 +1,11 @@
+# jemdoc: menu{MENU}{sun.html}
+= Ruoyu Sun (UIUC)
+
+Oct 15.
+
+== Title and Abstract
+*Understanding the Landscape of Neural Networks for Binary Classification* \n
+One challenge of training neural networks is the non-convexity of the loss function, which can lead to many bad local minima. Due to the recent success of neural networks, it is conjectured that all local minima lead to similar training performance and are thus not a big issue. In this talk, instead of explaining "why neural-net landscape is nice", we try to understand "when the landscape is nice, and when is not". We will focus on the binary classification problem, and provide both positive and negative results. On the positive side, we prove that no bad local minima exist under a few conditions on the neuron types, the neural network structure, the loss function, and the dataset. On the negative side, we provide dozens of counterexamples which show that bad local minima exist when these conditions do not hold.
+
+== Bio
+Ruoyu Sun is an assistant professor in the Department of Industrial and Enterprise Systems Engineering Department (ISE) and Coordinate Science Lab (CSL), University of Illinois at Urbana-Champaign. Before joining UIUC, he was a visiting research scientist at Facebook AI Research and was a postdoctoral researcher at Stanford University. He obtained PhD in electrical engineering from University of Minnesota, and B.S. in mathematics from Peking University. He has won the second place of INFORMS George Nicholson student paper competition, and honorable mention of INFORMS optimization society student paper competition. His research interests lie in optimization and machine learning, especially large-scale optimization and non-convex optimization for machine learning.

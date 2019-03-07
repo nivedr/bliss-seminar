@@ -1,0 +1,54 @@
+# jemdoc: menu{MENU}{wright.html}
+= Stephen Wright (UW Madison)
+
+Sep 25, 2017.
+
+== Title and Abstract
+*Algorithmic Tools for Smooth Nonconvex Optimization* \n
+
+Unconstrained optimization of a smooth nonconvex objective over many
+variables is a classic problem in optimization. Several effective
+techniques have been proposed over the years, along with results about
+global and local convergence. There has been an upsurge of interest
+recently on techniques with good global complexity properties. (This
+interest is being driven largely by researchers in machine learning,
+who want to solve the nonconvex problems arising from neural network
+training and robust statistics, but it has roots in the optimization
+literature.) In this talk we describe the algorithmic tools that can
+be used to design methods with appealing practical behavior as well as
+provably good global convergence properties. These tools include the
+conjugate gradient and Lanczos algorithms, Newton's method, cubic
+regularization, trust regions, and accelerated gradient. We show how
+these elements can be assembled into a comprehensive method, and
+compare a number of proposals that have been made to date. If time
+permits, we will consider the behavior of first-order methods in the
+vicinity of saddle points, showing that accelerated gradient methods
+are as unlikely as gradient descent to converge to saddle points, and
+escapes from such points faster.  
+
+This talk presents joint work with Clement Royer and Mike O'Neill
+(both of U Wisconsin-Madison).
+
+
+== Bio
+Stephen J. Wright holds the George B. Dantzig Professorship, the
+Sheldon Lubar Chair, and the Amar and Balinder Sohi Professorship of
+Computer Sciences at the University of Wisconsin-Madison. His research
+is in computational optimization and its applications to many areas of
+science and engineering. Prior to joining UW-Madison in 2001, Wright
+held positions at North Carolina State University (1986-90), Argonne
+National Laboratory (1990-2001), and  the University of
+Chicago (2000-2001). He has served as Chair of the Mathematical
+Optimization Society and as a Trustee of SIAM. He is a Fellow of
+SIAM. In 2014, he won the W.R.G. Baker award from IEEE.
+
+Wright is the author / coauthor of widely used text and reference
+books in optimization including "Primal Dual Interior-Point Methods"
+and "Numerical Optimization". He has published widely on optimization
+theory, algorithms, software, and applications.
+
+Wright is current editor-in-chief of the SIAM Journal on Optimization
+and previously served as editor-in-chief or associate editor of
+Mathematical Programming (Series A), Mathematical Programming (Series
+B), SIAM Review, SIAM Journal on Scientific Computing, and several
+other journals and book series.

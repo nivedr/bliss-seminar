@@ -1,0 +1,30 @@
+# jemdoc: menu{MENU}{mairal.html}
+= Julien Mairal (INRIA Grenoble)
+
+Mar 1, 2016.
+
+== Title and Abstract
+*A Universal Catalyst for First-Order Optimization* \n
+We introduce a generic scheme for accelerating first-order
+optimization methods in the sense of Nesterov. Our approach consists
+of minimizing a convex objective by approximately solving a sequence
+of well-chosen auxiliary problems, leading to faster convergence. This
+strategy applies to a large class of algorithms, including gradient
+descent, block coordinate descent, SAG, SAGA, SDCA, SVRG, Finito/MISO, and
+their proximal variants. For all of these approaches, we
+provide acceleration and explicit support for non-strongly convex
+objectives.
+In addition to theoretical speed-up, we also show that acceleration is
+useful in practice, especially for ill-conditioned problems where we
+measure significant improvements. 
+
+This is joint work with Hongzhou
+Lin and Zaid Harchaoui.
+
+== Bio
+Julien Mairal is a research scientist at INRIA in the project LEAR. He was
+previously a postdoctoral researcher in the statistics department at
+Berkeley, and before that, did his PhD at INRIA in the project WILLOW under
+the supervision of Jean Ponce and Francis Bach. He is interested in machine
+learning, optimization, computer vision, statistical signal and image
+processing, and also has some interest in bio-informatics and neurosciences.

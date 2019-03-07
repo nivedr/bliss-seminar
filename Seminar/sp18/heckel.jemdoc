@@ -1,0 +1,11 @@
+# jemdoc: menu{MENU}{heckel.html}
+= Reinhard Heckel (Rice)
+
+Mar 7, 11am-12pm 373 Soda.
+
+== Title and Abstract
+*Robust Storage of Information in DNA Molecules* \n
+Due to its longevity and enormous information density, DNA is an attractive medium for archival storage of digital information. In this talk, we discuss algorithmic and design aspects of DNA data storage systems. A key distinctive aspect of DNA data storage systems is that due to technological constraints, (1) data is written onto many short DNA molecules that are stored in an unordered way and (2) the data is read by sampling from this DNA pool. Imperfections in DNA synthesis, sequencing, and decay of DNA induces errors in the reads obtained from the DNA pool. Error correcting codes can correct those errors and allow to perfectly recover the digital information. We discuss the design of such codes for the particular requirements imposed by DNA data storage systems. Moreover, we study the basic relationships and tradeoffs between key design parameters and performance goals such as storage density and reading/writing costs, and the fundamental limits of DNA storage systems. Finally, we discuss our experience with designing and testing one of the first robust DNA data storage systems, and how the qualitative and quantitative understanding of the errors obtained from our experiments and the experiments from other groups can inform the design of future DNA data storage systems.
+
+== Bio
+Reinhard Heckel is an assistant professor in the Department of Electrical and Computer Engineering at Rice University. Prior to that, he spent one and a half years as a postdoctoral researcher in the Department of Electrical Engineering and Computer Sciences at the University of California, Berkeley. Before that, he spent a year in the Cognitive Computing & Computational Sciences Department at IBM Research, Zurich. He got his Ph.D. in August 2014 at ETH Zurich, Department of Information Technology and Electrical Engineering, advised by Helmut Bolcskei, and was awarded the ETH Medal. He is interested in various topics in machine learning, mathematical signal processing, sparse signal recovery, and computational biology.

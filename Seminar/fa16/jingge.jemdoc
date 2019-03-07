@@ -1,0 +1,11 @@
+# jemdoc: menu{MENU}{jingge.html}
+= Jingge Zhu (Berkeley)
+
+Nov 14, 2016.
+
+== Title and Abstract
+*Structured Codes in Multi-user Communication Networks* \n
+We discuss applications of structured codes in multi-user communication networks. We show that a generalisation of the so-called compute-and-forward scheme permits a novel multiple access technique with low decoding complexity.  We also discuss the typical sumset of linear/lattice codes, a novel notion which turns out to be important for our understanding on coding for computations with linear/lattice codes.The results offer valuable insights to the strength and weakness of structured codes in multi-user networks.
+
+== Bio
+Jingge Zhu is a postdoctoral researcher at University of California, Berkeley. He has recently obtained his PhD degree from Ecole Polytechnique Fédérale de Lausanne (EPFL), Lausanne, Switzerland. He received the B.S. degree and M.S. degree in electrical engineering from Shanghai Jiao Tong University, Shanghai, China, in 2008 and 2011, respectively. He also received the Dipl.-Ing. degree in technische Informatik from Technische Universität Berlin, Berlin, Germany in 2011. His research interests include information theory with applications in communication systems. Dr. Zhu is the recipient of the IEEE Heinrich Hertz Award for Best Communications Letters in 2013, and the recipient of the Early Postdoc Mobility Fellowship from Swiss NSF in 2015.

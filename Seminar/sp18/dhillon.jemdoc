@@ -1,0 +1,11 @@
+# jemdoc: menu{MENU}{dhillon.html}
+= Inderjit Dhillon (A9/Amazon/UT Austin)
+
+Apr 23.
+
+== Title and Abstract
+*Stabilizing Gradients for Deep Neural Networks* \n
+Vanishing and exploding gradients are two main obstacles in training deep neural networks, especially when trying to capture long range dependencies in recurrent neural networks (RNNs). In this talk, I will present an efficient parametrization of the transition matrix of an RNN that stabilizes the gradients that arise in its training. Specifically, we parameterize the transition matrix by its singular value decomposition (SVD), which allows us to explicitly track and control its singular values. We attain efficiency by using tools that are common in numerical linear algebra, namely Householder reflectors for representing the orthogonal matrices that arise in the SVD. We present results on the Inline Search Suggestions (ISS) application at Amazon Search.
+
+== Bio
+Inderjit Dhillon is the Gottesman Family Centennial Professor of Computer Science and Mathematics at UT Austin, where he is also the Director of the ICES Center for Big Data Analytics. Currently he is on leave from UT Austin and works as Amazon Fellow at A9/Amazon, where he is developing and deploying state-of-the-art machine learning methods for Amazon search. His main research interests are in big data, machine learning, network analysis, linear algebra and optimization. He received his B.Tech. degree from IIT Bombay, and Ph.D. from UC Berkeley. Inderjit has received several awards, including the ICES Distinguished Research Award, the SIAM Outstanding Paper Prize, the Moncrief Grand Challenge Award, the SIAM Linear Algebra Prize, the University Research Excellence Award, and the NSF Career Award. He has published over 175 journal and conference papers, and has served on the Editorial Board of the Journal of Machine Learning Research, the IEEE Transactions of Pattern Analysis and Machine Intelligence, Foundations and Trends in Machine Learning and the SIAM Journal for Matrix Analysis and Applications. Inderjit is an ACM Fellow, an IEEE Fellow, a SIAM Fellow and an AAAS Fellow.

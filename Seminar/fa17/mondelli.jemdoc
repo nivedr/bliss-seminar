@@ -1,0 +1,23 @@
+# jemdoc: menu{MENU}{mondelli.html}
+= Marco Mondelli (Stanford)
+
+Dec 11, 2017.
+
+== Title and Abstract
+*Fundamental Limits of Weak Recovery with Applications to Phase Retrieval* \n
+
+In phase retrieval we want to recover an unknown signal x from n quadratic measurements of the form y_i = |<a_i, x\>|^2+w_i, where a_i are known sensing vectors and w_i is measurement noise. We ask the following weak recovery question: what is the minimum number of measurements n needed to produce an estimator that is positively correlated with the signal x?
+
+We consider the case of Gaussian vectors a_i. We prove that -- in the high-dimensional limit -- a sharp phase transition takes place, and we locate the threshold in the regime of vanishingly small noise. For n \le d-o(d), no estimator can do significantly better than random and achieve a strictly positive correlation. For n \ge d+o(d), a simple spectral estimator achieves a positive correlation. 
+
+Surprisingly, numerical simulations with the same spectral estimator demonstrate promising performance with realistic sensing matrices. Spectral methods are used to initialize non-convex optimization algorithms in phase retrieval, and our approach can boost the performance in this setting as well. Our results generalize beyond phase retrieval to measurements y_i produced according to a generalized linear model.
+
+Based on joint work with Andrea Montanari.
+
+
+== Bio
+Marco Mondelli received the B.S. and M.S. degree in Telecommunications Engineering from the University of Pisa, Italy, in 2010 and 2012, respectively. During the period 2007-2012, he was also enrolled at the Sant’Anna School of Advanced Studies. In 2016, he
+obtained his Ph.D. degree in Computer and Communication Sciences at the École Polytechnique Fédérale de Lausanne, Switzerland, under the supervision of Prof. Rüdiger Urbanke. In 2017, he joined Stanford University as a Postdoctoral Scholar, hosted by Prof. Andrea Montanari. His current research interests include machine learning, wireless
+communication systems, network information theory and modern coding theory, with particular emphasis on polar codes.
+He was the recipient of a Dan David Prize Scholarship in 2015, and of an Early Postdoc Mobility Fellowship from the Swiss National Science Foundation in 2016. He
+received the IEEE Jack Keil Wolf ISIT Student Paper Award in 2015, the STOC Best Paper Award in 2016, and was selected as a finalist in the Shannon Centennial Student Competition organized in April 2016 by Bell Labs, Nokia. His thesis was awarded the Patrick Denantes Memorial Prize for the best Ph.D. thesis in the School of Computer and Communication Sciences at EPFL in 2017.

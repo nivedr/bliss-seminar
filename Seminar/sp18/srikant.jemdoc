@@ -1,0 +1,11 @@
+# jemdoc: menu{MENU}{srikant.html}
+= R. Srikant (UIUC)
+
+Mar 19.
+
+== Title and Abstract
+*Queues, Balls and Bins, and Association* \n
+We consider a problem motivated by file retrieval in cloud computing systems where storage coding is used. In such problems, each file-retrieval job consists of multiple tasks (each corresponding to the retrieval of a coded chunk of a file), and the job is completed only when all of its tasks are completed. The goal is to compute the tail probability of the job completion time. However, this is a difficult problem whereas the problem of computing tail probabilities of task completion times is relatively easy. We will show that, by assuming that the task completion times are independent, one can compute an upper bound on the tail probability of the job completion time. The result is obtained by proving that the task completions times at the various servers in the cloud system are associated. The key step in the proof can be easily understood by considering a corresponding balls-and-bins problem as we will illustrate in the talk. Joint work with Weina Wang, Mor Harchol-Balter, Haotian Jiang, and Alan Scheller-Wolf.
+
+== Bio
+R. Srikant is the Fredric G. and Elizabeth H. Nearing Endowed Professor of Electrical and Computer Engineering and the Coordinated Science Lab at the University of Illinois at Urbana-Champaign. His research interests are in the areas of communication networks, cloud computing, applied probability, and machine learning. He received the 2015 IEEE INFOCOM Achievement Award, and has also received several Best Paper awards, including the 2015 INFOCOM Best Paper Award and the 2017 Applied Probability Society Best Publication Award. He was the Editor-in-Chief of the IEEE/ACM Transactions on Networking from 2013-2017.

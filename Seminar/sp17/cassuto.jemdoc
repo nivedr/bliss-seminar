@@ -1,0 +1,31 @@
+# jemdoc: menu{MENU}{cassuto.html}
+= Yuval Cassuto (Technion)
+
+Mar 17, 2017.\n
+1-2pm, 531 Cory.
+
+== Title and Abstract
+*Coded Network Switches* \n
+
+We study how codes can be used within network switches and routers to improve their switching rates. The main challenge addressed by the codes is memory contention at the packet read path, when a multi-bank switch architecture is employed.
+
+Two approaches will be discussed in the talk:
+1) Guaranteed readout: where a special type of code -- called "switch code" --  guarantees a full-rate readout for any requested set of packets.
+
+2) Flexible readout: where standard MDS or cyclic codes reduce contention and increase the read throughput. 
+
+In part 1 the focus will be on constructing extreme versions of a type of distributed-storage codes called batch codes, in which all information symbols are simultaneously reconstructed from local code sets.
+
+In part 2 we switch the focus from code construction to the policies used for placement of coded packets, the algorithms to read maximal sets of packets, and the tight relations between the two. 
+
+Based on joint works with Zhiying Wang, HanMao Kiah, and Rami Cohen.
+
+
+== Bio
+Yuval Cassuto is an Assistant Professor and a Viterbi computer-engineering fellow at the Department of Electrical Engineering, Technion -- Israel Institute of Technology. His research interests include coding theory, coding techniques for data storage, memory and storage architectures and algorithms, and data distribution in networks. He has served on the technical program committees of leading conferences in theory and in systems.
+
+During 2010-2011 he has been a Scientist at EPFL, the Swiss Federal Institute of Technology in Lausanne. From 2008 to 2010 he was a Research Staff Member at Hitachi Global Storage Technologies, San Jose Research Center. From 2000 to 2002, he was with Qualcomm, Israel R&D Center, where he worked on modeling, design and analysis in wireless communications.
+
+He received the B.Sc degree in Electrical Engineering, summa cum laude, from the Technion, Israel Institute of Technology, in 2001, and the MS and Ph.D degrees in Electrical Engineering from the California Institute of Technology, in 2004 and 2008, respectively.
+
+Dr. Cassuto has won the 2010 Best Student Paper Award in Data Storage from the IEEE Communications Society, as well as the 2001 Texas Instruments DSP and Analog Challenge $100,000 prize.

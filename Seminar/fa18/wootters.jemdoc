@@ -1,0 +1,15 @@
+# jemdoc: menu{MENU}{wootters.html}
+= Mary Wootters (Stanford)
+
+Nov 26.
+
+== Title and Abstract
+*Two stories about group testing* \n
+Group testing is the problem of identifying a small set of “defective” items from queries of the form “is at least one item in this subset defective?”  In this talk I’ll discuss two works about group testing, both with the theme of proving new results about classical constructions.
+
+In the first work (joint with Huseyin Inan, Peter Kairouz and Ayfer Ozgur) we show that the classical Kautz-Singleton construction from the 1960’s—which was designed for worst-case defective sets—is optimal for random defective sets.  More precisely, we show that this construction can identify a random set of d defective items out of n with O(dlog(n)) tests with high probability, which is order-optimal.  Despite being a classical construction, this is the first strongly explicit construction known to achieve order-optimality in the randomized setting.
+
+In the second work (joint with Bruce Spang) we study a problem called “graph constrained group testing” which arises in the context of network tomography.  In this setting, the tests (subsets) that are allowed constrained by the underlying network.  We study an extremely simple randomized construction, which is a riff on the classical approach of choosing uniformly random tests, and we show that this approach improves over the (also randomized) state-of-the-art.
+
+== Bio
+Mary Wootters is an assistant professor of Computer Science and Electrical Engineering at Stanford University. She received a PhD in mathematics from the University of Michigan in 2014, and a BA in math and computer science from Swarthmore College in 2008; she was an NSF postdoctoral fellow at Carnegie Mellon University from 2014 to 2016. Her research interests include randomized algorithms, coding theory, dimension reduction, matrix completion, and sparse signal processing.

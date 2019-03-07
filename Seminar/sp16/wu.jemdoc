@@ -1,0 +1,14 @@
+# jemdoc: menu{MENU}{wu.html}
+= Xiugang Wu (Stanford)
+
+Feb 22, 2016.
+
+== Title and Abstract
+*Improving on the Cut-Set Bound via Geometric Analysis of Typical Sets* \n
+The cut-set bound developed by (Cover and El Gamal, 1979) has since remained the best known upper bound on the capacity of the Gaussian relay channel. We develop a new upper bound on the capacity of the Gaussian primitive relay channel which is tighter than the cut-set bound. Combined with a simple tensorization argument proposed by (Courtade and Ozgur, 2015), our result also implies that the current capacity approximations for Gaussian relay networks, which have linear gap to the cut-set bound in the number of nodes, are order-optimal and leads to a lower bound on the pre-constant.
+
+Our approach for developing the new bound significantly deviates from the standard information-theoretic approach for proving upper bounds on the capacity of multi-user channels. We build on measure concentration to analyze the geometric probabilistic relations between the typical sets of the n-letter random variables associated with a reliable code for communicating over the channel. These relations translate to new entropy inequalities between the n-letter random variables involved. Our approach can be extended to the discrete memoryless relay channel, and in particular, can be used to obtain surprising insights on a long-standing open problem posed by (Cover, 1987), namely, what is the minimum required relay-to-destination communication rate in order for the capacity of the relay channel to be equal to that of the broadcast cut.
+
+== Bio
+
+Xiugang Wu is a postdoctoral fellow in the Department of Electrical Engineering at Stanford University. He received the B.Eng. degree in electronics and information engineering from Tongji University, Shanghai, China, in 2007, and the M.A.Sc. and Ph.D. degrees in electrical and computer engineering from the University of Waterloo, Waterloo, Ontario, Canada, in 2009 and 2014 respectively. His research interests are in information theory and wireless networks.

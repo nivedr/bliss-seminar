@@ -1,0 +1,37 @@
+# jemdoc: menu{MENU}{permuter.html}
+= Haim Permuter (Ben-Gurion)
+
+Feb 27, 2017, 3-4pm, 380 Soda Hall.
+
+== Title and Abstract
+* Causality and directed information in communication,
+gambling, estimation, inference and statistical physics* \n
+In this talk we will present a fundamental role that directed
+information and causal conditioning has in communication with
+feedback, gambling with causal side information, causal MMSE
+estimation, statistical physics, and causal inference between two
+processes.
+
+We will begin by defining and establishing some key properties of
+the notions of causal conditioning and directed information. These
+properties will be seen to be natural counterparts, for the case
+where feedback is present, of the well-known properties of regular
+conditioning and mutual information.
+
+Applications of these multi-letter capacity expressions will be
+discussed. In particular we will show a framework for the
+computation  of capacity of  unifilar channels. We will also detail
+how the framework can lead to closed form analytical solutions, such
+as in the case of binary erasure channel with no repeated ones, the trapdoor/chemical channel, the Ising channel and the Dicode channel.
+
+As time permits, we will discuss application of directed information and
+causal conditioning in fields other than communication such as
+horse-race gambling, stock investment with causal side information,
+a relation between causal MMSE estimation and directed information,
+extraction of energy using casual information from systems like
+Szilard engine and, finally, we will present how to measure causal
+dependency between sequences using the directed information.
+
+
+== Bio
+Haim Permuter received his B.Sc. (summa cum laude) from Ben-Gurion University (BGU) and Ph.D. from Stanford University, both in in Electrical Engineering, in 1997 and 2008, respectively. Between 1997-2004, he served as a scientific research officer in an R&D unit in the Israeli Defense Forces. In summer 2002 he worked for IBM, Almaden research center. He is a recipient of several rewards including Eshkol Fellowship, Wolf Award, Fulbright Fellowship, Stanford Graduate Fellowship, and Allon Fellowship. Haim joined the faculty of Electrical Engineering Department at BGU in Oct 2008, and is now an associate professor.

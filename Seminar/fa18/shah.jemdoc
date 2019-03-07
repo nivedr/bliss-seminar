@@ -1,0 +1,17 @@
+# jemdoc: menu{MENU}{shah.html}
+= Nihar Shah (CMU)
+
+Oct 26, 3-4PM, Cory 400.
+
+== Title and Abstract
+*Battling Demons in Peer Review* \n
+Peer review is the backbone of scholarly research. It is however faced with a number of challenges (or "demons") such as subjectivity, bias or miscalibration, noise, and strategic behavior. The growing number of submissions in many areas of research such as machine learning has significantly increased the scale of these demons. This talk will present some principled and practical approaches to battle these demons in peer review:
+(1) Subjectivity: How to ensure that all papers are judged by the same yardstick?
+(2) Bias or miscalibration: How to use ratings in presence of arbitrary or adversarial miscalibration?
+(3) Noise: How to assign reviewers to papers to simultaneously ensure fair and accurate evaluations in the presence of review noise?
+(4) Strategic behavior: How to insulate peer review from strategic behavior of author-reviewers?
+
+The work uses tools from statistics and learning theory, social choice theory, information theory, game theory and decision theory. (No prior knowledge on these topics will be assumed.)
+
+== Bio
+Nihar B. Shah is an Assistant Professor in the Machine Learning and Computer Science departments at CMU. He is a recipient of the the 2017 David J. Sakrison memorial prize from EECS Berkeley for a "truly outstanding and innovative PhD thesis", the Microsoft Research PhD Fellowship 2014-16, the Berkeley Fellowship 2011-13, the IEEE Data Storage Best Paper and Best Student Paper Awards for the years 2011/2012, and the SVC Aiya Medal 2010. His research interests include statistics, machine learning, information theory, and game theory, with a current focus on applications to learning from people.

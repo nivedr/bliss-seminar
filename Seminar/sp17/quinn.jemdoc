@@ -1,0 +1,12 @@
+# jemdoc: menu{MENU}{quinn.html}
+= Anthony Quinn (Dublin/Berkeley)
+
+Apr 6, 2017, 1-2pm, 531 Cory.
+
+== Title and Abstract
+* Fully Probabilistic Design for External Stochastic Knowledge Processing* \n
+Bayesian conditioning is the problem of consistent elicitation (i.e.design) of a probability model constrained by available knowledge. For a unique design, it is sufficient that a complete (i.e. joint) probability model be specified. In many contemporary contexts---notably in problems of Bayesian transfer learning, fusion in sensor networks, filtering, etc.---two related challenges typically arise: (i) the knowledge constraint (i.e. condition) is, itself, a partly or fully specified distribution; and (ii) a hierarchical model expressing the randomness or uncertainty in this condition is not available. The probability calculus does not prescribe a unique design for a model conditioned on such external stochastic knowledge. Subsidiary principles leading to copula-based and entropic designs, among others,  have long been available in such cases. The  normative Bayesian decision making approach is reviewed in this presentation. It yields a hierarchical model for the stochastic-knowledge-constrained distribution, allowing randomized draws of consistent conditional designs. Among the interesting specializations are (i) Boltzmann-type structures, with the classical entropic distributional estimate as the base measure; and (ii) mean-field-type relaxations of Bayes' rule. Some consequences of these results for signal processing and machine learning  are reviewed in the presentation, notably applications in coupled Kalman filters and centralized deliberation in a distributed sensor network.  
+
+
+== Bio
+Anthony Quinn has been  an associate professor in electronic and electrical engineering at Trinity College Dublin since 1993. Before that, he gained his primary degree from University College Dublin, and his PhD from the University of Cambridge.  He is currently a one-year Fulbright visiting scholar in the Statistics Department at UC Berkeley. He specializes in Bayesian methods for problems in signal processing, dynamic system analysis and distributed decision-making. He is particularly interested in problems of robust model choice, deterministic distributional approximation, and distributional design in incompletely modelled contexts, with applications in Bayesian transfer learning and distributed knowledge processing.

@@ -1,0 +1,17 @@
+# jemdoc: menu{MENU}{gu.html}
+= Yuantao Gu (Tsinghua)
+
+Feb 22, 1-2pm 540 Cory.
+
+== Title and Abstract
+*Restricted Isometry Property of Random Projection for Low-Dimensional Subspaces* \n
+Dimensionality reduction is in demand to reduce the complexity of solving large-scale problems with data lying in latent low-dimensional structures in machine learning and computer version. Motivated by such need, in this talk I will introduce the Restricted Isometry Property (RIP) of Gaussian random projections for low-dimensional subspaces in R^N, and prove that the projection Frobenius norm distance between any two subspaces spanned by the projected data in R^n for n<N remain almost the same as the distance between the original subspaces with probability no less than 1 - e^O(n).
+
+Previously the well-known Johnson-Lindenstrauss (JL) Lemma and RIP for sparse vectors have been the foundation of sparse signal processing including Compressed Sensing. As an analogy to JL Lemma and RIP for sparse vectors, this work allows the use of random projections to reduce the ambient dimension with the theoretical guarantee that the distance between subspaces after compression is well preserved.
+
+As a direct result of our theory, when solving the subspace clustering (SC) problem at a large scale, one may conduct SC algorithm on randomly compressed samples to alleviate the high computational burden and still have theoretical performance guarantee. Because the distance between subspaces almost remains unchanged after projection, the clustering error rate of any SC algorithm may keep as small as that conducting in the original space. Considering that our theory is independent of SC algorithms, this may benefit future studies on other subspace related topics.
+
+== Bio
+Yuantao Gu received the B.E. degree from Xi'an Jiaotong University in 1998, and the Ph.D. degree with honor from Tsinghua University in 2003, both in Electronic Engineering. He joined the faculty of Tsinghua University in 2003 and is now a Tenured Associate Professor with Department of Electronic Engineering. He was a visiting scientist at Microsoft Research Asia in 2005-2006, Research Laboratory of Electronics at Massachusetts Institute of Technology in 2012-2013, and Department of Electrical Engineering and Computer Science at the University of Michigan in Ann Arbor in 2015. His research interests include high-dimensional statistics, sparse signal recovery, temporal-space and graph signal processing, related topics in wireless communications and information networks.
+
+He has been an Associate Editor of the IEEE Transactions on Signal Processing since 2015, a Handling Editor for EURASIP Digital Signal Processing since February 2015, and an Elected Member of the IEEE Signal Processing Theory and Methods (SPTM) Technical Committee since 2017. He received the Best Paper Award of IEEE GlobalSIP 2015 Conference, the Best Presentation Award of Journal Paper of IEEE ChinaSIP 2015 Conference, and Zhang Si-Ying CCDC Outstanding Youth Paper Award (with his student) in 2017.

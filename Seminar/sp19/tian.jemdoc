@@ -1,0 +1,11 @@
+# jemdoc: menu{MENU}{tian.html}
+= Yuandong Tian (FAIR)
+
+March 4.
+
+== Title and Abstract
+*Reproducing AlphaZero: what we learn* \n
+We reproduce and open source AlphaGoZero or AlphaZero framework using 2000 GPUs and 9 days, achieving super-human performance of Go AI that beats 4 top-30 professional players with 20-0, provide extensive ablation studies and perform basic analysis. In this talk we will share our journey and interesting first-hand experience that makes a large-scale RL system work. Hopefully it will spur future research both practically and theoretically.
+
+== Bio
+Yuandong Tian is a Research Scientist and Manager in Facebook AI Research, working on deep reinforcement learning and its applications in games, and theoretical analysis of deep models. He is the lead scientist and engineer for ELF OpenGo and DarkForest Go project. Prior to that, he was a researcher and engineer in Google Self-driving Car team in 2013-2014. He received Ph.D in Robotics Institute, Carnegie Mellon University on 2013, Bachelor and Master degree of Computer Science in Shanghai Jiao Tong University. He is the recipient of 2013 ICCV Marr Prize Honorable Mentions.

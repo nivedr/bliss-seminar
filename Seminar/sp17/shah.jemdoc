@@ -1,0 +1,11 @@
+# jemdoc: menu{MENU}{shah.html}
+= Nihar Shah (Berkeley)
+
+May 8, 2017.
+
+== Title and Abstract
+*Learning from People* \n
+Learning from people represents a new and expanding frontier for data science. Two critical challenges in this domain are of developing algorithms for robust learning and designing incentive mechanisms for eliciting high-quality data. In this talk, I describe progress on these challenges in the context of two canonical settings, namely those of ranking and classification. In addressing the first challenge, I introduce a class of "permutation-based" models that are considerably richer than classical models, and present algorithms for estimation that are both rate-optimal and significantly more robust than prior state-of-the-art methods. I also discuss how these estimators automatically adapt and are simultaneously also rate-optimal over the classical models, thereby enjoying a surprising a win-win in the bias-variance tradeoff. As for the second challenge, I present a class of "multiplicative" incentive mechanisms, and show that they are the unique mechanisms that can guarantee honest responses. Extensive experiments on a popular crowdsourcing platform reveal that the theoretical guarantees of robustness and efficiency indeed translate to practice, yielding several-fold improvements over prior art.
+
+== Bio
+Nihar B. Shah is a PhD candidate in the EECS department at the University of California, Berkeley. He is the recipient of the Microsoft Research PhD Fellowship 2014-16, the Berkeley Fellowship 2011-13, the IEEE Data Storage Best Paper and Best Student Paper Awards for the years 2011/2012, and the SVC Aiya Medal from the Indian Institute of Science for the best master’s thesis in the department. His research interests include statistics and machine learning, with a current focus on applications to learning from people.

@@ -1,0 +1,11 @@
+# jemdoc: menu{MENU}{ozgur.html}
+= Ayfer Ozgur (Stanford)
+
+Apr 17, 2017.
+
+== Title and Abstract
+*Cover’s Open Problem: Capacity of the Relay Channel* \n
+Formulating the problem of determining the communication capacity of channels as a problem in high-dimensional geometry is one of Shannon’s most important insights that has led to the conception of information theory. In his classical paper “Communication in the presence of noise”, 1949, Shannon develops a geometric representation of any point-to-point communication system and provides a geometric proof of the coding theorem for the AWGN channel, where the converse is based on a sphere-packing argument in high-dimensional space. We show that a similar geometric approach can be used to prove converses for network communication problems. In particular, we solve the Gaussian version of a long-standing open problem posed by Cover and named “The Capacity of the Relay Channel,” in Open Problems in Communication and Computation, Springer-Verlag, 1987.  This problem corresponds to characterizing the capacity of the relay channel at one special operating point. The key step in our proof is a strengthening of the isoperimetric inequality on a high-dimensional sphere, which we use to develop a packing argument on a spherical cap, similar to Shannon's original approach. 
+ 
+== Bio
+Ayfer Ozgur received her B.Sc. degrees in electrical engineering and physics from Middle East Technical University, Turkey, in 2001 and the M.Sc. degree in communications from the same university in 2004. From 2001 to 2004, she worked as hardware engineer for the Defense Industries Development Institute in Turkey. She received her Ph.D. degree in 2009 from the Information Processing Group at EPFL, Switzerland. In 2010 and 2011, she was a post-doctoral scholar with the Algorithmic Research in Network Information Group at EPFL. She is currently an Assistant Professor in the Electrical Engineering Department at Stanford University. Her research interests include network communications, wireless systems, and information and coding theory. Dr. Ozgur received the EPFL Best Ph.D. Thesis Award in 2010 and a NSF CAREER award in 2013.

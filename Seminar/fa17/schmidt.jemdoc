@@ -1,0 +1,14 @@
+# jemdoc: menu{MENU}{schmidt.html}
+= Ludwig Schmidt (MIT)
+
+Oct 30, 2017, Soda 380.
+
+== Title and Abstract
+*Efficiently Optimizing over (Non-Convex) Cones Using Approximate Projections* \n
+
+Constrained optimization is ubiquitous in machine learning, statistics, and signal processing. While projected gradient descent is usually an effective algorithm for solving constrained optimization problems at scale, the projection operator is often the computational bottleneck, especially for complicated constraints. To circumvent this limitation, we introduce a new variant of projected gradient descent that requires only approximate projections. Our variant enables us to leverage a large body of work on approximation algorithms and solve statistical estimation problems where an exact projection onto the constraint set is NP-hard.
+
+Based on joint work with Michael Cohen, Chinmay Hegde, Piotr Indyk, and Stefanie Jegelka.
+
+== Bio
+Ludwig Schmidt is a PhD student at MIT (advised by Piotr Indyk) and will be a postdoc at UC Berkeley starting in spring 2018. Ludwig’s research interests revolve around algorithmic aspects of machine learning, statistics, and signal processing. Ludwig received a Google PhD Fellowship in machine learning, a Simons-Berkeley research fellowship, and a best paper award at the International Conference on Machine Learning (ICML).

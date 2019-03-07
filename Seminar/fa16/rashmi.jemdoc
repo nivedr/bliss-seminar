@@ -1,0 +1,18 @@
+# jemdoc: menu{MENU}{zou.html}
+= Rashmi Vinayak (Berkeley)
+
+Aug 31, 2016, 2-3pm; 380 Soda
+
+== Title and Abstract
+*Erasure Coding for Big-data Systems: Theory and Practice* \n
+Erasure codes are being increasingly deployed as an alternative to data replication in large-scale, distributed storage systems to achieve fault tolerance in a storage-efficient manner. While traditional erasure codes are optimal in utilizing storage space, they significantly increase the usage of other important resources such as network, I/O, and CPU. 
+
+In the first part of this thesis, we construct new erasure codes as well as design and build erasure-coded storage systems that reduce the usage of network, I/O, and CPU by a significant amount while not compromising on storage efficiency. The codes proposed in this thesis have been evaluated on Facebook's data warehouse cluster in production, and will be a part of the next release of the Apache Hadoop Distributed File System (HDFS). 
+
+In the second part of this thesis, we explore new avenues for erasure coding in big-data systems. Erasure codes have been primarily employed for achieving space-efficient fault tolerance in disk-based storage systems, that is, to durably store "cold'' (less-frequently accessed) data. We explore the applicability of erasure codes beyond this setting, in particular for "hot'' (more-frequently accessed) data by showing how erasure coding can be employed to improve load balancing (by more than 3x), and to reduce latencies (by more than 2x) in data-intensive cluster caches.
+
+This is the speaker’s dissertation talk.
+
+
+== Bio
+Rashmi K. Vinayak is a PhD candidate in the EECS department at UC Berkeley. Her research interests lie in the theoretical and system challenges that arise in storage and analysis of big data, with a current focus on erasure coding for big-data systems. She is a recipient of the IEEE Data Storage Best Paper and Best Student Paper Awards for 2011 and 2012, the Eli Jury Award 2016, the Facebook Fellowship 2012-13, the Microsoft Research PhD Fellowship 2013-15, and the Google Anita Borg Memorial Scholarship 2015-16.

@@ -1,0 +1,11 @@
+# jemdoc: menu{MENU}{wymeersch.html}
+= Henk Wymeersch (Chalmers)
+
+11am-12pm, Nov 14, Cory 400.
+
+== Title and Abstract
+*5G Positioning for Connected Vehicles* \n
+Positioning of devices using radio-frequency signals has been realized in a variety of dedicated systems, including LORAN-C and GPS for outdoor positioning, as well as ultra-wide band and WiFi for indoor positioning. A cheaper solution is offered through cellular radio signals, but suffer from low accuracy. Consequently, their main application has been limited to the (mandatory) localization of emergency calls. With the introduction of 5G, we believe that a new era for cellular positioning is coming. Thanks to the technological components of 5G (i.e., the use of large carrier frequencies, large bandwidths, large antenna arrays, network densification, and device-to-device communication) 5G systems can be the first generation offering high-accuracy localization, together with high coverage while maintaining low cost. This talk will describe the main benefits of 5G from a positioning perspective, and show it can lead to radically new designs. We focus on tracking of vehicles using downlink signals from a single 5G base station in a dense multipath environment, considering aspects of synchronization, heading estimation, map building and map exploitation.
+
+== Bio 
+Henk Wymeersch is a Professor in Communication Systems with the Department of Electrical Engineering at Chalmers University of Technology, Sweden. He is also affiliated with the FORCE research center on fiber-optic communication. Prior to joining Chalmers, he was a Postdoctoral Associate during 2006-2009 with the Laboratory for Information and Decision Systems at the Massachusetts Institute of Technology. Henk Wymeersch obtained the Ph.D. degree in Electrical Engineering/Applied sciences in 2005 from Ghent University, Belgium. He served as Associate Editor for IEEE Transactions on Communications (2016-2018), IEEE Transactions on Wireless Communications (2013-present), and IEEE Communication Letters (2009-2013). He served as Guest Editor for several special issues on radio localization and as General Chair of the 2015 International Conference on Localization and GNSS. His research interests include cooperative networks, radio-based localization and mapping, and intelligent transportation.

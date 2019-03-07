@@ -1,0 +1,13 @@
+# jemdoc: menu{MENU}{zou.html}
+= James Zou (MSR/ MIT)
+
+Jan 25, 2016.
+
+== Title and Abstract
+*Quantifying and reducing bias in data exploration using information theory* \n
+Modern data is messy and high-dimensional, and it is often not clear a priori what to look for. Instead, a human or an analysis algorithm needs to explore the data to identify interesting hypotheses to test. It is widely recognized that this exploration, even when well-intentioned, can lead to statistical biases and false discoveries. We propose a general framework using mutual information to quantify and provably bound the bias (and other properties) of arbitrary data exploration processes. We show that our bound is tight in natural settings, and apply it to characterize conditions under which common analytic practices, e.g. rank selection, LASSO and hold-out sets, do or do not lead to substantially biased estimation. Finally we show how, by viewing bias through this information lens, we can derive randomization approaches that effectively reduce false discoveries. 
+
+This is joint work with Daniel Russo (MSR).
+
+== Bio
+James Zou works on machine learning and computational biology at Microsoft Research New England and MIT. He received his Ph.D. from Harvard University in May 2014 and also spent half time at the Broad Institute, supported by a NSF Graduate Fellowship. Before this, he completed Part III in Mathematics at the University of Cambridge on a Gates Scholarship. In Spring 2014, he was a Simons research fellow at U.C. Berkeley.

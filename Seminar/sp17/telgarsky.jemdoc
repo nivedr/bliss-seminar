@@ -1,0 +1,11 @@
+# jemdoc: menu{MENU}{telgarsky.html}
+= Matus Telgarsky (UIUC)
+
+Mar 13, 2017, 3-4pm 540 Cory.
+
+== Title and Abstract
+*Logistic regression convergence rates for stochastic gradient descent without boundedness* \n
+The goal of this talk is to prove that stochastic gradient descent (sgd) converges with high probability to something meaningful in the task of logistic regression without any constraints or regularization, in a regime where iterate norms may grow without bound.  In this regime, it is shown that the dual iterates --- and hence the logistic probability outputs --- always converge to the dual optimum.  If a certain margin property of the distribution is large, then the dual rate is O(t^{-1/4}), and the (primal) risk also converges at a rate O(t^{-1/2}).  It is also shown that a modified algorithm --- not sgd, but still performing one pass of the data and using O(d^2) storage --- similarly always converges, and under the same margin property has dual rate O(t^{-1/2}) and primal rate O(t^{-1}).  By contrast, existing analyses in these regimes do not appear to be better than O(1)$.
+
+== Bio
+Matus Telgarsky obtained his PhD in Computer Science from UCSD in 2013 under Sanjoy Dasgupta; while there, his research focused primarily upon optimization and statistical aspects of unconstrained and unregularized algorithms (e.g., boosting), and to a lesser extent, clustering. He then served as a postdoctoral researcher at Rutgers University and the University of Michigan, as well as a consulting researcher at Microsoft Research in New York City. Since fall 2016, he has been an assistant professor at the University of Illinois, Urbana-Champaign; his most recent interests are representation and nonconvex optimization.

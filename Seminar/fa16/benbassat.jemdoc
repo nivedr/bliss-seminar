@@ -1,0 +1,17 @@
+# jemdoc: menu{MENU}{benbassat.html}
+= Ilan Ben Bassat (Tel Aviv)
+
+Sep 19, 2016. 3-4PM, Cory 400.
+
+== Title and Abstract
+*Hashing and Sampling Techniques for Genome Assembly* \n
+New sequencing technologies generate larger amounts of data at decreasing costs. De novo sequence assembly is the problem of combining these reads back to the original genome sequence, without relying on a reference genome. This presents algorithmic and computational challenges, especially for long and repetitive genome sequences. 
+
+One of the main paradigms of gnome assembly is the Overlap-Layout-Consensus approach. Assemblers of that kind process the raw sequence data by traversing a graph that captures the overlaps between the reads (overlap graph). Although an extensive research in this area has been conducted in the past two decades, there is a constant need to optimize the performance of existing assemblers.
+
+In the first part of the talk we will describe a simple approach for constructing a lightweight version of an overlap graph, based on special hash functions and Bloom filters. 
+
+In the second part we will discuss how to use sampling in order to improve the assembly of Clustered Regularly Interspaced Short Palindromic Repeats (CRISPR), a fascinating bacterial immune mechanism against phages. Our algorithm involves a series of partial constructions of the overlap graph, and it avoids part of the difficulties that other assemblers face when dealing with genomic repeats.
+
+== Bio
+Ilan Ben-Bassat is a PhD student at the School of Computer Science of Tel-Aviv University, under the supervision of Prof. Benny Chor. His research focuses in designing computational methods for deep-sequencing data analysis. Ilan holds MSc degree and BSc degree in Computer science, both of which from Tel-Aviv University. He is currently a visiting researcher student in California Institute of Technology (Caltech), hosted by Prof. Jehoshua (Shuki) Bruck. His current project explores how to better model human creative thinking.

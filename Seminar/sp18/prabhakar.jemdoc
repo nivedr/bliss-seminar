@@ -1,0 +1,11 @@
+# jemdoc: menu{MENU}{prabhakar.html}
+= Balaji Prabhakar (Stanford)
+
+Apr 2.
+
+== Title and Abstract
+*Self-Programming Networks: Architecture and Algorithms* \n
+In this talk, we describe Self-Programming Networks (SPNs), an ongoing research effort at Stanford for making cloud computing networks autonomous; that is, to enable networks to sense and monitor themselves, and program and control themselves. We present the architecture of SPNs and two key algorithms: (i) Simon, for fine-grained network measurement using packet and probe timestamps taken at the network’s edge, and (ii) Huygens, for nanosecond-level clock synchronization in real-time and at scale. We will focus on Huygens and present results from some deployments. 
+
+== Bio
+Balaji Prabhakar is VMWare Founders Professor of Computer Science and faculty member in the departments of electrical engineering and computer science at Stanford.  He’s interested in cloud computing platforms and data center networks, and leads the Self-Programming Networks research group at Stanford with Mendel Rosenblum.  He’s also worked on Societal Networks, developing “nudge engines” and big data platforms for transportation systems, wellness programs and corporate learning.  He is a Fellow of the Alfred P. Sloan Foundation, IEEE and ACM. He has received the NSF CAREER award, the Erlang Prize, the Rollo Davidson Prize, and delivered the Lunteren Lectures. He is the inaugural recipient of the IEEE Innovation in Societal Infrastructure Award which recognizes "significant technological achievements and contributions to the establishment, development and proliferation of innovative societal infrastructure systems”.  

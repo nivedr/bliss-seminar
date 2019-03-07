@@ -1,0 +1,11 @@
+# jemdoc: menu{MENU}{cuturi.html}
+= Marco Cuturi (Kyoto Univ.)
+
+Mar 16, 2016.
+
+== Title and Abstract
+*Regularized Optimal Transport and Applications* \n
+Optimal transport (OT) theory provides geometric tools to compare probability measures. After reviewing the basics of OT distances (a.k.a Wasserstein or Earth Mover's), I will show how an adequate regularization of the OT problem can result in substantially faster (GPU parallel) and much better behaved (strongly convex) numerical computations. I will then show how this regularization can enable several applications of OT to learn from probability measures, from the computation of barycenters to that of dictionaries and PCA, all carried out using the Wasserstein geometry. I will conclude with some ongoing work on applications of OT to parameter estimation and inverse problems.
+
+== Bio
+Marco Cuturi received his Ph.D. under the supervision of Jean-Philippe Vert in 11/2005 from the Ecole des Mines de Paris. He has held post-doctoral positions in the Institute of Statistical Mathematics (Tokyo) and Princeton University, worked in the financial industry for 2 years, and is currently associate professor in the Graduate School of Informatics, Kyoto University. His research interests include optimization and optimal transportation in particular; machine learning, notably metric and kernel based approaches.

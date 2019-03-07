@@ -1,0 +1,14 @@
+# jemdoc: menu{MENU}{nowak.html}
+= Rob Nowak (UW Madison)
+
+4-5pm, Mar 30, 2017, Cory 531.
+
+== Title and Abstract
+* Ordinal Embedding* \n
+Modeling human perceptions has many applications in cognitive, social, and educational science, as well as in advertising and commerce.  I will discuss our ongoing work on ordinal embedding, also known as non-metric multidimensional scaling, which is the problem of representing items (e.g., images) as points in a low-dimensional Euclidean space given constraints of the form "item i is closer to item j than item k.” In other words, the goal is to find a geometric representation of data that is faithful to comparative similarity judgments. This classic problem is often used to gauge and visualize perceptual similarities. A variety of algorithms exist for learning metric embeddings from comparison data, but the accuracy and performance of these methods were poorly understood.  I will present a new theoretical framework that quantifies the accuracy of learned embeddings and indicates how many comparisons suffice as a function of the number of items and the dimension of the embedding.  This theory also points to new algorithms that outperform previously proposed methods. I will also describe a few applications of ordinal embedding.
+
+
+This joint work with Lalit Jain, Kevin Jamieson, and Blake Mason.
+
+== Bio
+Rob is the McFarland-Bascom Professor in Engineering at the University of Wisconsin-Madison, where his research focuses on signal processing, machine learning, optimization, and statistics. Rob is a professor in Electrical and Computer Engineering, as well as being affiliated with the departments of Computer Sciences, Statistics, and Biomedical Engineering at the University of Wisconsin.  He is also a Fellow of the IEEE and the Wisconsin Institute for Discovery, a member of the Wisconsin Optimization Research Consortium and Machine Learning @ Wisconsin, and organizer of the SILO seminar series.  Rob is also an Adjoint Professor at the Toyota Technological Institute at Chicago.

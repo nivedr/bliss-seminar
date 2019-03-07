@@ -1,0 +1,17 @@
+# jemdoc: menu{MENU}{goldfeld.html}
+= Ziv Goldfeld (Ben-Gurion)
+
+Feb 8, 2017.\n
+2-3pm, 400 Cory.
+
+== Title and Abstract
+*Semantic security versus active adversaries and wiretap channels with random parameters* \n
+Physical Layer Security (PLS) guarantees protection against computationally-unlimited eavesdroppers without using a key. These guarantees come at the price of an unrealistic assumption that the eavesdropper's channel is fully known to the legitimate parties. Furthermore, typical PLS metrics are incompatible with the features of the data they are designed to protect. For these reasons, PLS has found limited use in practice despite its various benefits. By means of a novel and stronger version of Wyner's soft-covering lemma, we upgrade IT security proofs to the stronger and more practically viable semantic-security  metric, while removing the `known eavesdropper channel' assumption. As applications we derive the semantic-security capacity of the type constrained arbitrarily varying wiretap channel (WTC), and as its special case, solve the problem of the WTC of type II with a noisy main channel -  a problem by Ozarow and Wyner that was open since 1984. The scenario where the state sequence is random (rather than arbitrary) is also considered. We construct a simple semantically-secure superposition code that strictly outperforms the best previously known achievable rates. The construction implicitly includes a key agreement phase (by means of the random and i.i.d. state sequence) that is crucial for the aforementioned improvement.
+
+
+== Bio
+Ziv Goldfeld received his B.Sc. and M.Sc. (both summa cum laude) degrees in Electrical and Computer Engineering from the Ben-Gurion University, Israel, in 2012 and 2014, respectively. He is currently a Ph.D. candidate in his last year of the direct Ph.D. program for honor students in Electrical and Computer Engineering at that same institution supervised by Prof. Haim Permuter.
+
+In 2014 Ziv was awarded the IEEE 28-th Convention of Electrical and Electronics Engineers in Israel best student paper award for his work titled “Semi-Deterministic Broadcast Channels with Cooperation”.
+
+Ziv is a recipient of several awards, among them a Feder Award, the Lev-Zion fellowship, a Minerva Short-Term Research Grant (MRG), Dean's List Award and the Basor Fellowship for honor students in the direct Ph.D. program.

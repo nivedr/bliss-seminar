@@ -1,0 +1,35 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN"
+  "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head>
+<meta name="generator" content="jemdoc, see http://jemdoc.jaboc.net/" />
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+<link rel="stylesheet" href="jemdoc.css" type="text/css" />
+<title>Dimitris Papailiopoulos (Berkeley)</title>
+</head>
+<body>
+<table summary="Table for page layout." id="tlayout">
+<tr valign="top">
+<td id="layout-menu">
+<div class="menu-item"><a href="../index.html">Seminar&nbsp;home</a></div>
+<div class="menu-item"><a href="../past.html">Past&nbsp;Talks</a></div>
+</td>
+<td id="layout-content">
+<div id="toptitle">
+<h1>Dimitris Papailiopoulos (Berkeley)</h1>
+</div>
+<p>Apr 18, 2016.</p>
+<h2>Title and Abstract</h2>
+<p><b>Less Talking, More Learning: Avoiding Coordination In Parallel Machine Learning Algorithms</b> <br />
+The recent success of machine learning (ML) in both science and industry has generated an increasing demand to support ML algorithms at scale. In this talk, I will discuss strategies to gracefully scale machine learning on modern parallel computational platforms. A common approach to such scaling is coordination-free parallel algorithms, where individual processors run independently without communication, thus maximizing the time they compute. However, analyzing the performance of these algorithms can be challenging, as they often introduce race conditions and synchronization problems.
+In this talk, I will introduce a general methodology for analyzing asynchronous parallel algorithms. The key idea is to model the effects of core asynchrony as noise in the algorithmic input.  This allows us to understand the performance of several popular asynchronous machine learning approaches, and to determine when asynchrony effects might overwhelm them.  To overcome these effects, I will propose a new framework for parallelizing ML algorithms, where all memory conflicts and race conditions can be completely avoided. I will discuss the implementation of these ideas in practice, and demonstrate that they outperform the state-of-the-art across a large number of machine learning tasks</p>
+<div id="footer">
+<div id="footer-text">
+Page generated 2016-07-26 10:55:25 PDT, by <a href="http://jemdoc.jaboc.net/">jemdoc</a>.
+</div>
+</div>
+</td>
+</tr>
+</table>
+</body>
+</html>

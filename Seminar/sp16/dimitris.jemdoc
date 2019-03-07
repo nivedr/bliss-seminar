@@ -1,0 +1,9 @@
+# jemdoc: menu{MENU}{dimitris.html}
+= Dimitris Papailiopoulos (Berkeley)
+
+Apr 18, 2016.
+
+== Title and Abstract
+*Less Talking, More Learning: Avoiding Coordination In Parallel Machine Learning Algorithms* \n
+The recent success of machine learning (ML) in both science and industry has generated an increasing demand to support ML algorithms at scale. In this talk, I will discuss strategies to gracefully scale machine learning on modern parallel computational platforms. A common approach to such scaling is coordination-free parallel algorithms, where individual processors run independently without communication, thus maximizing the time they compute. However, analyzing the performance of these algorithms can be challenging, as they often introduce race conditions and synchronization problems.
+In this talk, I will introduce a general methodology for analyzing asynchronous parallel algorithms. The key idea is to model the effects of core asynchrony as noise in the algorithmic input.  This allows us to understand the performance of several popular asynchronous machine learning approaches, and to determine when asynchrony effects might overwhelm them.  To overcome these effects, I will propose a new framework for parallelizing ML algorithms, where all memory conflicts and race conditions can be completely avoided. I will discuss the implementation of these ideas in practice, and demonstrate that they outperform the state-of-the-art across a large number of machine learning tasks.

@@ -1,0 +1,11 @@
+# jemdoc: menu{MENU}{kamath.html}
+= Gautam Kamath (Simons)
+
+Feb 25.
+
+== Title and Abstract
+*Privately Learning High-Dimensional Distributions* \n
+We present novel, computationally efficient, and differentially private algorithms for two fundamental high-dimensional learning problems: learning a multivariate Gaussian in R^d and learning a product distribution in {0,1}^d in total variation distance. The sample complexity of our algorithms nearly matches the sample complexity of the optimal non-private learners for these tasks in a wide range of parameters. Thus, our results show that private comes essentially for free for these problems, providing a counterpoint to the many negative results showing that privacy is often costly in high dimensions. Our algorithms introduce a novel technical approach to reducing the sensitivity of the estimation procedure that we call recursive private preconditioning, which may find additional applications. Based on joint work with Jerry Li, Vikrant Singhal, and Jonathan Ullman.
+
+== Bio
+Gautam Kamath is a Microsoft Research Fellow at the Simons Institute for the Theory of Computing, as part of the Data Science program in Fall 2018 and the Data Privacy program in Spring 2019. He completed his Ph.D. at the Massachusetts Institute of Technology in 2018, where he was advised by Constantinos Daskalakis. He will be starting as an assistant professor at the University of Waterloo in July 2019. His research focuses on principled tools for statistical data science, with a focus on settings which are common in settings of modern data analysis (high-dimensions, robustness, and privacy).

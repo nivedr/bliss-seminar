@@ -1,0 +1,15 @@
+# jemdoc: menu{MENU}{wright.html}
+= John Wright (Columbia)
+
+Mar 9, 2-3PM, 540 Cory.
+
+== Title and Abstract
+*Nonconvex Sparse Deconvolution: Geometry and Efficient Methods* \n
+The problem of decomposing a given dataset as a superposition of basic motifs arises in a wide range of application areas, including neural spike sorting and the analysis of astrophysical and microscopy data. Motivated by these problems, we study a ``short-and-sparse’’ deconvolution problem, in which the goal is to recover a short motif a from its convolution with a random spike train x. We formulate this problem as optimization over the sphere. We analyze the geometry of this (nonconvex) optimization problem, and argue that when the target spike train is sufficiently sparse, then on a region of the sphere, every local minimum is equivalent to the ground truth, up to symmetry (here a signed shift). This characterization obtains, e.g., for generic kernels of length k, when the sparsity rate of the spike train is proportional to k^{-2/3} (i.e., roughly k^{1/3} spikes in each length-k window). This geometric characterization implies that efficient methods obtain the ground truth under the same conditions. 
+
+Our analysis highlights the key roles of symmetry and negative curvature in the behavior of efficient methods. We sketch connections to broader families of “benign” nonconvex problems in data representation and imaging, in which efficient methods obtain global optima independent of initialization. We describe experiments in computer vision and scanning tunneling microscopy, where nonconvex optimization supports new data analysis and data acquisition strategies.
+
+Joint work with Yuqian Zhang, Yenson Lau, Han-Wen Kuo, Dar Gilboa, Sky Cheung, Abhay Pasupathy.
+
+== Bio
+John Wright is an Associate Professor in the Electrical Engineering Department at Columbia University, and a member of Columbia’s Data Science Institute. He received his PhD in Electrical Engineering from the University of Illinois at Urbana-Champaign in 2009, and was with Microsoft Research from 2009-2011. His research is in the area of high-dimensional signal and data analysis, optimization, and computer vision. His work has received a number of awards and honors, including the 2009 Lemelson-Illinois Prize for Innovation for his work on face recognition, the 2009 UIUC Martin Award for Excellence in Graduate Research, and a 2008-2010 Microsoft Research Fellowship, and the Best Paper Award from the Conference on Learning Theory (COLT) in 2012, the 2015 PAMI TC Young Researcher Award.

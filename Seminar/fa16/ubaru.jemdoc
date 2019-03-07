@@ -1,0 +1,13 @@
+# jemdoc: menu{MENU}{zou.html}
+= Shashanka Ubaru (University of Minnesota)
+
+Aug 22, 2016.
+
+== Title and Abstract
+*Using error correcting codes for low rank approximation of large matrices and group testing* \n
+Low  rank  approximation  is  an  important  tool  used  in  many  applications  of  signal  processing  and  machine learning. Recently, randomized sketching algorithms were proposed to effectively construct low rank approximations and obtain approximate singular value decompositions of large matrices. In the first part of this  talk,  we  will discuss  how  matrices  from  error  correcting  codes  can  be  used  to  find  such low  rank  approximations  and  matrix  decompositions,  and  extend  the  framework  to  linear  least  squares  regression problems. The theoretical results that establish the desired approximation guarantees will be discussed, including the various benefits of these code matrices over other sampling matrices in different computational environments.
+
+Despite a large volume of research in group testing, explicit small-size group testing schemes are still difficult to construct. In the second part of this  talk,  we  will discuss an experimental study of almost disjunct matrices constructed from low-weight codewords of binary BCH codes, and evaluate their performance in nonadaptive group testing. Estimates of the error probability of identification in these constructed schemes which provides a partial explanation of their performance will also be discussed. 
+
+== Bio
+Shashanka Ubaru is a Ph.D student in the Department of Computer Science and Engineering, at University of Minnesota (UMN), advised by Prof. Yousef Saad. He also works with Prof. Arya Mazumdar, who co-advised his master's thesis. His research interests are in Numerical Linear Algebra, Machine Learning and Signal Processing. In particular, he is interested in the use of computational linear algebra tools for solving problems related to machine learning, data analysis and signal processing. He is also interested in the applications of error correcting codes in machine learning, and in material informatics.

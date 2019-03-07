@@ -1,0 +1,13 @@
+# jemdoc: menu{MENU}{gabriel.html}
+= Carl-Johann Simon-Gabriel (Tubingen)
+
+Aug 29, 2016, 3-4pm; 400 Cory Hall
+
+== Title and Abstract
+*Kernel Mean Embeddings: a Quick Guided Tour* \n
+Kernel mean embeddings have recently attracted the attention of the machine learning community. They map probability measures to functions in a reproducing kernel Hilbert space (RKHS) with kernel k. The RKHS distance of two mapped measures is a semi-metric dk over the set of probability measures, which is now commonly used to design very effective two-sample and independence tests (eg., MMD and HSIC). It is a (non degenerate) metric whenever the kernel mean embedding is injective, in which case k is said characteristic.
+
+After a brief introduction to kernel mean embeddings and to their use, we will see that dk metrizes the weak convergence of probability measures whenever k is continuous and characteristic. We will then systematically link characteristic kernels to the more traditional notions of universal and/or strictly positive definite kernels. These links will show that many kernel mean embeddings can be extended to embed (injectively!) spaces of Schwartz-distributions, i.e. generalized measures.
+
+== Bio
+After his master in "Geostatistics and Applied Probabilities" from Mines Paristech (France), Carl-Johann Simon-Gabriel joined Bernhard Schölkopf's group (Empirical Inference Department, Max Planck Institute for Intelligent Systems, Tübingen, Germany) in 2013 to work as a PhD student on both causal inference and kernel methods.

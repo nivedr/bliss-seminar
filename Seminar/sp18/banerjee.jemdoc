@@ -1,0 +1,12 @@
+# jemdoc: menu{MENU}{banerjee.html}
+= Sid Banerjee (Cornell)
+
+Apr 16.
+
+== Title and Abstract
+*Allocating Resources, in the future* \n
+The online allocation of scarce resources is one of the canonical problems in operations, and more generally, in many fields of engineering. In this talk, I will re-examine basic online resource allocation, with the aim of building bridges between these problems and the ever-improving prediction tools. To this end, I will present a new Bayesian-learning inspired algorithm for online stochastic packing problems which achieves the first horizon and budget independent regret bounds for these settings. Surprisingly, the result stems from elementary underlying tools - LP sensitivity and basic concentration of measure.
+Joint work with Alberto Vera.
+
+== Bio
+Sid Banerjee is an assistant professor in the School of Operations Research and Information Engineering (ORIE) at Cornell. His research is on stochastic modeling, and the design of algorithms and incentives for large-scale systems. He got his PhD in ECE from UT Austin, following which he was a postdoctoral researcher in the Social Algorithms Lab at Stanford, as well as a technical consultant at Lyft.

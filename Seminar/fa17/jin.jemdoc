@@ -1,0 +1,14 @@
+# jemdoc: menu{MENU}{jin.html}
+= Chi Jin (Berkeley)
+
+Nov 20, 2017.
+
+== Title and Abstract
+*How to Escape Saddle Points More Efficiently* \n
+
+Saddle points are believed to cause problems in many modern nonconvex applications including learning deep neural networks. Are saddle points in practice indeed difficult to escape? Can gradient descent (or its variant) provably escape from those saddle points? If yes, more importantly, how fast? Can momentum help gradient descent escape even faster?
+
+This talk will first introduce the optimization landscape of common nonconvex problems such as matrix sensing/completion. We identify that in solving these problems, the most crucial step is to escape a general class of saddle points known as strict saddles. Then, this talk will focus on the algorithmic perspective and show that rather surprisingly, even without any Hessian information: (1) gradient descent augmented with suitable perturbations can already escape these saddle points very efficiently; indeed, in terms of rate and dimension dependence, it is almost as if the saddle points aren’t there; (2) a simple variant of Nesterov's accelerated gradient descent (which was previously known to be superior to gradient descent only in the convex setting) can escape saddle points at an even faster rate. Intuitions and novel analytical tools will also be presented.
+
+== Bio
+Chi Jin is a Ph.D. candidate in Computer Science at UC Berkeley, advised by Michael Jordan. He received B.S. in Physics from Peking University in 2012. His research primarily focuses on learning problems and optimization algorithms under non-convex setting. His interests also include statistical learning and representation learning.

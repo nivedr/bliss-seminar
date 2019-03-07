@@ -1,0 +1,17 @@
+# jemdoc: menu{MENU}{cassuto.html}
+= Yuval Cassuto (Technion)
+
+Dec 10.
+
+== Title and Abstract
+*Beyond Repair: Codes with Random Access* \n
+Data reliability and availability are the keystone features of every information system and device. Toward that, coding theory offers useful constructs, mostly for the problem of node/symbol repair.
+
+In the talk we present codes for system setups where both efficient access and extreme reliability are needed, and which are not addressed by existing codes for the repair problem. The new codes are designed for two access modes: one for random access to a code sub-block, and another for high reliability when the sub-block experiences severe error instances. We show how to design codes with random-access properties in both the algebraic-coding and graph (LDPC)-coding settings.
+
+== Bio
+Yuval Cassuto is an Associate Professor at the Department of Electrical Engineering, Technion -- Israel Institute of Technology.
+His research interests include coding theory, coding techniques for data storage, memory and storage architectures and algorithms, and data distribution in networks. He has served on the technical program committees of leading conferences in theory and in systems.
+During 2010-2011 he has been a Scientist at EPFL, the Swiss Federal Institute of Technology in Lausanne. From 2008 to 2010 he was a Research Staff Member at Hitachi Global Storage Technologies, San Jose Research Center. From 2000 to 2002, he was with Qualcomm, Israel R&D Center.
+He received the B.Sc degree in Electrical Engineering, summa cum laude, from the Technion, Israel Institute of Technology, in 2001, and the MS and Ph.D degrees in Electrical Engineering from the California Institute of Technology, in 2004 and 2008, respectively.
+Dr. Cassuto has won the 2010 Best Student Paper Award in Data Storage from the IEEE Communications Society, as well as the 2001 Texas Instruments DSP and Analog Challenge $100,000 prize.

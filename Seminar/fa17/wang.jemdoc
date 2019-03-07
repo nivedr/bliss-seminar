@@ -1,0 +1,15 @@
+# jemdoc: menu{MENU}{wang.html}
+= Shusen Wang (Berkeley)
+
+Nov 22, 2017, Cory 400.
+
+== Title and Abstract
+*Communication-Efficient Distributed Optimization via a 2nd-Order Method* \n
+
+The Globally Improved Approximate NewTon (GIANT) is a practical and sound second-order method for distributed optimization. GIANT is very communication-efficient: it has 6 communications per iteration, and it converges in a few iterations. Theoretically, we show that GIANT has more desirable convergence properties compared with other similar methods. We implement GIANT using Spark and conduct experiments on the Cori supercomputer. Empirical results demonstrate that GIANT is better than accelerated gradient descent, L-BFGS, and ADMM. Currently, our theory is limited to unconstrained problems with smooth and strongly convex objective function. Nevertheless, it can be extended to broader classes of problems.
+
+Joint work with Fred Roosta, Peng Xu, and Michael Mahoney.
+
+
+== Bio
+Shusen Wang is a postdoctoral scholar at Department of Statistics, UC Berkeley. His research interests are machine learning, randomized linear algebra, and distributed computing.

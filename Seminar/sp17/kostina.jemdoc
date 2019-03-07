@@ -1,0 +1,16 @@
+# jemdoc: menu{MENU}{kostina.html}
+= Victoria Kostina (Caltech)
+
+Feb 6, 2017.
+
+== Title and Abstract
+*Information-theoretic tradeoffs in control* \n
+Consider a distributed control problem with a communication channel connecting the observer of a linear stochastic system to the controller. The goal of the controller is to minimize a quadratic cost function in the state variables and control signal, known as the linear quadratic regulator (LQR). We study the fundamental tradeoff between the communication rate r bits/sec and the limsup of the expected cost b. 
+
+We consider an information-theoretic rate-cost function, which quantifies the minimum mutual information between the channel input and output, given the past, that is compatible with a target LQR cost. We provide a lower (converse) bound to the rate-cost function, which applies as long as the system noise has a probability density function, and which holds for a general class of codes that can take full advantage of the memory of the data observed so far and that are not constrained to have any particular structure. The rate-cost function has operational significance in multiple scenarios of interest: among other, it allows us to lower bound the minimum communication rate for fixed and variable length quantization, and for control over a noisy channel. 
+
+Perhaps surprisingly, the bound can be approached by a simple variable-length lattice quantization scheme, as long as the system noise satisfies a smoothness condition. The quantization scheme only quantizes the innovation, that is, the difference between the controller's belief about the current state and the encoder's state estimate. To prove that this simple scheme is almost as good as the optimum if the target cost is not too large, we derive a new nonasymptotic upper bound on the entropy of a lattice quantizer in terms of the Shannon lower bound to rate-distortion function and a smoothness parameter of the source.
+
+
+== Bio
+Victoria Kostina joined Caltech as an Assistant Professor of Electrical Engineering in the fall of 2014. She holds a Bachelor's degree from Moscow institute of Physics and Technology (2004), where she was affiliated with the Institute for Information Transmission Problems of the Russian Academy of Sciences, a Master's degree from University of Ottawa (2006), and a PhD from Princeton University (2013). She joined Caltech as an Assistant Professor of Electrical Engineering in the fall of 2014. Her PhD dissertation on information-theoretic limits of lossy data compression received Princeton Electrical Engineering Best Dissertation award.  She is also a recipient of Simons-Berkeley research fellowship (2015). Victoria Kostina's research spans information theory, coding, wireless communications and control.

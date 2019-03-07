@@ -1,0 +1,124 @@
+# jemdoc: menu{MENU}{past.html}
+= Past talks
+
+== Fall 2018
+~~~
+{}{table}{tlayout}
+Aug 27 | Jingbo Liu (MIT) | Reverse hypercontractivity beats measure concentration for information theoretic converses | [fa18/liu.html details] ||
+Sep 5 | Lav Varshney (UIUC) | Information-Theoretic Approaches to Clustering and Interpretable Concept Learning | [fa18/varshney.html details] ||
+Sep 10 | Maryam Fazel (UW Seattle) | Online Competitive Algorithms for Resource Allocation | [fa18/fazel.html details] ||
+Oct 2 | Yan Shuo Tan | Efficient algorithms for phase retrieval in high dimension | [fa18/tan.html details] ||
+Oct 10 | Uzi Pereg (Technion) | Arbitrarily Varying Broadcast and Relay Channels | [fa18/pereg.html details] ||
+Oct 15 | Ruoyu Sun (UIUC) | Understanding Landscape of Neural Networks for Binary Classification | [fa18/sun.html details] ||
+Oct 26 | Nihar Shah (CMU) |  Battling Demons in Peer Review | [fa18/shah.html details] ||
+Oct 29 | Deanna Needell (UCLA) | Iterative projective approaches for inconsistent and massively corrupted systems | [fa18/needell.html details] ||
+Nov 1 | Yingbin Liang (Ohio State) | SGD Converges to Global Minimum in Deep Learning via Star-Convex Path | [fa18/liang.html details] ||
+Nov 6 | Laura Balzano (Michigan) | Non-linear matrix completion | [fa18/balzano.html details] ||
+Nov 14 | Henk Wymeersch (Chalmers) | 5G Positioning for Connected Vehicles | [fa18/wymeersch.html details] ||
+Nov 26 | Mary Wootters (Stanford) | Two Stories about Group Testing | [fa18/wootters.html details] ||
+Dec 3 | Sreeram Kannan (UW Seattle) | Deconstructing the Blockchain to approach physical limits | [fa18/kannan.html details] ||
+Dec 10 | Yuval Cassuto (Technion)  | Beyond Repair: Codes with Random Access | [fa18/cassuto.html details] ||
+~~~
+
+== Spring 2018
+~~~
+{}{table}{tlayout}
+Jan 26 | Sivan Toledo (Tel-Aviv) | The ATLAS Reverse-GPS System: High-Throughput Wildlife Tracking | [sp18/toledo.html details] ||
+Feb 7 | Raymond Yeung (CUHK) | Shannon's Information Measures and Markov Structures | [sp18/yeung.html details] ||
+Feb 22 | Yuantao Gu (Tsinghua) | RIP of Random Projection for Low-Dimensional Subspaces | [sp18/gu.html details] ||
+Mar 9 | John Wright (Columbia) | Nonconvex Sparse Deconvolution: Geometry and Efficient Methods | [sp18/wright.html details] ||
+Mar 12 | Reinhard Heckel (Rice) | Robust Storage of Information in DNA Molecules | [sp18/heckel.html details] ||
+Mar 19 | R. Srikant (UIUC) | Queues, Balls and Bins, and Association | [sp18/srikant.html details] ||
+Mar 23 | Angie Wang (Berkeley) | An Agile Approach to FFTs and Hardware DSP Generation | [sp18/wang.html details] ||
+Apr 2 | Balaji Prabhakar (Stanford) | Self-Programming Networks: Architecture and Algorithms | [sp18/prabhakar.html details] ||
+Apr 9 | Bruce Hajek (UIUC) | Gene regulatory network reconstruction from high throughput sequencing data | [sp18/hajek.html details] ||
+Apr 12 | Jun Chen (McMaster) | From Gaussian Multiterminal Source Coding to Distributed
+Karhunen–Loève Transform | [sp18/chen.html details] ||
+Apr 16 | Sid Banerjee (Cornell) | Allocating Resources, in the Future | [sp18/banerjee.html details] ||
+Apr 23 | Inderjit Dhillon (A9) | Stabilizing Gradients for Deep Neural Networks | [sp18/dhillon.html details] ||
+Apr 30 | Leo Miolane (INRIA) | Phase transitions in generalized linear models | [sp18/miolane.html details] ||
+May 4 | Fanny Yang (Berkeley) | Computational guarantees for statistical learning algorithms | [sp18/fanny.html details] ||
+May 7 | Eva Tardos (Cornell) | Learning with Low Approximate Regret with Partial Feedback | [sp18/tardos.html details] ||
+~~~
+
+== Fall 2017
+~~~
+{}{table}{tlayout}
+Sep 25 | Stephen Wright (UW Madison) | Algorithmic Tools for Smooth Nonconvex Optimization | [fa17/wright.html details] ||
+Oct 2 | Stefanie Jegelka (MIT) | Submodularity and Optimal Transport in ML | [fa17/jegelka.html details] ||
+Oct 4 | Gerald Friedland (Berkeley) | Capacity Scaling of Neural Networks | [fa17/friedland.html details] ||
+Oct 9 | Zeyuan Allen-Zhu (Microsoft Research) | Optimal Experimental Design via Regret Minimization | [fa17/zeyuan.html details] ||
+Oct 16 | Yin Tat Lee (U. Washington) | Kannan-Lovasz-Simonovitz (KLS) conjecture | [fa17/yintat-lee.html details] ||
+Oct 23 | Sebastien Bubeck (Microsoft Research) | Sparsity, variance, and curvature in multi-armed bandits | [fa17/bubeck.html details] ||
+Oct 30 | Ludwig Schmidt (MIT) | Efficiently Optimizing over (Non-Convex) Cones Using Approximate Projections | [fa17/schmidt.html details] ||
+Nov 6 | Jiantao Jiao (Stanford) | Modern Estimation of Information Theoretic Functionals |  [fa17/jiao.html details] ||
+Nov 8 | Mina Karzand (MIT) | Regret bounds for a latent variable recommendation systems model | [fa17/karzand.html details] ||
+Nov 13 | Lieven Vandenberghe (UCLA) | Primal-dual first-order methods for convex optimization | [fa17/vandenberghe.html details] ||
+Nov 20 | Chi Jin (Berkeley) | How to Escape Saddle Points Efficiently | [fa17/jin.html details] ||
+Nov 22 | Shusen Wang (Berkeley) | Communication-Efficient Distributed Optimization via a 2nd-Order Method | [fa17/wang.html details]  ||
+Nov 27 | Philipp Walk (Caltech) | Blind Deconvolution Methods for Short Message Communications | [fa17/walk.html details] ||
+Dec 11 | Marco Mondelli (Stanford) | Fundamental Limits of Weak Recovery with Applications to Phase Retrieval | [fa17/mondelli.html details] ||
+~~~
+
+
+
+== Spring 2017
+~~~
+{}{table}{tlayout}
+Jan 30 | Vincent Poor (Princeton) | Network Analysis Problems Motivated by the Smart Grid | [sp17/poor.html details] ||
+Feb 6 | Victoria Kostina (Caltech) | Information-theoretic tradeoffs in control | [sp17/kostina.html details] ||
+Feb 8 | Ziv Goldfeld (Ben-Gurion) | Semantic security versus active adversaries | [sp17/goldfeld.html details] ||
+Feb 13 | Reinhard Heckel (Berkeley) | Active Ranking from Pairwise Comparisons | [sp17/heckel.html details] ||
+Feb 21 | Ilan Shomorony (Berkeley) | DNA Sequencing: From Information Limits to Assembly Software | [sp17/ilan.html details] ||
+Feb 27 | Haim Permuter (Ben-Gurion) | Causality and directed information | [sp17/permuter.html details] ||
+Mar 6 | Lele Wang (Stanford) | Graph information ratio | [sp17/wang.html details] ||
+Mar 13 | Matus Telgarsky (UIUC) | Logistic regression convergence rates | [sp17/telgarsky.html details] ||
+Mar 17 | Yuval Cassuto (Technion) | Coded Network Switches | [sp17/cassuto.html details] ||
+Mar 20 | Aditya Mahajan (McGill) | Fundamental limits of remote estimation | [sp17/mahajan.html details] ||
+Mar 30 | Rob Nowak (UW Madison) | Ordinal Embedding | [sp17/nowak.html details] ||
+Apr 3 | Amin Karbasi (Yale) | Cracking Big Data with Small Data | [sp17/karbasi.html details] ||
+Apr 6 | Anthony Quinn (Dublin/Berkeley) | Fully Probabilistic Design for External Stochastic Knowledge Processing | [sp17/quinn.html details] ||
+Apr 10 | Aaditya Ramdas (Berkeley) | Decentralized decision making on networks with false discovery rate control | [sp17/ramdas.html details] ||
+Apr 17 | Ayfer Ozgur (Stanford) | Cover’s Open Problem: “Capacity of the Relay Channel” | [sp17/ozgur.html details] ||
+Apr 20 | Carlee Joe-Wong (CMU) | Letting Go of Network Neutrality | [sp17/joewong.html details] ||
+Apr 24 | Suvrit Sra (MIT) | Geometric optimization: convex and nonconvex | [sp17/sra.html details] ||
+May 8 | Nihar Shah (Berkeley) | Learning from People | [sp17/shah.html details] ||
+May 26 | Shlomo Shamai (Technion) | Information-Estimation Relations in Gaussian Networks
+ | [sp17/shamai.html details] ||
+~~~
+
+
+
+== Fall 2016
+~~~
+{}{table}{tlayout}
+Aug 22 | Shashanka Ubaru (UMN) | Codes for low-rank approximation and group testing | [fa16/ubaru.html details] ||
+Aug 29 | Carl Simon-Gabriel (Tubingen) | Kernel Mean Embeddings: A Quick Guided Tour | [fa16/gabriel.html details] ||
+Aug 31 | Rashmi KV (Berkeley) | Erasure Coding for Big-data Systems | [fa16/rashmi.html details] ||
+Sep 6 | Michael Gastpar (EPFL) | Towards an Algebraic Network Information Theory | [fa16/gastpar.html details] ||
+Sep 16 | Animesh Kumar (IIT-B) | Bandlimited Estimation by Location-Unaware Sensors | [fa16/animesh.html details] ||
+Sep 19 | Ilan Ben Bassat (Tel Aviv) | Hashing and Sampling for Genome Assembly | [fa16/benbassat.html details] ||
+Oct 10 | Ramya Srinivasan (Intel) | Beyond GPS: high accuracy smartphone technologies | [fa16/ramya.html details] ||
+Oct 17 | Ahmed El Alaoui (Berkeley) | Decoding from Random Histogram Queries | [fa16/ahmed.html details] ||
+Oct 24 | Somayeh Sojoudi (Berkeley) | Data-driven sparse network estimation | [fa16/somayeh.html details] ||
+Oct 31 | Lifeng Lai (Davis) | Distributed Inference with Compressed Data | [fa16/lai.html details] ||
+Nov 4 | Yue Lu (Harvard) | Phase Transitions in Stochastic Optimization | [fa16/lu.html details] ||
+Nov 14 | Jingge Zhu (Berkeley) | Structured Codes in Multi-user Communication | [fa16/jingge.html details] || 
+~~~
+
+
+== Spring 2016
+~~~
+{}{table}{tlayout}
+Jan 25| James Zou (MSR/ MIT) | [sp16/zou.html details] ||
+Feb 22 | Xiugang Wu (Stanford) | [sp16/wu.html details] ||
+Feb 29 | Idoia Ochoa (Stanford) | [sp16/ochoa.html details] ||
+Mar 1 | Julien Mairal (INRIA) | [sp16/mairal.html details] ||
+Mar 16 | Marco Cuturi (Kyoto) | [sp16/cuturi.html details] ||
+Apr 11 | Aditya Ramamoorthy (Iowa state)   | [sp16/ramamoorthy.html details] ||
+Apr 18   | Dimitris Papailiopoulos (Berkeley) | [sp16/dimitris.html details]
+~~~
+
+== Older talks
+Visit the (no longer maintained) [http://www-networking.eecs.berkeley.edu/Seminar/ NCD] seminar webpage.
+

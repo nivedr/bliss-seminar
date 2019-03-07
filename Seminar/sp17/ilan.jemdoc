@@ -1,0 +1,13 @@
+# jemdoc: menu{MENU}{ilan.html}
+= Ilan Shomorony (Berkeley)
+
+Feb 21, 2017, 2-3pm 400 Cory.
+
+== Title and Abstract
+*DNA Sequencing: From Information Limits to Assembly Software* \n
+Emerging long-read sequencing technologies promise to enable near-perfect reconstruction of whole genomes. Assembly of long reads is usually accomplished using a read-overlap graph, in which the true sequence corresponds to a Hamiltonian path. As such, the assembly problem becomes NP-hard under most formulations, and most of the known algorithmic approaches are heuristic in nature.
+ 
+In this talk, we show that by focusing on the informational limits of this problem, rather than the computational ones, we can design assembly algorithms with correctness guarantees. We begin with a basic feasibility question: when does the set of reads contain enough information to allow unambiguous reconstruction of the genome? We show that in most instances of the problem where the reads contain enough information for assembly, the read-overlap graph can be sparsified, allowing the problem to be solved in linear time. To study the information-infeasible instances, we formulate the partial assembly problem from a rate-distortion perspective. We introduce a notion of assembly graph distortion, and propose an algorithm that seeks to minimize this quantity. Finally, we describe how these ideas formed the theoretical foundation of our long-read assembly software HINGE. HINGE is shown to outperform existing tools through extensive validation on long-read datasets, and is currently being employed by genomics research groups and companies.
+
+== Bio
+Ilan Shomorony is a postdoctoral scholar at UC Berkeley through the NSF Center for Science of Information (CSoI), working with Thomas Courtade and David Tse. He obtained his PhD in Electrical and Computer Engineering at Cornell University in August 2014, and a B.S. in mathematics from the Worcester Polytechnic Institute in 2009. He received the Qualcomm Innovation Fellowship in 2013 and a Simons research fellowship for Spring 2014.

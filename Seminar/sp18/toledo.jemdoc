@@ -1,0 +1,17 @@
+# jemdoc: menu{MENU}{toledo.html}
+= Sivan Toledo (Tel-Aviv)
+
+Jan 26, 2-3PM, 400 Cory.
+
+== Title and Abstract
+*The ATLAS Reverse-GPS System: High-Throughput Wildlife Tracking* \n
+ATLAS is a reverse-GPS system that localizes radio transmitters (tags) attached to wild animals animals. The tags are lightweight (down to less than 1g), inexpensive, and energy-efficient. These properties have allowed us to track animals at unprecedented spatial and temporal resolution, leading to a big-data/high-throughput revolution in movement ecology. One ATLAS system with up to 11 receivers has been deployed for over 3 years in Northern Israel, last summer two more were deployed (in the Netherlands and in England), and one more is currently being deployed.
+
+The talk will describe the multifaceted challenges that the system has posed, innovations and engineering efforts that were necessary to meet the challenges, and the impact of the system on wildlife ecology. In particular, I will describe work on localization and clock synchronization, on tag development and production, on receiver hardware and software (base stations), on data collection and visualization, and on system configuration and monitoring. I will also clearly list key remaining challenges and our own future plans.
+
+The talk will also briefly explain the overall context: what other options exist for GPS-quality wildlife tracking and why no other technique can approach the throughput and cost of ATLAS.
+
+This is joint work with Ran Nathan, Yotam Orchan, Tony Weiss, and many other collaborators.
+
+== Bio
+Sivan Toledo is a professor in Blavatnik School of Computer Science in Tel-Aviv University. His main research interest is high-performance scientific computing. He is also interested in and has worked on parallel algorithms, on adapting algorithms to run well on data caches and out-of-core, and on various algorithms in numerical linear algebra. He also conducts research on computer systems, in particular on managing flash memories and in wireless sensors.

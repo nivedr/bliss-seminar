@@ -1,0 +1,15 @@
+# jemdoc: menu{MENU}{canonne.html}
+= Clement Canonne (Stanford)
+
+Feb 4.
+
+== Title and Abstract
+*Statistical Inference Under Local Information Constraints* \n
+Independent samples from an unknown probability distribution p on a domain of size k are distributed across n players, with each player holding one sample. Each player can send a message to a central referee in a simultaneous message passing (SMP) model of communication, whose goal is to solve a pre-specified inference problem. The catch, however, is that each player cannot simply send their own sample to the referee; instead, the message they send must obey some (local) information constraint. For instance, each player may be limited to communicating only L bits, where L << log k; or they may seek to reveal as little information as possible, and preserve local differentially privacy.
+
+We propose a general formulation for inference problems in this distributed setting, and instantiate it to two fundamental inference questions, learning and uniformity testing. We study the role of randomness for those questions, and obtain striking separations between public- and private-coin protocols for the latter, while showing the two settings are equally powerful for the former. (Put differently, "sharing with neighbors does help a lot for the test, but not really for learning.")
+
+Based on joint works with Jayadev Acharya (Cornell University), Cody Freitag (Cornell University), and Himanshu Tyagi (IISc Bangalore).
+
+== Bio
+Clément L. Canonne is a Motwani Postdoctoral Fellow at Stanford University. He graduated from Columbia University in 2017, where he was advised by Rocco Servedio. His research focuses on the fields of property testing, statistics, and sublinear algorithms; specifically, on understanding the strengths and limitations of the standard models in property and distribution testing, as well as in related areas. He really likes elephants. 

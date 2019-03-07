@@ -1,0 +1,107 @@
+# jemdoc: menu{MENU}{index.html}, nofooter  
+
+~~~
+{}{img_left}{photos/logo_bliss.jpg}{alt text}{800}{160}{}
+~~~
+
+== General Information
+
+Berkeley Laboratory for Information and System Sciences is a research center in the [https://eecs.berkeley.edu/ Electrical Engineering and Computer Sciences Department] at the [https://www.berkeley.edu/ University of California, Berkeley]. The lab focuses on theoretical problems in information and data science, broadly defined. Specific research areas include communications, information and coding theory, networking, optimization, statistics, machine learning, and control.
+
+BLISS currently comprises of 8 main faculty, 18 students and 4 postdocs. The lab is located in 264 Cory Hall.
+
+== Faculty
+
+~~~
+{}{img_left}{photos/anantharam.bmp}{alt text}{120}{160}{https://www2.eecs.berkeley.edu/Faculty/Homepages/anantharam.html}
+[https://people.eecs.berkeley.edu/~ananth/ Venkat Anantharam] \n 
+Anantharam's work studies foundational problems arising in communication networks, information theory, coding theory, game theory and stochastic control.
+A focus on the distributed nature of information in networks, differing objectives of the participants, behavioral aspects, how to deal with resource constraints, security, and the role of asymptotics in taming complexity are a feature of significant parts of the work.
+~~~
+
+
+
+~~~
+{}{img_left}{photos/courtade.jpg}{alt text}{120}{160}{https://www2.eecs.berkeley.edu/Faculty/Homepages/courtade.html}
+[https://people.eecs.berkeley.edu/~courtade/ Thomas Courtade] \n 
+Courtade's research interests are in the area of information theory, broadly defined. In particular, his research efforts over the past few years have included topics in core Shannon theory (e.g., capacity and rate-distortion theorems), computational biology (e.g., algorithms for DNA assembly and compression of sequencing data), and he has recently been exploring connections between information measures, functional analysis and probability theory (e.g., information inequalities and statistical limit theorems).
+~~~
+
+
+
+~~~
+{}{img_left}{photos/jiantao.png}{alt text}{120}{160}{https://www2.eecs.berkeley.edu/Faculty/Homepages/jiantao.html}
+[https://people.eecs.berkeley.edu/~jiantao/ Jiantao Jiao] \n  Jiao is broadly interested in statistical machine learning, mathematical data science, optimization, applied probability, information theory, and their applications in science and engineering.
+~~~
+
+~~~
+{}{img_left}{photos/ramchandran.bmp}{alt text}{120}{160}{https://www2.eecs.berkeley.edu/Faculty/Homepages/ramchandran.html}
+[https://people.eecs.berkeley.edu/~kannanr/ Kannan Ramchandran] \n 
+Ramchandran's research interests are broadly in the area of distributed systems theory and algorithms intersecting the fields of signal processing, communications, coding and information theory, and networking. His current systems focus is on large-scale distributed storage, large-scale collaborative video content delivery, and biological systems, with research challenges including latency, privacy and security, remote synchronization, sparse sampling, and shotgun genome sequencing.
+
+~~~
+
+
+~~~
+{}{img_left}{photos/sahai.bmp}{alt text}{120}{160}{https://www2.eecs.berkeley.edu/Faculty/Homepages/sahai.html}
+[https://people.eecs.berkeley.edu/~sahai/ Anant Sahai] \n 
+Sahai’s interests are in information theory, cognitive radio and spectrum sharing, wireless protocols, control, and machine learning for collaboration and coordination.
+~~~
+
+~~~
+{}{img_left}{photos/varaiya.jpg}{alt text}{120}{160}{https://www2.eecs.berkeley.edu/Faculty/Homepages/varaiya.html}
+[https://people.eecs.berkeley.edu/~varaiya/ Pravin Varaiya] \n 
+Varaiya's research interests include Renewable Energy and Power Systems, Transportation Systems, Control Theory, Hybrid Systems, Learning Theory, Game Theory and Mechanism Design, Communication Networks, Sensor Networks, Wireless Communication and Information Theory, Economics Theory, Urban Economics
+~~~
+
+
+~~~
+{}{img_left}{photos/wainwright.bmp}{alt text}{120}{160}{https://www2.eecs.berkeley.edu/Faculty/Homepages/wainwright.html}
+[https://people.eecs.berkeley.edu/~wainwrig/ Martin J. Wainwright] \n 
+Wainwright is interested in a variety of problems spanning the areas of statistics, optimization, and information theory, and their applications to machine learning and statistical signal processing.
+~~~
+
+~~~
+{}{img_left}{photos/walrand.jpg}{alt text}{120}{160}{https://www2.eecs.berkeley.edu/Faculty/Homepages/walrand.html}
+[https://sites.google.com/site/walrandberkeley/home/ Jean Walrand] \n 
+Walrand's research interests include stochastic processes, queuing theory, communication networks, game theory, machine learning applied to stochastic scheduling, and the economics of the Internet. 
+~~~
+
+
+
+
+
+== Affiliated Faculty
+
+[https://www2.eecs.berkeley.edu/Faculty/Homepages/brodersen.html Bob Brodersen]
+
+[http://robotics.eecs.berkeley.edu/%7eelghaoui/ Laurent El Ghaoui]
+
+[http://www.eecs.berkeley.edu/%7emesser/ Dave Messerschmitt]
+
+[https://people.eecs.berkeley.edu/%7ebora/ Borivoje Nikolic]
+
+[http://www.accel.com/team_detail.asp?pid=46 Abhay Parekh]
+
+[http://bwrc.eecs.berkeley.edu/People/Faculty/jan/ Jan Rabaey]	
+
+[https://people.eecs.berkeley.edu/~gireeja/ Gireeja Ranade] 
+
+[http://robotics.eecs.berkeley.edu/%7esastry/ Shankar Sastry] 
+
+[http://www.cs.berkeley.edu/%7eistoica/ Ion Stoica]
+
+[http://stanford.edu/~dntse/ David Tse]
+
+[http://www-video.eecs.berkeley.edu/%7eavz/ Avideh Zakhor]
+
+
+== Assistant
+
+Kim Kail 
+
+253 Cory Hall
+
+[mailto:kimkail@berkeley.edu kimkail@berkeley.edu]
+
+

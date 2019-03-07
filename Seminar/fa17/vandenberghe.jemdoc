@@ -1,0 +1,33 @@
+# jemdoc: menu{MENU}{vandenberghe.html}
+= Lieven Vandenberghe (UCLA)
+
+Nov 13, 2017.
+
+== Title and Abstract
+*Primal-dual first-order methods for convex optimization* \n
+
+The talk will be on primal-dual first order methods derived from the
+Douglas-Rachford operator splitting algorithm.
+We will start with some applications to image deblurring problems
+that illustrate the versatility of the Douglas-Rachford method for
+primal-dual decomposition in large scale optimization.
+The second part of the talk will be concerned with the important
+primal-dual hybrid gradient (PDHG) method.  This method is widely used in
+image processing, computer vision, and machine learning.
+We will show how the PDHG method can be derived from the Douglas-Rachford
+splitting method, and discuss some implications of this derivation for
+the convergence analysis and extensions of PDHG.
+(Joint work with Daniel O'Connor.)
+
+
+== Bio
+Lieven Vandenberghe is Professor in the Electrical and Computer Engineering
+Department at the University of California, Los Angeles, with a joint
+appointment in the Department of Mathematics.
+He received a Ph.D. in Electrical Engineering from K.U. Leuven, Belgium,
+in 1992.  He joined UCLA in 1997, following postdoctoral appointments
+at K.U. Leuven and Stanford University, and has held visiting professor
+positions at K.U. Leuven and the Technical University of Denmark.
+He is coauthor (with Stephen Boyd) of the book Convex Optimization (2004)
+and editor (with Henry Wolkowicz and Romesh Saigal) of the Handbook of
+Semidefinite Programming (2000).
