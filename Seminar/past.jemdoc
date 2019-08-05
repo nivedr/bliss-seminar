@@ -1,6 +1,24 @@
 # jemdoc: menu{MENU}{past.html}
 = Past talks
 
+== Spring 2019
+~~~
+{}{table}{tlayout}
+Feb 4 | Clement Canonne (Stanford) | Statistical Inference Under Local Information Constraints | [sp19/canonne.html details] ||
+Feb 25 | Gautam Kamath (Simons) | Privately Learning High-Dimensional Distributions | [sp19/kamath.html details] ||
+Mar 4 | Yuandong Tian (Facebook AI) | Reproducing AlphaZero: what we learn | [sp19/tian.html details] ||
+Mar 11 | Lalitha Sankar (Arizona State) | Information-theoretic Privacy: Leakage, robustness, and mechanism design | [sp19/sankar.html details] ||
+Mar 15 | Deniz Gunduz (Imperial College London) | Learn to Communicate - Communicate to Learn | [sp19/gunduz.html details] ||
+Mar 20 | Elisa Celis (EPFL) | Fairness in Machine Learning for Online Social Systems | [sp19/celis.html details] ||
+Apr 1 | Aaditya Ramdas (CMU) | On the bias, risk and consistency of sample means in multi-armed bandits | [sp19/ramdas.html details] ||
+Apr 8 | Piyush Srivastava (TIFR) | Structure recovery in graphical models | [sp19/srivastava.html details] ||
+Apr 15 | Steven Wu (U. Minnesota) | How to Use Heuristics for Differential Privacy | [sp19/wu.html details] ||
+Apr 24 | Farzan Farnia (Stanford) | A Convex Duality Framework for GANs | [sp19/farnia.html details] ||
+Apr 29 | Katrina Ligett (HUJI) | A necessary and sufficient stability notion for adaptive generalization | [sp19/ligett.html details] ||
+May 6 | Anand Sarwate (Rutgers) | Between Shannon and Hamming: how bad can the channel be? | [sp19/sarwate.html details] ||
+~~~
+
+
 == Fall 2018
 ~~~
 {}{table}{tlayout}

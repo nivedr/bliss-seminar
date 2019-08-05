@@ -1,0 +1,13 @@
+# jemdoc: menu{MENU}{ligett.html}
+= Katrina Ligett (HUJI)
+
+Apr 29.
+
+== Title and Abstract
+*A necessary and sufficient stability notion for adaptive generalization* \n
+We introduce a new notion of the stability of computations, which holds under post-processing and adaptive composition, and show that the notion is both necessary and sufficient to ensure generalization in the face of adaptivity, for any computations that respond to bounded-sensitivity linear queries while providing accuracy with respect to the data sample set.  The stability notion is based on quantifying the effect of observing a computation’s outputs on the posterior over the data sample elements.
+
+Joint work with Moshe Shenfeld (HUJI).
+
+== Bio
+Katrina Ligett is an Associate Professor of Computer Science at the Hebrew University of Jerusalem. She was previously an Assistant Professor of Computer Science and Economics at Caltech. Prior to joining Caltech, Katrina received her PhD in computer science from Carnegie Mellon University in 2009, and did a postdoc in the Computer Science Department at Cornell from 2009-2011. Katrina is a recipient of a NSF CAREER award and a Microsoft Faculty Fellowship. Her research interests include data privacy and game theory. 

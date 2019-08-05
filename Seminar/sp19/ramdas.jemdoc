@@ -1,0 +1,13 @@
+# jemdoc: menu{MENU}{ramdas.html}
+= Aaditya Ramdas (CMU)
+
+Apr 1.
+
+== Title and Abstract
+*On the bias, risk and consistency of sample means in multi-armed bandits* \n
+In the classic stochastic multi-armed bandit problem, it is well known that the sample mean for a chosen arm is a biased estimator of its true mean. In this paper, we characterize the effect of four sources of this selection bias: adaptively sampling an arm at each step, adaptively stopping the data collection, adaptively choosing which arm to target for mean estimation, and adaptively rewinding the clock to focus on the sample mean of the chosen arm at some past time. We qualitatively characterize data collecting strategies for which the sign of the bias induced by adaptive sampling and stopping can be negative or positive. For general parametric and nonparametric classes of distributions with varying tail decays, we also provide bounds on the risk of the sample that hold for arbitrary rules for sampling, stopping, choosing and rewinding.
+
+This is joint work with Jaehyeok Shin and Alessandro Rinaldo.
+
+== Bio
+Aaditya Ramdas is an assistant professor in the Department of Statistics and Data Science and the Machine Learning Department at Carnegie Mellon University. Previously, he was a postdoctoral researcher in Statistics and EECS at UC Berkeley from 2015-18, mentored by Michael Jordan and Martin Wainwright. He finished his PhD at CMU in Statistics and Machine Learning, advised by Larry Wasserman and Aarti Singh, winning the Best Thesis Award. A lot of his research focuses on modern aspects of reproducibility in science and technology — involving statistical testing and false discovery rate control in static and dynamic settings. He also works on some problems in sequential decision-making and online uncertainty quantification.

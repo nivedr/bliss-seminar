@@ -4,33 +4,23 @@
 == About
 The BLISS seminar (formerly [http://www-networking.eecs.berkeley.edu/Seminar/ NCD seminar]) is co-sponsored by generous grants from [https://www.microsoft.com/en-us/research/ Microsoft Research] and [www.qualcomm.com Qualcomm], and is the area seminar of the [http://wifo.eecs.berkeley.edu Berkeley Laboratory for Information and System Sciences]. Talks at the seminar cover topics including but not limited to information and coding theory, signal processing, optimization, statistics, and control. The list of talks for the current semester can be found below, and past seminars from 2016 onwards are listed [past.html here]. For an archive of all talks from 1996-2015, visit the [http://www-networking.eecs.berkeley.edu/Seminar/ old webpage.]
 
-A calendar of all the talks from Spring 2019 onwards is maintained [https://calendar.google.com/calendar/b/1?cid=YmVya2VsZXkuZWR1X2Fub2JqY2JqMjJ2Z2M2M3F0cXJtZWowN21jQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20 here]. Feel free to add it to your own.
+A calendar of all the talks from is maintained [https://calendar.google.com/calendar/b/1?cid=YmVya2VsZXkuZWR1X2Fub2JqY2JqMjJ2Z2M2M3F0cXJtZWowN21jQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20 here]. Feel free to add it to your own.
 
 ~~~
-*Spring 2019* \n
-Location: 540 Cory Hall \n
-Regular seminar time: Monday 3-4PM \n
+*Fall 2019* \n
+Location: 400 Cory Hall \n
+Regular seminar time: Wednesday 3-4PM \n
 
 To subscribe to our mailing list, click [https://lists.eecs.berkeley.edu/sympa/subscribe/bliss-seminar here]. \n
 
-To give a talk at the seminar, contact [http://www.eecs.berkeley.edu/~courtade Tom Courtade], [http://www.eecs.berkeley.edu/~ashwinpm Ashwin Pananjady], or [http://www.eecs.berkeley.edu/~ocal Orhan Ocal].
+To give a talk at the seminar, contact [http://www.eecs.berkeley.edu/~courtade Tom Courtade], [https://people.eecs.berkeley.edu/~vipul_gupta Vipul Gupta], or [http://www.eecs.berkeley.edu/~ashwinpm Ashwin Pananjady].
 ~~~
 
-== Spring 2019 Talks
+== Fall 2019 Talks
 
 Dates marked in bold indicate that talks are at non-regular times/venues.
 ~~~
 {}{table}{tlayout}
-Feb 4 | Clement Canonne (Stanford) | Statistical Inference Under Local Information Constraints | [sp19/canonne.html details] ||
-Feb 25 | Gautam Kamath (Simons) | Privately Learning High-Dimensional Distributions | [sp19/kamath.html details] ||
-Mar 4 | Yuandong Tian (Facebook AI) | Reproducing AlphaZero: what we learn | [sp19/tian.html details] ||
-Mar 11 | Lalitha Sankar (Arizona State) | Information-theoretic Privacy: Leakage, robustness, and mechanism design | [sp19/sankar.html details] ||
-*Mar 15* | Deniz Gunduz (Imperial College London) | Learn to Communicate - Communicate to Learn | [sp19/gunduz.html details] ||
-*Mar 20* | Elisa Celis (EPFL) |  | [sp19/celis.html details] ||
-Apr 1 | Aaditya Ramdas (CMU) |  | [sp19/ramdas.html details] ||
-Apr 8 | Piyush Srivastava (TIFR) |  | [sp19/srivastava.html details] ||
-Apr 15 | Steven Wu (U. Minnesota) |  | [sp19/wu.html details] ||
-Apr 22 | Farzan Farnia (Stanford) |  | [sp19/farnia.html details] ||
-Apr 29 | Katrina Ligett (HUJI) |  | [sp19/ligett.html details] ||
-May 6 | Anand Sarwate (Rutgers) | Between Shannon and Hamming: how bad can the channel be? | [sp19/sarwate.html details] ||
+Aug 28 | Ramya Vinayak (UW Seattle) |  |  ||
+Nov 6 | Yuejie Chi (CMU) |  |  ||
 ~~~

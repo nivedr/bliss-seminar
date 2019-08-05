@@ -1,0 +1,13 @@
+# jemdoc: menu{MENU}{srivastava.html}
+= Piyush Srivastava (TIFR)
+
+Apr 8.
+
+== Title and Abstract
+*Structure recovery in graphical models* \n
+This talk is about the problem of recovering block structures in graphical models from observed labels. Such problems arise, e.g., in the general paradigm of "community detection", where one knows that a system consists of components that can be divided into two different "communities", but needs to find which community each component is in by looking at some observed behavior of the individual components. We will look at a recent approach inspired from statistical mechanics that is based on a variant of the mean field Ising model and see how the phase transitions in this model relate to the statistical problem of recovering block structures. 
+
+Based on joint work with Quentin Berthet and Philippe Rigollet. 
+
+== Bio
+Piyush Srivastava is a Reader at the School of Technology and Computer Science at the Tata Institute of Fundamental Research, Mumbai.  His research interests are broadly in probability and computer science.  His recent work has focused on establishing tight connections between algorithms and various notions of phase transitions in statistical mechanics.  Piyush obtained his undergraduate degree at IIT Kanpur, his PhD at  UC Berkeley, and was a post-doctoral fellow at the Centre for the Mathematics of Information at the California Institute of Technology.

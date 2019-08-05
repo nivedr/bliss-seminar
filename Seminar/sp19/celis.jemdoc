@@ -1,0 +1,11 @@
+# jemdoc: menu{MENU}{celis.html}
+= Elisa Celis (Yale)
+
+Mar 20.
+
+== Title and Abstract
+*Fairness in Machine Learning for Online Social Systems* \n
+Social systems are now fueled by machine learning algorithms that facilitate and control connections and information. Simultaneously, computational systems are now fueled by people -- their interactions, data, and behavior. Consequently, there is a pressing need to design new algorithms that are socially responsible in how they learn, and socially optimal in the manner in which they use information. Recently, we have made initial progress in addressing such problems at this interface of social and computational systems. In this talk, we will first understand the emergence of bias in data and algorithmic decision making and present first steps towards developing a systematic framework to control biases in classical problems such as data summarization and personalization. This work leads to new algorithms that have the ability to alleviate bias and increase diversity while often simultaneously maintaining their theoretical or empirical performance with respect to the original metrics.
+
+== Bio
+Elisa Celis is an Assistant Professor in the Department of Statistics and Data Science at Yale University. Previously, she worked as a Research Scientist at Xerox Research where she was the worldwide head of the Crowdsourcing and Human Computation research thrust, and as a  Senior Research Scientist at EPFL in Switzerland where she helped design a fair committee selection process for an election in Switzerland. She received a B.Sci. degree in Computer Science and Mathematics from Harvey Mudd College and a Ph.D. in Computer Science from the University of Washington. Her research focuses on studying social and economic questions that arise in the context of the Internet and her work spans multiple areas including fairness in AI/ML, social computing, online learning, network science, and mechanism design.
