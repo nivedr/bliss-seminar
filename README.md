@@ -55,9 +55,11 @@ dissertation talks of BLISS members are also announced as non-standard BLISS sem
 - At the end of the semester, move the list from before into past.jemdoc
 
 
-## Calendar
+## Calendar and EECS events
 
 - Add the seminar to the BLISS-seminar-official calendar. Make sure to specify time/venue/abstract.
+
+- Visit http://events.berkeley.edu/index.php/submit.html and enter the seminar details. The sponsor is EECS, and typical cross-lists are with statistics, mathematics, IEOR, and Simons.
 
 ## Email announcement
 
