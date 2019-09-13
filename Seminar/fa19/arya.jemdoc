@@ -1,0 +1,14 @@
+# jemdoc: menu{MENU}{arya.html}
+= Arya Mazumdar (UMass)
+
+Sep 18, 2019
+
+== Title and Abstract
+*Sample complexity of mixture of sparse linear regressions (and what does it have to do with the deletion channel?)* \n
+In the problem of learning mixtures of linear regressions, the goal is to learn a collection of signal vectors from a sequence of (possibly noisy) linear measurements, where each measurement is evaluated on an unknown signal drawn uniformly from this collection. This setting is quite expressive and has been studied both in terms of practical applications and for the sake of establishing theoretical guarantees. In this paper, we consider the case where the signal vectors are sparse; this generalizes the popular compressed sensing paradigm. We improve upon the state-of-the-art results as follows: In the noisy case, we resolve a major open question of Yin et al.2019, by showing how to handle collections of more than two vectors and present the first robust reconstruction algorithm, i.e., if the signals are not perfectly sparse, we still learn a good sparse approximation of the signals. In the noiseless case, as well as in the noisy case, we show how to circumvent the need for a restrictive assumption required in the previous work.
+Our techniques are quite different from those in the previous work: for the noiseless case, we rely on a property of sparse polynomials and for the noisy case, we provide new connections to learning Gaussian mixtures and use ideas from the theory of error correcting codes.
+
+What does this have to do with the deletion channel? Turns out that a popular recovery problem in the deletion channel, called trace reconstruction, leads to developing tools and techniques that we use in the above project.
+
+== Bio
+Arya Mazumdar is an associate professor in the College of Information and Computer Sciences at the University of Massachusetts Amherst, on leave now at Amazon AI and Search Sciences. Prior to this, Arya was an assistant professor at the University of Minnesota-Twin Cities, and a postdoctoral scholar at Massachusetts Institute of Technology. Arya received his Ph.D. from the University of Maryland, College Park, where his thesis won the Distinguished Dissertation Award. Arya is a recipient of an NSF CAREER award and an IEEE ISIT Jack K. Wolf Paper Award. Arya's research interests include machine learning, coding theory, and information theory.
