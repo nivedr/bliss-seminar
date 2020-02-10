@@ -1,0 +1,56 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN"
+  "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head>
+<meta name="generator" content="jemdoc, see http://jemdoc.jaboc.net/" />
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+<link rel="stylesheet" href="jemdoc.css" type="text/css" />
+<title>Nhat Ho (UC Berkeley)</title>
+</head>
+<body>
+<table summary="Table for page layout." id="tlayout">
+<tr valign="top">
+<td id="layout-menu">
+<div class="menu-item"><a href="../index.html">Seminar&nbsp;home</a></div>
+<div class="menu-item"><a href="../past.html">Past&nbsp;Talks</a></div>
+</td>
+<td id="layout-content">
+<div id="toptitle">
+<h1>Nhat Ho (UC Berkeley)</h1>
+</div>
+<p>Oct 9, 2019</p>
+<h2>Title and Abstract</h2>
+<p><b>Statistical and computational perspective of mixture and hierarchical models</b> <br />
+<br />
+The growth in scope and complexity of modern data sets presents the field of statistics
+and data science with numerous inferential and computational challenges, among them how to deal
+with various forms of heterogeneity. Mixture and hierarchical models provide a principled approach
+to modeling heterogeneous collections of data. However, it has been observed that statistical estimation methods, such as maximum likelihood estimator (MLE), or optimization techniques, such as
+expectation-maximization (EM), have non-standard statistical rates of convergence. In this talk, we
+provide new insight into these issues of mixture and hierarchical models.
+From the statistical viewpoint, we propose a general framework for studying the convergence rates
+of parameter estimation in mixture models. Our study makes explicit the links between model singularities, parameter estimation convergence rates, and the algebraic geometry of the parameter space for
+mixtures of continuous distributions. Reposing on this framework, we develop a novel post-processing
+procedure, named Merge-Truncate-Merge algorithm, to determine the true number of components in
+mixture models.
+From the computational side, we study the EM algorithm under the over-specified settings of mixture models in which the likelihood need not be strongly concave, or, equivalently, the Fisher information matrix might be singular. In such settings, it is known that a global maximum based on n
+samples has a non-standard rate of convergence. Focusing on the simple setting of a two-component
+mixture fit with equal mixture weights to a multivariate Gaussian distribution, we demonstrate that
+EM updates converge to a fixed point at Euclidean distance O((d/n)^1/4) from the true parameter after O((n/d)^1/2) steps where d is the dimension. Analysis of this singular case requires the introduction
+of some novel analysis techniques, in particular we make use of a careful form of localization in the
+associated empirical process, and develop a recursive argument to progressively sharpen the statistical
+rate.</p>
+<p>This talk features joint work with (alphabetically) Raaz Dwivedi, Aritra Guha, Michael Jordan,
+Koulik Khamaru, Long Nguyen, Ya’acov Ritov, Martin Wainwright, and Bin Yu.</p>
+<h2>Bio</h2>
+<p>Nhat Ho is currently a postdoctoral fellow in the Electrical Engineering and Computer Science (EECS) Department where he is supervised by Professor Michael I. Jordan and Professor Martin J. Wainwright. Before going to Berkeley, he finished his Phd degree in 2017 at the Department of Statistics, University of Michigan, Ann Arbor where he was advised by Professor Long Nguyen and Professor Ya’acov Ritov. His current research focuses on four principles of statistics and data science: heterogeneity, interpretability, stability, and scalability</p>
+<div id="footer">
+<div id="footer-text">
+Page generated 2019-10-06 00:04:49 PDT, by <a href="http://jemdoc.jaboc.net/">jemdoc</a>.
+</div>
+</div>
+</td>
+</tr>
+</table>
+</body>
+</html>

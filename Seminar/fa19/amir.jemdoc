@@ -1,0 +1,13 @@
+# jemdoc: menu{MENU}{amir.html}
+= Amir Gholami (UC Berkeley)
+
+Oct 2, 2019
+
+== Title and Abstract
+
+*Systematic Quantization of Neural Networks Through Second-Order Information*\n
+\n
+Model size and inference speed have become major challenged in the deployment of Neural Networks for many applications. A promising approach to address these is quantization. However, existing quantization methods use ad-hoc approaches and “tricks” that do not generalize to different models and require significant hand tuning. To address this, we have recently developed a new systematic approach for model compression using second order information, resulting in unprecedented small models for a range of challenging problems. I will first discuss the Hessian based algorithm, and then present results showing significant improvements for quantization of a range of modern networks including (i) ResNet50/152, Inception-V3, and SqueezeNext on ImageNet, (ii) RetinaNet-ResNet50 on Microsoft COCO dataset for object detection, and (iii) BERT model for natural language processing. All results are obtained without any expensive/ad-hoc search, but exceed *all* industry level results including expensive Auto-ML based methods, which are searched at massive scale.
+
+== Bio
+Amir Gholami is a post-doctoral research fellow in Berkeley AI Research (BAIR) Lab at UC Berkeley. He received his PhD from UT Austin, working on large scale 3D bio-physics based image segmentation, a research topic which received UT Austin’s best doctoral dissertation award in 2018. He is a Melosh Medal finalist, recipient of best student paper award in SC’17 (Supercomputing conference), Gold Medal in the ACM Student Research Competition, as well as best student paper finalist in SC’14. His current research includes quantized Neural Networks, Neural Ordinary Differential Equations, large scale training, and stochastic second-order methods. 

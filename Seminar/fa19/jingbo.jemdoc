@@ -1,0 +1,16 @@
+# jemdoc: menu{MENU}{jingbo.html}
+= Jingbo Liu (MIT)
+
+Dec 6, 2019
+
+== Title and Abstract
+*Gaussian limits in two inference problems* \n
+\n
+Distribution limits in large systems are often the key to understanding the fundamental limits or designing inference algorithms, though sometimes not immediately recognized. I would like to discuss two pieces of my recent work with this flavor.
+
+One piece of work concerns inference on trees. Evans, Kenyon, Peres, and Schulman (2000) and Mossel (2004) conjectured that the Kesten-Stigum (KS) threshold no longer holds when the message passing algorithm has a memory constraint. We prove this conjecture and show that the memory required is logarithmic in the gap to the KS threshold. The key idea of the proof is to show that in any near-optimal recursive reconstruction algorithm, the posterior expectation must be close to Gaussian in the Wasserstein-2 distance. (arXiv:1905.10031v1)
+
+The second piece of work proposed a framework for evaluating/comparing the various methods of constructing the ``knockoff variables’’ in a false discovery rate (FDR) control algorithm by Barber and Candes (2015). We show that under suitable assumptions, the knockoff method is consistent if and only if the empirical distribution of the diagonals of the extended precision matrix converges weakly to zero. The key idea is to leverage and extend the Gaussian limit postulate for the LASSO estimator as suggested by the replica analysis. For walk-summable graphical models (including tree models), we also propose a new knockoff mechanism, and give a more explicit characterization of the necessary and sufficient condition for consistency. (arXiv:1910.12428v1)
+
+== Bio
+Jingbo Liu is a Wiener postdoc at the MIT Institute for Data, Systems, and Society (IDSS). He obtained PhD from Princeton University, and BE from Tsinghua University, both in electrical engineering. As a postdoc at MIT, he worked on several topics in statistical inference, including: fundamental limits and algorithms for data with structures (graphical models); inference under system (memory, communication complexity) constraints; methods of false discovery rate control for feature selection. During PhD at Princeton University, he worked on various topics related to information theory, including security, multiuser, interactive, and non-asymptotic information theory, and presented semi-plenary and TPC choice talks at ISIT. His thesis proposed novel approaches to information-theoretic converses using methods from high dimensional probability and functional analysis, which was awarded the Thomas M. Cover Dissertation Award of the IEEE Information Theory Society. His undergraduate thesis on the robustness of nonconvex optimization won the best undergraduate thesis award of Tsinghua University.

@@ -1,0 +1,14 @@
+# jemdoc: menu{MENU}{kostina.html}
+= Victoria Kostina (CalTech)
+
+Nov 20, 2019
+
+== Title and Abstract
+*Towards a Theory of Information for Dynamical Systems* \n
+\n
+We are moving towards a massively and diversely connected world populated by a seamless network of intelligent, dynamic distributed systems engaged in a shared interaction with the physical world and each other through unreliable sensors, actuators and noisy communication channels. These systems are extremely delay sensitive, so that coding over long blocks of observed data might not be feasible. Furthermore, information exchanges are geared towards maximizing payoff, rather than towards simply recovering the information sent, as in classical information theory. Finally, causality and feedback are of paramount importance. In this talk, I will show how a combination of information-theoretic and control-theoretic tools can provide important insights into various operational scenarios of remote tracking and control: fully and partially observed rate-constrained control; tracking over rate-limited channels with side information and with multiple observers; jointly optimal sampling and compressing policies. Using the framework of stochastic linear systems, we will compute the fundamental tradeoffs between rate and performance, propose practical coding schemes and point out sensible design practices.
+
+Based on joint works with B. Hassibi and N. Guo.
+
+== Bio
+Victoria Kostina joined Caltech as an Assistant Professor of Electrical Engineering in the fall of 2014. She holds a Bachelor's degree from Moscow institute of Physics and Technology (2004), where she was affiliated with the Institute for Information Transmission Problems of the Russian Academy of Sciences, a Master's degree from University of Ottawa (2006), and a PhD from Princeton University (2013). She received the Natural Sciences and Engineering Research Council of Canada postgraduate scholarship (2009--2012), the Princeton Electrical Engineering Best Dissertation Award (2013), the Simons-Berkeley research fellowship (2015) and the NSF CAREER award (2017).  Kostina's research spans information theory, coding, control and communications.

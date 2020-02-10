@@ -1,0 +1,12 @@
+# jemdoc: menu{MENU}{animesh.html}
+= Animesh Kumar (IIT Bombay)
+
+Dec 4, 2019
+
+== Title and Abstract
+*On sampling and inference of spatial fields from samples taken by a location-unaware mobile sensor* \n
+\n
+We consider the problem of spatial field inference using a location-unaware mobile sensor moving along a known path. The location-unaware sensing/sampling locations are modeled as a renewal process along the path, where the renewal distribution is not known. In this setup, where sampling locations as well as sample-location’s distribution is unknown, equispaced approximation of sampling locations is the natural way forward. The effect of this approximation will be shown for the following three applications: (i) reconstruction of a finite parameter smooth field in space which is not changing with time during measurement; (ii) reconstruction of a bandlimited field in space evolving with a time-invariant partial differential equation (such as the diffusion equation); and (iii) distribution learning of a high-bandwidth spatial field at every point on a path. In all of these applications, the statistical risk involved in the inference problem provably improves with the number of samples (or sampling rate along the path).
+
+== Bio
+Animesh Kumar is an Associate Professor in the Electrical Engineering department at Indian Institute of Technology Bombay. He obtained his Ph.D. degree in Electrical Engineering and Computer Sciences from the University of California, Berkeley. He is an Affiliate Member of the IEEE Signal Processing Society SPTM Technical Committee. His current research interests include sampling and reconstruction theory, statistical and distributed signal processing, and statistical learning theory.

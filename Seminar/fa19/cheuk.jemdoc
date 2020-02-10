@@ -1,0 +1,16 @@
+# jemdoc: menu{MENU}{cheuk.html}
+= Cheuk Ting Li (UC Berkeley)
+
+Oct 30, 2019
+
+== Title and Abstract
+*One-shot Information Theory via Poisson Processes* \n
+\n
+In information theory, coding theorems are usually proved in the asymptotic regime where the blocklength tends to infinity. While there are techniques for finite blocklength analysis, they are often more complex than their asymptotic counterparts. In this talk, we study the use of Poisson processes in proving coding theorems, which not only gives sharp one-shot and finite blocklength results, but also gives significantly shorter proofs than conventional asymptotic techniques in some settings. Instead of using fixed-size random codebooks, we construct the codebook as a Poisson process. We present a lemma, called the Poisson matching lemma, which can replace both packing and covering lemmas in proofs based on typicality. We then demonstrate its use in settings such as channel coding with channel state information at the encoder, lossy source coding with side information at the decoder, joint source-channel coding, broadcast channels, and distributed lossy source coding. This shows that the Poisson matching lemma is a viable alternative to typicality for most problems in network information theory.
+
+
+The talk is based on a joint work with Prof. Venkat Anantharam (UC Berkeley).
+
+== Bio
+Cheuk Ting Li received the B.Sc. degree in mathematics and B.Eng. degree in information engineering from The Chinese University of Hong Kong in 2012, and the M.S. and Ph.D. degree in electrical engineering from Stanford University in 2014 and 2018 respectively. He was awarded the 2016 IEEE Jack Keil Wolf ISIT Student Paper Award. He is currently a postdoctoral scholar at the Department of Electrical Engineering and Computer Sciences, University of California, Berkeley. His research interests include finite blocklength schemes in information theory, generation of random variables, and information-theoretic secrecy.
+

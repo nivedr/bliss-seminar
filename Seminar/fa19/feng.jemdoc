@@ -1,0 +1,12 @@
+# jemdoc: menu{MENU}{feng.html}
+= Feng Ruan (UC Berkeley)
+
+Sep 25, 2019
+
+== Title and Abstract
+*Searching for Interactions in Linear Time* \n
+
+We tackle the problem of variable selection with a focus on discovering interactions between variables. With p variables, there are O(p^k) possible interactions of order k making exhaustive search infeasible. We show that it is nonetheless possible to identify the variables involved in interactions (of any order) with only linear computation cost, O(p), and in a nonparametric fashion. Our algorithm is based on minimizing a nonconvex objective, carefully designed to have a favorable landscape. We provide finite sample guarantees on both false positives (we show all stationary points of the objective exclude noise variables) and false negatives (we characterize the sample sizes needed for gradient descent to converge to a "good'' stationary point).
+
+== Bio
+Feng Ruan is a postdoc in the Department of EECS at Berkeley. He graduated from the Department of Statistics at Stanford University, where he is advised by Prof. John Duchi. He is broadly interested in developing theory and algorithms for high dimensional statistics, for stochastic convex and non-convex optimization, and for inference under resource constraints. 

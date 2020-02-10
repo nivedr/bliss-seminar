@@ -1,6 +1,24 @@
 # jemdoc: menu{MENU}{past.html}
 = Past talks
 
+== Fall 2019 Talks
+~~~
+{}{table}{tlayout}
+Aug 28 | Ramya Vinayak (UW Seattle) | Learning from Sparse Data | [fa19/ramya.html details] ||
+Sep 18 | Arya Mazumdar (UMass) | Sample complexity of mixture of sparse linear regressions | [fa19/arya.html details] ||
+Sep 25 | Feng Ruan (UC Berkeley) | Searching for Interactions in Linear Time | [fa19/feng.html details] ||
+Oct 2 | Amir Gholami (UC Berkeley) | Systematic Quantization of Neural Networks Through Second-Order Information | [fa19/amir.html details] ||
+Oct 9 | Nhat Ho (UC Berkeley) | Statistical and computational perspective of mixture and hierarchical models| [fa19/nhat.html details]||
+Oct 18 | Jiaming Xu (Duke) | Spectral graph matching and regularized quadratic relaxations | [fa19/xu.html details] ||
+Oct 30 | Cheuk Ting Li (UC Berkeley) | One-shot Information Theory via Poisson Processes
+| [fa19/cheuk.html details]||
+Nov 6 | Yuejie Chi (CMU) | Distributed Stochastic Optimization with Variance Reduction and Gradient Tracking |  [fa19/chi.html details]||
+Nov 13 | Guy Bresler (MIT) | Towards an Average-case Complexity of High-dimensional Statistics |[fa19/bresler.html details] ||
+Nov 20 | Victoria Kostina (Caltech) | Towards a Theory of Information for Dynamical Systems | [fa19/kostina.html details]||
+Dec 4 | Animesh Kumar (IIT Bombay) | On sampling and inference of spatial fields from samples taken by a location-unaware mobile sensor | [fa19/animesh.html details] ||
+Dec 6 | Jingbo Liu (MIT) | Gaussian limits in two inference problems | [fa19/jingbo.html details] ||
+~~~
+
 == Spring 2019
 ~~~
 {}{table}{tlayout}
