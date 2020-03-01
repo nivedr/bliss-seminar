@@ -1,0 +1,15 @@
+# jemdoc: menu{MENU}{kipnis.html}
+= Alon Kipnis (Stanford)
+
+Feb 19, 2020
+
+== Title and Abstract
+
+*Two-sample Problem for High-Dimensional Multinomials and Testing Authorship*\n
+\n
+The Higher Criticism (HC) test is a useful tool for detecting the global significance of multiple independent tests, especially for rare and weak effects. We adapt the HC test to a discrete two-sample setting and use it as a measure of similarity between the samples. We apply this measure to word-frequency tables and authorship attribution challenges, where the goal is to identify the author of a document using other documents whose authorship is known. The method is simple yet performs well without handcrafting and tuning. Furthermore, as an inherent side effect, the HC calculation identifies a subset of discriminating words, which allow additional interpretation of the results. Our examples include authorship in the Federalist Papers and machine-generated texts.
+
+We take two approaches to analyze the success of our method. First, we show that, in practice, the discriminating words identified by the test have low variance across documents belonging to a corpus of homogeneous authorship. We conclude that in testing a new document against the corpus of an author, HC is mostly affected by words characteristic of that author and is relatively unaffected by topic structure. Finally, we analyze the power of the test in discriminating two multinomial distributions under rare and weak perturbations. We derive a phase transition curve for the power of the test which separates the parameter space into an area where the test is successful and an area where it fails. This phase curve is different than the phase curve in the Gaussian means model.
+
+== Bio
+Alon Kipnis is a postdoctoral scholar in the department of statistics at Stanford University. He received his B.Sc. degree in mathematics (summa cum laude) and his B.Sc. degree in electrical engineering (summa cum laude), both in 2010, and his M.Sc. degree in mathematics in 2012, all from Ben-Gurion University of the Negev. He received his Ph.D. degree in electrical engineering from Stanford University, where he is now a postdoctoral scholar in the Department of Statistics. His research combines data compression and dimensionality reduction techniques with classical methods in signal processing and machine learning.

@@ -2,7 +2,9 @@
 = BLISS Seminar
 
 == About
-The BLISS seminar (formerly [http://www-networking.eecs.berkeley.edu/Seminar/ NCD seminar]) is co-sponsored by generous grants from [https://www.microsoft.com/en-us/research/ Microsoft Research] and [www.qualcomm.com Qualcomm], and is the area seminar of the [http://bliss.eecs.berkeley.edu Berkeley Laboratory for Information and System Sciences]. Talks at the seminar cover topics including but not limited to information and coding theory, signal processing, optimization, statistics, and control. The list of talks for the current semester can be found below, and past seminars from 2016 onwards are listed [past.html here]. For an archive of all talks from 1996-2015, visit the [http://www-networking.eecs.berkeley.edu/Seminar/ old webpage.]
+The BLISS seminar (formerly [http://www-networking.eecs.berkeley.edu/Seminar/ NCD seminar]) 
+#is co-sponsored by generous grants from [https://www.microsoft.com/en-us/research/ Microsoft Research] and [www.qualcomm.com Qualcomm], and 
+is the area seminar of the [http://bliss.eecs.berkeley.edu Berkeley Laboratory for Information and System Sciences]. Talks at the seminar cover topics including but not limited to information and coding theory, signal processing, optimization, statistics, and control. The list of talks for the current semester can be found below, and past seminars from 2016 onwards are listed [past.html here]. For an archive of all talks from 1996-2015, visit the [http://www-networking.eecs.berkeley.edu/Seminar/ old webpage.]
 
 A calendar of all the talks from is maintained [https://calendar.google.com/calendar/b/1?cid=YmVya2VsZXkuZWR1X2Fub2JqY2JqMjJ2Z2M2M3F0cXJtZWowN21jQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20 here]. Feel free to add it to your own.
 
@@ -21,14 +23,18 @@ To give a talk at the seminar, contact [http://www.eecs.berkeley.edu/~courtade T
 Dates marked in bold indicate that talks are at non-regular times/venues.
 ~~~
 {}{table}{tlayout}
-Feb 11 | Siva Theja Maguluri (Georgia Tech) | Finite Sample Convergence Bounds of Off-Policy Reinforcement Learning Algorithms | [sp20/siva.html details] ||
+*Feb 11* | Siva Theja Maguluri (Georgia Tech) | Finite Sample Convergence Bounds of Off-Policy Reinforcement Learning Algorithms | [sp20/siva.html details] ||
 Feb 12 | Krishnakumar Balasubramanian (UC Davis) | Normal Approximations for Stochastic Iterative Estimators (and Martingales) | [sp20/krishna.html details] ||
-Feb 19 | Alon Kipnis (Stanford) |  |  ||
+Feb 19 | Alon Kipnis (Stanford) | Two-sample Problem for High-Dimensional Multinomials and Testing Authorship | [sp20/kipnis.html details] ||
+Feb 26 | David Tse (Stanford) | Blockchains, branching random walks and the number e | [sp20/tse.html details] ||
+Feb 28 | Aly El Gamal (Purdue) | Information Theory and Deep Learning for Future Wireless Networks | [sp20/gamal.html details] ||
+Mar 4 | David Hong (UPenn) |  Understanding Parallel Analysis Methods for Rank Selection in PCA | [sp20/hong.html details] ||
 Mar 11 | Urbashi Mitra (USC) |  |  ||
 Mar 25 | Spring break |  |  ||
 April 1 | Haipeng Luo (USC) |   |  ||
 April 8 | Zhizhen Zhao (UIUC) |  |  ||
 April 15 | Tsachy Weissman (Stanford) |  |  ||
 April 22 | Wen Sun (MSR) |  |  ||
+*April 27* | Salman Avestimehr (USC) |  |  ||
 May 6 | Philippe Rigollet (MIT) |  |  ||
 ~~~
