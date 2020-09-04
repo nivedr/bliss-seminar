@@ -10,17 +10,17 @@ A calendar of all the talks from is maintained [https://calendar.google.com/cale
 
 ~~~
 *Fall 2020* \n
-Location: Virtual (subscribe to BLISS Seminar for details) \n
+Location: Virtual (subscribe to our [https://lists.eecs.berkeley.edu/sympa/subscribe/bliss-seminar mailing list] for details) \n
 Regular seminar time: Friday 3-4PM \n
 
 To subscribe to our mailing list, click [https://lists.eecs.berkeley.edu/sympa/subscribe/bliss-seminar here]. \n
 
-To give a talk at the seminar, contact [http://www.eecs.berkeley.edu/~courtade Tom Courtade], [https://people.eecs.berkeley.edu/~vipul_gupta Vipul Gupta], or [http://www.eecs.berkeley.edu/~ashwinpm Ashwin Pananjady].
+To give a talk at the seminar, contact [http://www.eecs.berkeley.edu/~courtade Tom Courtade], [https://people.eecs.berkeley.edu/~vipul_gupta Vipul Gupta], or [https://people.eecs.berkeley.edu/~nived.rajaraman Nived Rajaraman].
 ~~~
 
 == Fall 2020 Talks 
 
-Dates marked in bold indicate that talks are at non-regular times/venues.
+Dates marked in bold indicate that talks are at non-regular times.
 ~~~
 {}{table}{tlayout}
 #*Feb 11* | Siva Theja Maguluri (Georgia Tech) | Finite Sample Convergence Bounds of Off-Policy Reinforcement Learning Algorithms | [sp20/siva.html details] ||
