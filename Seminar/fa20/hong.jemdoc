@@ -1,0 +1,13 @@
+# jemdoc: menu{MENU}{hong.html}
+= David Hong (UPenn)
+
+Mar 4, 2020
+
+== Title and Abstract
+
+*Understanding Parallel Analysis Methods for Rank Selection in PCA*\n
+\n
+Principal component analysis (PCA) is a standard technique for discovering latent factors in data. An important but sometimes challenging step is selecting how many components to keep; how many of them capture signal rather than noise? One popular approach, parallel analysis via permutations, uses random permutations of the data to obtain a sort of null distribution for pure-noise eigenvalues. Data eigenvalues greater than their "null", i.e., noise, counterparts get selected. This talk will review recent work on its theoretical foundation from the perspective of random matrix theory, as well as ongoing work on improving it for data with heterogeneous noise. Permutations can destroy structure in heterogeneous noise, significantly harming performance. We propose a new variant based on random signflips that addresses this shortcoming, and show that it consistently selects perceptible components in certain high-dimensional and heterogeneous factor models.
+
+== Bio
+David Hong is a postdoctoral scholar with the Statistics department in the Wharton School at the University of Pennsylvania. Prior to this appointment, he received a B.S. in Electrical Engineering and Mathematics from Duke University in 2013, followed by an M.S. and a Ph.D. in Electrical Engineering from the University of Michigan in 2019, where he was an NSF Graduate Research Fellow. Research interests lie in the foundations of data science; they include the analysis and development of low-dimensional/low-rank modeling techniques, such as PCA and tensor decompositions, as well as their numerous applications in science and engineering.

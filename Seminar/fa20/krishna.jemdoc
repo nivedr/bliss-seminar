@@ -1,0 +1,15 @@
+# jemdoc: menu{MENU}{krishna.html}
+= Krishna Balasubramanian (UC Davis)
+
+Feb 12, 2020
+
+== Title and Abstract
+
+*Normal Approximations for Stochastic Iterative Estimators (and Martingales)*\n
+\n
+Asymptotic normality of the maximum likelihood estimator (mle) is one of the foundational results of mathematical statistics characterizing the fluctuations of mle. But it suffers from two drawbacks: (i) it is asymptotic and (ii) it is established for the maximum likelihood estimator (i.e., argmin of negative log-likelihood function) which often can't be computed efficiently. Indeed, in practice the efficiently computable estimator is typically a stochastic iterative estimator/algorithm, which is run for a finite number of steps. The focus of this talk will be on establishing non-asymptotic normal approximation rates for such stochastic iterative estimators.
+
+The first result of this talk is on establishing non-asymptotic normal approximation rates for stochastic gradient descent (SGD), arguably the most widely used stochastic iterative estimator, for locally strongly-convex (but globally potentially nonconvex) M-estimation problems. This result could be clubbed with existing bootstrap techniques to obtain non-asymptotically valid confidence sets for parameter estimation via the SGD estimator. The second result of this talk is on establishing non-asymptotic normal approximation rates for Euler discretization of Itô diffusions (a special case of this estimator is the stochastic gradient Langevin Monte Carlo, widely used by the Bayesian community), which is a stochastic iterative estimator used for posterior expectation computation or numerical integration. This result could potentially be clubbed with (yet to be well-developed) bootstrap techniques to obtain non-asymptotically valid Frequentist-style confidence intervals for prediction within the Bayesian framework or non-asymptotically valid confidence intervals for numerical integration in general. 
+
+== Bio
+Krishna Balasubramanian is an assistant professor in the Department of Statistics, University of California, Davis. His recent research interests include inference for stochastic iterative methods, theory and computation with tensors, hypothesis testing with kernel methods, and zeroth-order optimization. 
