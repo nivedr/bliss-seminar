@@ -1,0 +1,17 @@
+# jemdoc: menu{MENU}{yuanzhi.html}
+= Yuanzhi Li (CMU)
+
+Sep 18, 2020
+
+== Title and Abstract
+
+*Backward Feature Correction: How can Deep Learning perform Deep Learning?*\n
+\n
+How does a 110-layer ResNet learn a high-complexity classifier using relatively few training examples and short training time? We present a theory towards explaining this deep learning process in terms of hierarchical learning. We refer to hierarchical learning as the learner learns to represent a complicated target function by decomposing it into a sequence of simpler functions, to reduce sample and time complexity.
+
+This work formally analyzes how multi-layer neural networks can perform such hierarchical learning efficiently and automatically simply by applying stochastic gradient descent (SGD) to the training objective, especially when other “shallow” models provably fail to learn the concept class efficiently due to the lack of hierarchy.
+
+In particular, we establish a new principle called “backward feature correction” to show how the features in the lower-level layers in the network can also be improved via training together with higher-level layers, which we believe is the key to understand the deep learning process in multi-layer neural networks. We also present empirical evidences supporting our theorem, in particular, we show “how much, how deep” the “backwards” (i.e. the improvement of lower-level layers in a neural network due to the gradient from higher-level layers) in a multi-layer neural network needs to be, and which part of the lower level features are getting improved through the “backwards”.
+
+== Bio
+Yuanzhi Li is an assistant professor at CMU, Machine Learning Department. He did his Ph.D. at Princeton, under the advice of Sanjeev Arora (2014-2018) as well as a one-year postdoc at Stanford.

@@ -1,0 +1,15 @@
+# jemdoc: menu{MENU}{sam.html}
+= Sam Hopkins (UC Berkeley)
+
+Sep 11, 2020
+
+== Title and Abstract
+
+*Recent Advances in Algorithmic Heavy-Tailed Statistics*\n
+\n
+Recent work in high-dimensional statistics shows that for many classical problems (mean estimation, covariance estimation, linear regression, sparse recovery...) it is possible to match the confidence intervals obtained by classical estimators (empirical mean/covariance, ordinary least squares, lasso...) in the case of Gaussian data but making much weaker assumptions, by using more robust high-dimensional estimators. Typically, one can replace a (sub)-Gaussian assumption with an assumption on 2 moments of the underlying distribution but obtain the same non-asymptotic, finite-sample guarantees!
+
+However, most of the high-dimensional estimators known to obtain such sharp confidence intervals under weak assumptions appear computationally intractable — requiring running time exponential in dimension. I will discuss several recent works giving polynomial-time algorithms with similar guarantees, focusing on new algorithms for high-confidence covariance estimation and linear regression in joint work with Cherapanamjeri, Kathuria, Raghavendra, and Tripuraneni, STOC 2020.
+
+== Bio
+Sam Hopkins is a Miller Postdoctoral Fellow at UC Berkeley in the department of Electrical Engineering and Computer Science. He works on algorithms and computational complexity, especially for computationally challenging problems in high-dimensional statistics. He obtained a PhD from Cornell University, where his work was supported by a Microsoft Graduate Fellowship and an NSF Graduate Research Fellowship, and a BS from the University of Washington. In 2021 he will join MIT as an assistant professor of computer science.
