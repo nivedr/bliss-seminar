@@ -23,9 +23,9 @@ To give a talk at the seminar, contact [http://www.eecs.berkeley.edu/~courtade T
 Dates marked in bold indicate that talks are at non-regular times.
 ~~~
 {}{table}{tlayout}
-Sep 11 | Sam Hopkins (UC Berkeley) | Recent Advances in Algorithmic Heavy-Tailed Statistics  | [fa20/sam.html details] ||
-Sep 18 | Yuanzhi Li (CMU) | Backward Feature Correction: How can Deep Learning perform Deep Learning?  | [fa20/yuanzhi.html details] ||
-Sep 25 | Steve Hanneke (TTIC) | Multi-task Learning: Optimal Rates and a No-Free-Lunch Theorem  | [fa20/steve.html details] ||
+Sep 11 | Sam Hopkins (UC Berkeley) | Recent Advances in Algorithmic Heavy-Tailed Statistics  | [./fa20/sam.html details] ||
+Sep 18 | Yuanzhi Li (CMU) | Backward Feature Correction: How can Deep Learning perform Deep Learning?  | [./fa20/yuanzhi.html details] ||
+Sep 25 | Steve Hanneke (TTIC) | Multi-task Learning: Optimal Rates and a No-Free-Lunch Theorem  | [./fa20/steve.html details] ||
 Oct 2 | Haipeng Luo (USC) |   |  ||
 Oct 9 | Wen Sun (Cornell) |  |  ||
 Oct 16 | Dimitris Papailiopoulos (Wisconsin-Madison) |  |  ||
