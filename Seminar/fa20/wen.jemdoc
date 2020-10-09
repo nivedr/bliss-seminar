@@ -1,0 +1,14 @@
+# jemdoc: menu{MENU}{wen.html}
+= Wen Sun (Cornell)
+
+Oct 9, 2020
+
+== Title and Abstract
+
+*Exploration and Robustness in Policy Gradient Learning*\n
+\n
+Direct policy gradient methods for reinforcement learning are a successful approach for a variety of reasons: they are model free, they directly optimize the performance metric of interest, and they allow for richly parameterized policies. Their primary drawback is that, by being local in nature, they fail to adequately explore the environment. In contrast, while model-based approaches and Q-learning directly handle exploration through the use of optimism, their ability to handle model misspecification and function approximation is far less evident. This work introduces the Policy Cover-Policy Gradient (PC-PG) algorithm, which provably balances the exploration vs. exploitation tradeoff using an ensemble of learned policies (the policy cover). PC-PG enjoys polynomial sample complexity and run time for both tabular MDPs and, more generally, linear MDPs in an infinite dimensional RKHS. Furthermore, PC-PG also has strong guarantees under model misspecification that go beyond the standard worst case L infinity assumptions; this includes approximation guarantees for state aggregation under an average case error assumption, along with guarantees under a more general assumption where the approximation error under distribution shift is controlled. We complement the theory with empirical evaluation across a variety of domains in both reward-free and reward-driven settings.
+This is a joint work with Alekh Agarwal, Mikael Henaff, and Sham Kakade. (https://arxiv.org/abs/2007.08459)
+
+== Bio
+Wen Sun is an assistant professor in the Department of Computer Science at Cornell. His key research is in Machine Learning and Reinforcement Learning (RL), and much of his work focuses on designing algorithms for efficient sequential decision making, understanding exploration and exploitation tradeoff, and leveraging expert demonstrations to overcome exploration. He received a Ph.D. in Robotics from Carnegie Mellon University in 2019. During the 2019-20 academic year, he was a postdoctoral researcher at Microsoft Research in New York City working on several aspects of RL including representation learning in RL, policy gradient methods, and nonlinear control.

@@ -1,0 +1,14 @@
+# jemdoc: menu{MENU}{haipeng.html}
+= Haipeng Luo (USC)
+
+Oct 2, 2020
+
+== Title and Abstract
+
+*From bandits to MDPs: optimally and adaptively learning episodic MDPs with adversarial losses*\n
+\n
+In this talk, I will discuss three recent works on learning episodic tabular MDPs with adversarial losses, with the emphasis on extending techniques from recent advances in the bandit literature to MDPs. In particular, I will discuss how to 1) achieve \sqrt{T} regret when learning an episodic MDP with adversarial losses; 2) improve the regret to \sqrt{L*} where L* is the loss of the best policy; and 3) simultaneously adapt to stochastic losses with log(T) regret (or more generally \sqrt{C} regret when the losses are corrupted by a total amount of C).
+
+== Bio
+Haipeng Luo is an assistant professor in the Department of Computer Science at the University of Southern California. He obtained his PhD from Princeton University in 2016 and spent a year at Microsoft Research, NYC as a post-doc researcher afterwards. His research interest is in theoretical and applied machine learning, with a focus on online learning, bandit algorithms, reinforcement learning, and others. He has received several awards over the years, including NSF CAREER award, NSF CRII award, Google Faculty Research Award, best paper awards at ICML and NeurIPS and best student paper award at COLT.
+
