@@ -1,6 +1,6 @@
 #!/bin/bash
 
-jemdoc/jemdoc ./index.jemdoc
+jemdoc/jemdoc -c mysite.conf ./index.jemdoc
 jemdoc/jemdoc -c ./jemdoc/mysite.conf ./fa20/*.jemdoc
 
 echo 'Enter commit message'
