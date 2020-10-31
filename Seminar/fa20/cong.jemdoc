@@ -1,0 +1,17 @@
+# jemdoc: menu{MENU}{cong.html}
+= Cong Ma (UC Berkeley)
+
+Nov 6, 2020
+
+== Title and Abstract
+
+*Bridging convex and nonconvex optimization in noisy matrix completion: Stability and uncertainty quantification*\n
+\n
+
+This talk is concerned with noisy matrix completion: given partial and corrupted entries of a large low-rank matrix, how to estimate and infer the underlying matrix? Arguably one of the most popular paradigms to tackle this problem is convex relaxation, which achieves remarkable efficacy in practice. However, the statistical stability guarantees of this approach are still far from optimal in the noisy setting, falling short of explaining its empirical success. Moreover, it is generally very challenging to pin down the distributions of the convex estimator, which presents a major roadblock in assessing the uncertainty, or “confidence”, of the obtained estimates. 
+
+Our work makes progress towards understanding stability and uncertainty quantification for noisy matrix completion. When the rank of the unknown matrix is a constant: (1) we demonstrate that the convex estimator achieves near-optimal estimation errors vis-à-vis random noise; (2) we develop a de-biased estimator that admits accurate distributional characterizations, thus enabling asymptotically optimal inference of the low-rank factors and the entries of the matrix. All of this is enabled by bridging convex relaxation with the nonconvex Burer-Monteiro approach, a seemingly distinct algorithmic paradigm that is provably stable against noise. 
+
+
+== Bio
+
