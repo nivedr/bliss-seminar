@@ -1,0 +1,20 @@
+# jemdoc: menu{MENU}{zhizhen.html}
+= Zhizhen Zhao (UIUC)
+
+Nov 19, 2020
+
+== Title and Abstract
+
+*Exploiting Group and Geometric Structures for Massive Data Analysis*\n
+\n
+
+In this talk, I will introduce a new unsupervised learning framework for data points that lie on or close to a smooth manifold naturally equipped with a group action. In many applications, such as cryo-electron microscopy image analysis and shape analysis, the dataset of interest consists of images or shapes of potentially high spatial resolution, and admits a natural group action that needs to be quotient out before useful information is revealed. For such datasets, we can evaluate group-invariant distance and optimal alignment between data points. From noisy observations and pairwise relations, our goal is to robustly learn the nonlinear geometrical structure of the data and improve the nearest neighbor identification.
+ 
+In the first part, I will focus on a specific application--cryo-electron microscopy single particle class averaging. Cryo-electron microscopy single particle reconstruction is an entirely general technique for 3D structure determination of macromolecular complexes. However, because the images are taken at low electron dose, it is extremely hard to visualize the individual particle with low contrast and high noise level. I will introduce the multi-frequency class averaging (MFCA) algorithm to classify images of similar views and discuss the associated spectral properties of the MFCA matrices that ensure the stability of the algorithm. 
+ 
+In the second part, I will extend the discussion to general manifold and compact Lie group structures. The key idea is to define robust similarity measures for the data based on the cycle consistency and algebraic relations of the group transformations under multiple irreducible representations.
+
+
+== Bio
+
+Zhizhen Zhao is an Assistant Professor in the Department of Electrical and Computer Engineering at the University of Illinois at Urbana-Champaign. She joined University of Illinois in 2016. From 2014 to 2016, she was a Courant Instructor at the Courant Institute of Mathematical Sciences, New York University. She received the B.A. and M.Sc. degrees in physics from Trinity College, Cambridge University in 2008, and the Ph.D. degree in physics from Princeton University in 2013. She is a recipient of Alfred P. Sloan Research Fellowship (2020--2022). Her research interests include applied and computational harmonic analysis, signal processing, machine learning, and the applications in structural biology and atmospheric, and oceanic sciences.
