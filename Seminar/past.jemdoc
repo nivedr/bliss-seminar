@@ -1,6 +1,26 @@
 # jemdoc: menu{MENU}{past.html}
 = Past talks
 
+
+== Fall 2020 Talks 
+~~~
+{}{table}{tlayout}
+Sep 11 | Sam Hopkins (UC Berkeley) | Recent Advances in Algorithmic Heavy-Tailed Statistics  | [./fa20/sam.html details] ||
+Sep 18 | Yuanzhi Li (CMU) | Backward Feature Correction: How can Deep Learning perform Deep Learning?  | [./fa20/yuanzhi.html details] ||
+Sep 25 | Steve Hanneke (TTIC) | Multi-task Learning: Optimal Rates and a No-Free-Lunch Theorem  | [./fa20/steve.html details] ||
+Oct 2 | Haipeng Luo (USC) | From bandits to MDPs: optimally and adaptively learning episodic MDPs with adversarial losses | [./fa20/haipeng.html details] ||
+Oct 9 | Wen Sun (Cornell) | Exploration and Robustness in Policy Gradient Learning | [./fa20/wen.html details] ||
+Oct 16 | Dimitris Papailiopoulos (Wisconsin-Madison) | Learning is Pruning | [./fa20/dimitris.html details] ||
+*Oct 19* | Jerry Li (Microsoft) | Faster and Simpler Algorithms for List Learning | [./fa20/jerry.html details] ||
+Oct 23 | Pulkit Grover (CMU) | Measures of Information Flows in Natural and Artificial Computational Systems | [./fa20/pulkit.html details] ||
+Oct 30 | Sharon Li (Wisconsin-Madison) | Reliable Open-World Learning Against Out-of-distribution Data | [./fa20/sharon.html details] ||
+Nov 6 | Cong Ma (UC Berkeley) | Bridging convex and nonconvex optimization in noisy matrix completion: Stability and uncertainty quantification | [./fa20/cong.html details] ||
+Nov 13 | Kangwook Lee (UW Madison) | Make-or-break issues in fair classification | [./fa20/kangwook.html details] ||
+Nov 20 | Zhizhen Zhao (UIUC) | Exploiting Group and Geometric Structures for Massive Data Analysis | [./fa20/zhizhen.html details] ||
+Dec 4 | Aaron Wagner (Cornell) | What Hockey Teams and Foraging Animals Can Teach Us About Feedback Communication | [./fa20/aaron.html details] ||
+Dec 11 | Anru Zhang (Wisconsin-Madison) |  |  ||
+~~~
+
 == Spring 2020 Talks 
 ~~~
 {}{table}{tlayout}
