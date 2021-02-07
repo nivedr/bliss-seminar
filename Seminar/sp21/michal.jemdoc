@@ -1,0 +1,19 @@
+# jemdoc: menu{MENU}{michal.html}
+= Michał Dereziński (UC Berkeley)
+
+Feb 12, 2021
+
+== Title and Abstract
+
+
+*Bridging algorithmic and statistical randomness in machine learning*\n
+\n
+
+Randomness is a key resource in designing efficient algorithms, and it is also a fundamental modeling framework in statistics and machine learning. Methods that lie at the intersection of algorithmic and statistical randomness are at the forefront of modern data science. In this talk, I will discuss how statistical assumptions affect the bias-variance trade-offs and performance characteristics of randomized algorithms for, among others, linear regression, stochastic optimization, and dimensionality reduction. I will also present an efficient algorithmic framework, called joint sampling, which is used to both predict and improve the statistical performance of machine learning methods, by injecting carefully chosen correlations into randomized algorithms.
+
+In the first part of the talk, I will focus on the phenomenon of inversion bias, which is a systematic bias caused by inverting random matrices. Inversion bias is a significant bottleneck in parallel and distributed approaches to linear regression, second-order optimization, and a range of statistical estimation tasks. Here, I will introduce a joint sampling technique called Volume Sampling, which is the first method to eliminate inversion bias in model averaging. In the second part, I will demonstrate how the spectral properties of data distributions determine the statistical performance of machine learning algorithms, going beyond worst-case analysis and revealing new phase transitions in statistical learning. Along the way, I will highlight a class of joint sampling methods called Determinantal Point Processes (DPPs), popularized in machine learning over the past fifteen years as a tractable model of diversity. In particular, I will present a new algorithmic technique called Distortion-Free Intermediate Sampling, which drastically reduced the computational cost of DPPs, turning them into a practical tool for large-scale data science.
+  
+
+== Bio
+
+Michał Dereziński is a postdoctoral fellow in the Department of Statistics at the University of California, Berkeley. Previously, he was a research fellow at the Simons Institute for the Theory of Computing (Fall 2018, Foundations of Data Science program). He obtained his Ph.D. in Computer Science at the University of California, Santa Cruz, advised by professor Manfred Warmuth, where he received the Best Dissertation Award for his work on sampling methods in statistical learning. Michał's current research is focused on developing scalable randomized algorithms with robust statistical guarantees for machine learning, data science and optimization. His work on reducing the cost of interpretability in dimensionality reduction received the Best Paper Award at the Thirty-fourth Conference on Neural Information Processing Systems. More information is available at: https://users.soe.ucsc.edu/~mderezin/.
