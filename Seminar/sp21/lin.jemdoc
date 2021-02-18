@@ -1,0 +1,16 @@
+# jemdoc: menu{MENU}{lin.html}
+= Lin F. Yang (UCLA)
+
+Feb 19, 2021
+
+== Title and Abstract
+
+*Efficient methods for reinforcement learning with general function approximation*\n
+\n
+
+Abstract:
+Designing provably efficient algorithms with general function approximation is an important open problem in reinforcement learning. Nevertheless, despite a handful of recent progress on developing theory for RL with linear function approximation, the understanding of general function approximation schemes largely remains missing. In this talk, we show algorithm designs for both value-based and policy-based RL with general function approximation. Firstly, by applying an novel online sub-sampling technique, we first establish a novel value-based algorithm that takes poly(dH) computation time per round on average and enjoys a regret bound ~poly(H)sqrt(T), where d depends on the complexity of the function class, independent of the size of the state space. Furthermore, the algorithm achieves low switching cost, i.e., it changes the policy only poly(dH) times during the entire execution, making it appealing to be implemented in real-life scenarios. Moreover, by using an upper-confidence-based exploration-driven reward function, the algorithm provably explores the environment in the reward-free setting (i.e., unsupervised RL). Using the same function class, we then design policy-gradient-based methods that achieve near-optimal policy within poly(dH) number of explorations. Empirical studies show that these theoretically principled methods outperform the baselines consistently.
+  
+== Bio
+
+Dr. Lin Yang is an assistant professor in the Electrical and Computer Engineering Department at the University of California, Los Angeles. His current research focus is on reinforcement learning theory and applications, learning for control, non-convex optimization, and streaming algorithms. Previously, he was a postdoc at Princeton University. He obtained two Ph.D. degrees (in Computer Science and in Physics & Astronomy) simultaneously, from Johns Hopkins University. Prior to that, he obtained a Bachelor's degree in Math & Physics from Tsinghua University. He was a recipient of the Simons-Berkeley Research Fellowship, JHU MINDS best dissertation award, and the Dean Robert H. Roy Fellowship.
