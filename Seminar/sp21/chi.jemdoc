@@ -1,0 +1,18 @@
+# jemdoc: menu{MENU}{chi.html}
+= Chi Jin (Princeton)
+
+Mar 05, 2021
+
+== Title and Abstract
+
+*Bellman Eluder Dimension: New Rich Classes of RL Problems, and Sample-Efficient Algorithms*\n
+\n
+
+Abstract: Finding the minimal structural assumptions that empower sample-efficient learning is one of the most important research directions in Reinforcement Learning (RL). This work advances our understanding of this fundamental question by introducing a new complexity measure---Bellman Eluder (BE) dimension. We show that the family of RL problems of low BE dimension is remarkably rich, which subsumes a vast majority of existing tractable RL problems including but not limited to tabular MDPs, linear MDPs, reactive POMDPs, low Bellman rank problems as well as low Eluder dimension problems. This work further designs a new optimization-based algorithm---GOLF, and reanalyzes a hypothesis elimination-based algorithm---OLIVE (proposed in Jiang et al. (2017)). We prove that both algorithms learn the near-optimal policies of low BE dimension problems in a number of samples that is polynomial in all relevant parameters, but independent of the size of state-action space. Our regret and sample complexity results match or improve the best existing results for several well-known subclasses of low BE dimension problems.
+
+This is based on the joint work with Qinghua Liu, Sobhan Miryoosefi.
+
+== Bio
+
+Chi Jin is assistant professor of Electrical and Computer Engineering at Princeton University.  He obtained his Ph.D. in Computer Science at UC Berkeley, advised by Michael I. Jordan. He received his B.S. in Physics from Peking University. His research interest lies in theoretical machine learning, with special emphases on nonconvex optimization and reinforcement learning. His representative work includes proving noisy gradient descent / accelerated gradient descent escape saddle points efficiently, proving sample complexity bounds for optimistic Q-learning / Least-squares value iteration, and designing near-optimal algorithms for minimax optimization.
+
