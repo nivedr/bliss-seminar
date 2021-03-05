@@ -31,7 +31,8 @@ Feb 12 | Michał Dereziński (UC Berkeley) |  Bridging algorithmic and statistic
 Feb 19 | Lin F. Yang (UCLA) | Efficient methods for reinforcement learning with general function approximation | [./sp21/lin.html details] ||
 Feb 26 | Song Mei (UC Berkeley) | The efficiency of kernel methods on structured datasets | [./sp21/songmei.html details] ||
 Mar 5 | Chi Jin (Princeton) |  Bellman Eluder Dimension: New Rich Classes of RL Problems, and Sample-Efficient Algorithms | [./sp21/chi.html details] ||
-Mar 12 | R Srikant (UIUC) |  | [./sp21/srikant.html details] ||
+Mar 12 | R Srikant (UIUC) | Sample Complexity and Overparameterization Bounds for Neural Temporal Difference Learning
+ | [./sp21/srikant.html details] ||
 Mar 19 | Alex Dimakis (UT Austin) |  | [./sp21/alex.html details] ||
 Mar 26 | *Spring break* |  | ||
 Apr 2 | Miaoyan Wang (UW Madison) |  | [./sp21/miaoyan.html details] ||
