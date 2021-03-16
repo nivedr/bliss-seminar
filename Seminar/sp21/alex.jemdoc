@@ -1,0 +1,15 @@
+# jemdoc: menu{MENU}{alex.html}
+= Alex Dimakis (UT Austin)
+
+Mar 19, 2021
+
+== Title and Abstract
+
+*Deep Generative models and Inverse Problems.*\n
+\n
+ 
+Modern deep generative models like GANs, VAEs and invertible flows are demonstrating excellent performance in representing high-dimensional distributions, especially for images. We will show how they can be used to solve inverse problems like denoising, filling missing data, anomaly detection, and recovery from linear projections. We generalize compressed sensing theory beyond sparsity, extending Restricted Isometries to sets created by deep generative models. We will present the general framework, recent results and open problems in this space.
+
+== Bio
+
+Alex Dimakis is a Professor at the Electrical and Computer Engineering department, University of Texas at Austin. He received his Ph.D. from UC Berkeley and the Diploma degree from the National Technical University of Athens. He received several awards including the James Massey Award, NSF Career, a Google research award, the Eli Jury dissertation award and the joint Information Theory and Communications Society Best Paper Award. His research interests include information theory, coding theory and machine learning.
