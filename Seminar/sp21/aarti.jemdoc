@@ -5,5 +5,11 @@ Apr 16, 2021
 
 == Title and Abstract
 
+*Learning from preferences and labels*\n
+\n
+
+As machine learning is used for solving complex problems, eliciting meaningful labels and rewards for supervision is becomes challenging. Preferences in the form of pairwise comparisons have emerged as an alternate feedback mechanism that are often easier to elicit and more accurate. This talk will outline our efforts in understanding the fundamental limits of learning when an algorithm is given access to both preferences and labels. We will discuss and contrast the value of preferences in several settings including classification, regression, bandits, optimization and reinforcement learning, along with some open problems.  
 
 == Bio
+
+Aarti Singh is an Associate Professor in the Machine Learning Department at Carnegie Mellon University. She received her Ph.D. degree in Electrical Engineering from the University of Wisconsin-Madison. Her research lies at the intersection of machine learning, statistics and signal processing, and focuses on designing statistically and computationally efficient algorithms that learn continually via feedback. Her work is recognized by an NSF Career Award, a United States Air Force Young Investigator Award, A. Nico Habermann Junior Faculty Chair Award, Harold A. Peterson Best Dissertation Award, and three best student paper awards. 
