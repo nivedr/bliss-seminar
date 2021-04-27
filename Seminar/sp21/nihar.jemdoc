@@ -5,5 +5,18 @@ Apr 30, 2021
 
 == Title and Abstract
 
+*Two F-words in Peer Review (Fraud and Feedback)*\n
+\n
+
+In this talk, we will present two major challenges in peer review, propose solutions with guarantees, and discuss important open problems.
+
+(1) Fraud: There have been several recent discoveries of fraud in peer review: A group of participants form a coalition, get assigned each other's papers by manipulating the system, and then accept each others' papers. We present an algorithm which mitigates such fraud by randomizing reviewer assignments, and does not rely on assumptions about the malicious behavior. Our experiments show how easy it is for malicious reviewers to game the current system, and the extent to which our algorithm guards against it.
+
+(2) Feedback: Real-world systems rely on feedback about their performance for their continual improvement. A useful means of obtaining feedback about the peer-review process is to ask authors' opinions. However, author opinions are significantly biased by whether their paper was accepted. We formulate this problem and present algorithms to debias such feedback. Our work relies on the key observation that the direction of this bias is known, e.g., the program chairs know which authors' papers were accepted.
+
 
 == Bio
+
+Nihar B. Shah is an Assistant Professor in the Machine Learning and the Computer Science Departments at Carnegie Mellon University. His research has won several awards including the 2017 David J. Sakrison memorial prize for a "truly outstanding and innovative PhD thesis" from EECS Berkeley. He is particularly happy about two things he did when at Berkeley:
+(1) Coined the name "Berkeley Laboratory for Information and System Sciences =  BLISS" for the BLISS seminar and the BLISS lab. 
+(2) Convinced his (co-)advisor Martin Wainwright to stop putting truckloads of sugar in his (Martin's) coffee, by explaining to Martin the adverse health effects of sugar.
