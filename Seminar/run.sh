@@ -2,8 +2,8 @@
 
 jemdoc/jemdoc -c mysite.conf ./index.jemdoc
 jemdoc/jemdoc -c mysite.conf ./past.jemdoc
+jemdoc/jemdoc -c ./jemdoc/mysite.conf ./fa21/*.jemdoc
 jemdoc/jemdoc -c ./jemdoc/mysite.conf ./sp21/*.jemdoc
-jemdoc/jemdoc -c ./jemdoc/mysite.conf ./fa20/*.jemdoc
 
 echo 'Enter commit message'
 read msg
