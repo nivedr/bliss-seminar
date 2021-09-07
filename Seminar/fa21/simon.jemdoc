@@ -6,6 +6,13 @@ Sep 10, 2021
 == Title and Abstract
 
 
+*Provable Representation Learning*\n
+\n
+
+Representation learning has been widely used in many applications. In this talk, I will present our work, which uncovers when and why representation learning provably improves the sample efficiency, from a statistical learning point of view. I will show 1) the existence of a good representation among all tasks, and 2) the diversity of tasks are key conditions that permit improved statistical efficiency via multi-task representation learning. These conditions provably improve the sample efficiency for functions with certain complexity measures as the representation.
+
 
 == Bio
+
+Simon S. Du is an assistant professor in the Paul G. Allen School of Computer Science & Engineering at University of Washington. His research interests are broadly in machine learning such as deep learning, representation learning and reinforcement learning. Prior to starting as faculty, he was a postdoc at Institute for Advanced Study of Princeton. He completed his Ph.D. in Machine Learning at Carnegie Mellon University. Previously, he studied EECS and EMS at UC Berkeley. He has also spent time at Simons Institute and research labs of Facebook, Google and Microsoft.
 
