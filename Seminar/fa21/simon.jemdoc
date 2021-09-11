@@ -6,10 +6,10 @@ Sep 10, 2021
 == Title and Abstract
 
 
-*Provable Representation Learning*\n
+*Toward Horizon-Free Reinforcement Learning*\n
 \n
 
-Representation learning has been widely used in many applications. In this talk, I will present our work, which uncovers when and why representation learning provably improves the sample efficiency, from a statistical learning point of view. I will show 1) the existence of a good representation among all tasks, and 2) the diversity of tasks are key conditions that permit improved statistical efficiency via multi-task representation learning. These conditions provably improve the sample efficiency for functions with certain complexity measures as the representation.
+Reinforcement learning and contextual bandits are two widely studied sequential decision-making problems. Reinforcement learning generalizes contextual bandits and is often perceived to be more difficult due to the long planning horizon and unknown state-dependent transitions.  I will talk about recent results on (nearly) horizon-free sample complexity bounds for reinforcement learning. I will present the main techniques for episodic tabular MDP and discuss extensions to related problems. These results imply that the long planning horizon and the unknown state-dependent transitions (at most) pose little additional difficulty on sample complexity. 
 
 
 == Bio

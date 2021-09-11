@@ -27,7 +27,7 @@ Dates marked in bold indicate that talks are at non-regular dates / times.
 ~~~
 {}{table}{tlayout}
 Sep 3 | Qi Lei (Princeton) | Optimal Gradient-based Algorithms for Non-concave Bandit Optimization | [./fa21/qi.html details] ||
-Sep 10 | Simon Du (UW) | Provable Representation Learning | [./fa21/simon.html details] ||
+Sep 10 | Simon Du (UW) | Toward Horizon-Free Reinforcement Learning | [./fa21/simon.html details] ||
 Sep 17 | Hessam Mahdavifar (UMich) | title | [./fa21/hessam.html details] ||
 Sep 24 | Jingbo Liu (UIUC) | title | [./fa21/jingbo.html details] ||
 Oct 1 | name (affl) | title | [./fa21/name.html details] ||
