@@ -5,7 +5,13 @@ Sep 24, 2021
 
 == Title and Abstract
 
+*A few interactions improve distributed nonparametric estimation*\n
+\n
 
+In recent years, the fundamental limits of distributed/federated learning have been studied under many statistical models, but often in the setting of horizontally partitioning, where data sets share the same feature space but differ in samples. Nevertheless, vertical federated learning, where data sets differ in features, have been in use in finance and medical care. In this talk, we consider a natural distributed nonparametric estimation problem with vertically partitioned datasets. Under a given budget of communication cost or information leakage constraint, we determine the minimax rates for estimating the density at a given point, which reveals that interactive protocols strictly improves over one-way protocols. Our novel estimation scheme in the interactive setting is constructed by carefully identifying a set of auxiliary random variables. The result also implies that interactive protocols strictly improve over one-way for biased binary sequences in the Gap-Hamming problem. (arXiv 2107.00211)
 
 == Bio
 
+Jingbo Liu received the B.S. in Electrical Engineering degree from Tsinghua University, Beijing, China in 2012, and the M.A. and Ph.D. degrees from Princeton University, Princeton, NJ, USA, in 2014 and 2017, all in electrical engineering. After two years of postdoc at MIT IDSS, he joined the Department of Statistics at the University of Illinois, Urbana-Champaign as an assistant professor.
+
+His research interests include signal processing, information theory, coding theory, high dimensional statistics, and the related fields. His undergraduate thesis received the best undergraduate thesis award at Tsinghua University (2012). He gave a semi-plenary presentation at the 2015 IEEE Int. Symposium on Information Theory, Hong-Kong, China. He was a recipient of the Princeton University Wallace Memorial Honorific Fellowship in 2016. His Ph.D. thesis received the Bede Liu Best Dissertation Award of Princeton and the Thomas M. Cover Dissertation Award of the IEEE Information Theory Society (2018).
