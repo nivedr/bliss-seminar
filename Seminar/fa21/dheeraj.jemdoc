@@ -1,0 +1,18 @@
+# jemdoc: menu{MENU}{dheeraj.html}
+= Dheeraj Nagaraj (Massachusetts Institute of Technology)
+
+Sep 24, 2021
+
+== Title and Abstract
+
+*Reverse Experience Replay: A Streaming Method to Learn with Dependent Data*\n
+\n
+
+Learning from a single trajectory of Markov processes is an important task with applications to system identification, time series analysis and reinforcement learning, where it is essential to learn on the go with streaming algorithms. With non-linear system identification and Q-learning in mind, we will first discuss why naively applying methods which work well for i.i.d. data can produce poor behavior in these settings by getting coupled to the underlying Markov process. We will then describe a novel modification called reverse experience replay (RER) -- a rigorous form of experience replay (ER) -- to efficiently unwind these spurious dependencies and obtain near optimal learning algorithms. 
+
+In the second part of the talk, we will concentrate on the application to Q-learning, which is known to suffer from poor convergence properties even in simple cases but is widely used in practice. Incorporating the practically used heuristic called online target learning (OTL) and RER with Q-learning, we obtain novel variants with better convergence properties. These variants, unlike vanilla Q learning, globally converge with linear function approximation (under inherent Bellman error conditions) and some are near minimax optimal in the tabular setting. 
+
+
+== Bio
+
+Dheeraj Nagaraj is a sixth year graduate student at Lab for Information and Decision Systems (MIT), advised by Prof. Guy Bresler. His research focuses on various topics in theoretical machine learning, including stochastic optimization, applied probability, reinforcement learning and neural networks.
