@@ -1,0 +1,20 @@
+# jemdoc: menu{MENU}{angela.html}
+= Angela Zhou (UC Berkeley)
+
+Oct 29, 2021
+
+== Title and Abstract
+
+*Robust Policy Learning and Evaluation under Unobserved Confounding*\n
+\n
+
+We study the problem of learning (single-timestep) personalized decision policies from observational data while accounting for possible unobserved confounding. Previous approaches, which assume unconfoundedness, that is, that no unobserved confounders affect both the treatment assignment as well as outcome, can lead to policies that introduce harm rather than benefit when some unobserved confounding is present as is generally the case with observational data. Instead, because policy value and regret may not be point-identifiable, we study a method that minimizes the worst-case estimated regret of a candidate policy against a baseline policy over an uncertainty set for propensity weights that controls the extent of unobserved confounding. Our uncertainty sets are superpopulation versions of sensitivity analysis in causal inference. We prove generalization guarantees that ensure our policy is safe when applied in practice and in fact obtains the best possible uniform control on the range of all possible population regrets that agree with the possible extent of confounding. We develop efficient algorithmic solutions to compute this minimax-optimal policy. Finally, we assess and compare our methods on synthetic and semisynthetic data; including a case study on personalizing hormone replacement therapy based on observational data in which we illustrate our results on a randomized experiment. 
+
+I will also discuss follow-up work for robust off-policy evaluation from infinite-horizon Markov decision processes. We consider stationary or baseline unobserved confounding and compute bounds by optimizing over the set of all stationary state-occupancy ratios that agree with a new partially identified estimating equation and the sensitivity model.
+
+This is based on joint work with Nathan Kallus and Xiaojie Mao. Related papers: [1], [2]
+
+
+== Bio
+
+Angela Zhou is a postdoc at UC Berkeley and will be a research fellow at the Simons program on Causality. Starting 2022 she will be an Assistant Professor of Data Sciences and Operations at the Marshall School of Business, University of Southern California. She works broadly on statistical machine learning for data-driven decision-making, with particular attention to research challenges and opportunities from practical data environments.
