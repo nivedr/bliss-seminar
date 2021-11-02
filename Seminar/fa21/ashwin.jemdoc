@@ -1,0 +1,16 @@
+# jemdoc: menu{MENU}{ashwin.html}
+= Ashwin Pananjady (Georgia Institute of Technology)
+
+Nov 5, 2021
+
+== Title and Abstract
+
+*Sharp convergence guarantees for iterative algorithms in random optimization problems*\n
+\n
+
+Iterative algorithms are the workhorses of modern statistical learning, and are widely used to fit large-scale, complex models to random data. While the choice of an algorithm and its hyperparameters determines both the speed and fidelity of the learning pipeline, it is common for this choice to be made heuristically, either by expensive trial-and-error or by comparing rough bounds on convergence rates of various candidate algorithms. Motivated by this, we develop a principled framework that produces sharp, iterate-by-iterate characterizations of solution quality for algorithms run with sample-splitting on a wide range of nonconvex model-fitting problems with Gaussian data. I will present the general framework and use it to derive several concrete consequences for parameter estimation in some popular statistical models, covering both higher-order algorithms based on alternating updates and first-order algorithms based on subgradient descent. These corollaries in turn facilitate rigorous comparisons between algorithms and reveal several nonstandard statistical and computational phenomena.
+
+
+== Bio
+
+Ashwin Pananjady is an Assistant Professor at Georgia Tech, with a joint appointment between the Schools of ISyE and ECE. His research currently focuses on the interplay of statistics and optimization in nonparametric ranking, nonconvex model-fitting, and reinforcement learning. He is a recipient of the Lawrence Brown Award from the Institute of Mathematical Statistics and the David Sakrison Memorial Prize from the EECS department at Berkeley, where his most significant accomplishment was to convince Martin Wainwright to walk up the hill to Cory Hall instead of taking the bus.
