@@ -1,0 +1,15 @@
+# jemdoc: menu{MENU}{junchi.html}
+= Junchi Li (Berkeley)
+
+Nov 19, 2021
+
+== Title and Abstract
+
+*Some Recent Progress in Nonconvex and Statistical Optimization*\n
+\n
+
+I will talk about some of our recent progress in nonconvex and statistical optimization. In the first part, I will introduce a new convergence analysis for an online tensorial independent component analysis (ICA) algorithm --- a popular dimension reduction tool in statistical machine learning and signal processing --- by viewing the problem as a nonconvex stochastic approximation problem. For estimating one component, we provide a dynamics-based analysis to prove that our online tensorial ICA algorithm with a specific choice of stepsize achieves a sharp finite-sample error bound. In particular, under a mild assumption on the data-generating distribution and a scaling condition such that $d^4/T$ is sufficiently small up to a polylogarithmic factor of data dimension $d$ and sample size $T$, a sharp finite-sample error bound of $\tilde{O}(\sqrt{d/T})$ can be obtained. In the second part, I will present a new single algorithm that simultaneously achieves sharp nonasymptotic convergence rates and asymptotic efficiency. We consider first-order stochastic optimization from a general statistical point of view, motivating a specific form of recursive averaging of past stochastic gradients. The resulting algorithm, which we refer to as Recursive One-Over-T SGD (ROOT-SGD), matches the state-of-the-art convergence rate among online stochastic approximation methods. Equipped with a novel multi-epoch design, the last-iterate of ROOT-SGD achieves an optimal statistical risk with a near-unity prefactor both nonasymptotically and asymptotically. Time permitting, I will also briefly talk about some recent results on (stochastic) dynamics that achieve optimal convergence to game-theoretic equilibria.
+
+== Bio
+
+Dr. Junchi Li "Chris" is currently a visiting scientist at the University of California, Berkeley, hosted by Professor Michael I. Jordan. He obtained his B.S. from Peking University, Ph.D. from Duke University, and held visiting roles at Princeton University and Tencent Technology. His research interests include statistical machine learning and optimization, scalable online algorithms for big data analytics, and stochastic dynamics on graphs and social networks. He has published original research articles in both top optimization journals and top machine learning conferences.
