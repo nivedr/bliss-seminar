@@ -9,32 +9,36 @@ is the area seminar of the [http://bliss.eecs.berkeley.edu Berkeley Laboratory f
 A calendar of all the talks is maintained [https://calendar.google.com/calendar/b/1?cid=YmVya2VsZXkuZWR1X2Fub2JqY2JqMjJ2Z2M2M3F0cXJtZWowN21jQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20 here]. Feel free to add it to your own.
 
 ~~~
-*Fall 2021* \n
+*Spring 2022* \n
 Location: Virtual (subscribe to our [https://lists.eecs.berkeley.edu/sympa/subscribe/bliss-seminar mailing list] for details) \n
-Regular seminar time: *Friday 3-4PM PT* \n
+Regular seminar time: *Friday 10 AM - 11 AM PT* \n
 
 To subscribe to our mailing list, click [https://lists.eecs.berkeley.edu/sympa/subscribe/bliss-seminar here]. \n
 
 To give a talk at the seminar, contact [https://people.eecs.berkeley.edu/~nived.rajaraman Nived Rajaraman] or [http://www.eecs.berkeley.edu/~courtade Tom Courtade].
 ~~~
 
-Talk recordings from Spring 2021 are available [https://berkeley.box.com/v/bliss-seminar-s2021 here].
+Recordings of the talks from Spring 2022 are available [https://berkeley.box.com/v/bliss-seminar-s2022 here].\n
+Recordings from Fall 2021 are available [https://berkeley.box.com/v/bliss-seminar-f2021 here].
 
-== Fall 2021 Talks
+== Spring 2022 Talks
 
-Recordings of the talks are available [https://berkeley.box.com/v/bliss-seminar-f2021 here].\n
 Dates marked in bold indicate that talks are at non-regular dates / times.
 ~~~
 {}{table}{tlayout}
-Sep 3 | Qi Lei (Princeton) | Optimal Gradient-based Algorithms for Non-concave Bandit Optimization | [./fa21/qi.html details] ||
-Sep 10 | Simon Du (UW) | Toward Horizon-Free Reinforcement Learning | [./fa21/simon.html details] ||
-Sep 17 | Hessam Mahdavifar (UMich) | Machine Learning-Aided Channel Coding: Opportunities and Challenges | [./fa21/hessam.html details] ||
-Sep 24 | Jingbo Liu (UIUC) | A few interactions improve distributed nonparametric estimation | [./fa21/jingbo.html details] ||
-Oct 15 | Xiaowu Dai (UC Berkeley) | Statistical Learning and Market Design | [./fa21/xiaowu.html details] ||
-Oct 22 | Dheeraj Nagaraj (MIT) | Reverse Experience Replay: A Streaming Method to Learn with Dependent Data | [./fa21/dheeraj.html details] ||
-Oct 29 | Angela Liu (UC Berkeley) | Robust Policy Learning and Evaluation under Unobserved Confounding | [./fa21/angela.html details] ||
-Nov 5 | Ashwin Pananjady (Georgia Tech) | Sharp convergence guarantees for iterative algorithms in random optimization problems | [./fa21/ashwin.html details] ||
-Nov 12 | Suvrit Sra (MIT) | Some surprising gaps between optimization theory and ML practice | [./fa21/suvrit.html details] ||
-Nov 19 | Junchi Li (UC Berkeley) | Some Recent Progress in Nonconvex and Statistical Optimization | [./fa21/junchi.html details] ||
-Dec 3 | Vasilis Syrgkanis (Microsoft Research) |  | [./fa21/vasilis.html details] ||
+Jan 21 | Qian Yu (Princeton) | title | [./sp22/qian.html details] ||
+Jan 28 | speaker | title | [./sp22/.html details] ||
+Feb 4 | speaker | title | [./sp22/.html details] ||
+Feb 11 | speaker | title | [./sp22/.html details] ||
+Feb 18 | speaker | title | [./sp22/.html details] ||
+Feb 25 | speaker | title | [./sp22/.html details] ||
+Mar 4 | speaker | title | [./sp22/.html details] ||
+Mar 11 | speaker | title | [./sp22/.html details] ||
+Mar 18 | speaker | title | [./sp22/.html details] ||
+Mar 25 | speaker | title | [./sp22/.html details] ||
+Apr 1 | speaker | title | [./sp22/.html details] ||
+Apr 8 | speaker | title | [./sp22/.html details] ||
+Apr 15 | speaker | title | [./sp22/.html details] ||
+Apr 22 | speaker | title | [./sp22/.html details] ||
+Apr 29 | speaker | title | [./sp22/.html details] ||
 ~~~

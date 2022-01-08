@@ -1,16 +1,15 @@
-# jemdoc: menu{MENU}{hessam.html}
-= Hessam Mahdavifar (University of Michigan)
+# jemdoc: menu{MENU}{dylan.html}
+= Dylan Foster ()
 
 Sep 17, 2021
 
 == Title and Abstract
 
-*Machine Learning-Aided Channel Coding: Opportunities and Challenges*\n
+**\n
 \n
 
-Today, channel codes are among the fundamental parts of any communication system, including cellular, WiFi, and deep space, among others, enabling reliable communications in the presence of noise. Decades of research have led to breakthrough inventions of various families of channel codes. Yet no unified approach exists in answering these two fundamental questions: Given a channel, how do we efficiently construct the best possible code? And given a channel code, how do we design an efficient and optimal decoder? In this talk, we will discuss how the remarkable advancements in data-driven machine learning (ML) can be leveraged toward answering these questions. In particular, we will focus on a class of codes rooting in Plotkin recursive construction. This class includes Reed–Muller (RM) codes as the state-of-the art binary algebraic codes, as well as polar codes, the first capacity-achieving codes with explicit, i.e., non-randomized, constructions. In the first part of this talk, we will present an efficient and close-to-optimal decoder obtained for RM codes by learning a pruning process applied to an exponentially complex decoder. In the second part, we will tackle the fundamental problem of designing new channel codes. In particular, we will demonstrate KO codes, a new class of channel codes designed by training neural networks while preserving Plotkin-like structures. KO codes beat both of their RM and polar code counterparts, under the successive cancellation decoding, in the challenging short-to-medium blocklength regime. We will also discuss various challenges that should be overcome to pave the way for adopting such ML-aided channel coding strategies in practice. 
+
 
 
 == Bio
 
-Hessam Mahdavifar is an Assistant Professor in the Department of Electrical Engineering and Computer Science at the University of Michigan. He received the B.Sc. degree from Sharif University of Technology in 2007, and the M.Sc. and the Ph.D. degrees from the University of California San Diego (UCSD) in 2009 and 2012, respectively, all in Electrical Engineering. He was with the Samsung Mobile Solutions Lab between 2012 and 2016. His general research interests are in coding and information theory with applications to wireless communications, machine learning, and security. He has won several awards including the NSF CAREER award in 2020, the Best Paper Award in the 2015 IEEE International Conference on RFID, the UCSD Shannon Memorial Fellowship, and two Silver Medals at the International Mathematical Olympiad.
