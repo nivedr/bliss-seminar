@@ -1,0 +1,21 @@
+# jemdoc: menu{MENU}{qian.html}
+= Qian Yu (Princeton)
+
+Jan 26, 2022
+
+== Title and Abstract
+
+*Coding Theory for Large-scale Distributed Computing*\n
+\n
+
+Modern computing applications often require handling a massive amount of data, which has to be stored and processed distributedly. Several scalability challenges could arise as the system scales up: how to provide the optimal resiliency against stragglers, security against adversaries, and privacy against curious workers? Coding-theoretic-based techniques have shown to be an effective way of addressing these challenges, and new classes of coding designs are required for tasks beyond linear functions. 
+
+In this talk, we illustrate a general approach, called polynomial coded computing, that enables constructing optimal designs for broad classes of computation tasks, from basic building blocks such as matrix multiplication or convolution to general functions such as multivariate polynomial evaluation. We also provide a brief overview of several recent progress and open problems. 
+
+This talk is based on several works, arXiv:1705.10464, arXiv:1801.07487, arXiv:1806.00939, and a Ph.D. thesis. 
+
+== Bio
+
+Qian Yu is a postdoctoral researcher in the Department of Electrical and Computer Engineering at Princeton University. Previously, he was a postdoc researcher in the Department of Electrical and Computer Engineering at University of Southern California (USC), and received a Ph.D. degree from the same department. He received an M.Eng. degree in Electrical Engineering and a B.S. degree in EECS and Physics, both from Massachusetts Institute of Technology (MIT). His interests span information theory, distributed computing, and many other problems math-related. Qian is a recipient of the Google PhD Fellowship in 2018, and received the Jack Keil Wolf ISIT Student Paper Award in 2017.
+
+
