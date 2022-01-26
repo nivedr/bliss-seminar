@@ -1,0 +1,23 @@
+# jemdoc: menu{MENU}{yury.html}
+= Yury Polyanskiy (MIT)
+
+Feb 2, 2022
+
+== Title and Abstract
+
+*Rates of convergence of Gaussian smoothed empirical measures in Wasserstein and KL distances*\n
+\n
+
+
+Consider an empirical measure P_n induced by n iid samples from a d-dimensional K-subgaussian distribution P. Classical work going back to Dudley shows that the speed of convergence of P_n to P in squared 2-Wasserstein distance is of order $n^{-2/d}$. We study the
+rate of convergence of P_n*N(0,\sigma) -- the Gaussian smoothed version of the empirical measure -- to P*N(0,\sigma). We show that the rate is n^{-1} for $\sigma > K$ (and any d) and polynomially slower for $\sigma < K$ (at least for d=1). Surprisingly, the convergence rate in KL remains the same in the former regime, while it provably slows down for $\sigma < K$, albeit by at most
+polylogarithmic (in n) factor. Mismatch in convergence rates between W2 and KL resolves an open problem from
+Wang-Wang (Ann. Inst. Poincare, 2016) on existence of log-Sobolev inequalities for subgaussian
+mixtures of Gaussians.
+
+Joint work with Zeyu Jia, Adam Block and Sasha Rakhlin (MIT).
+
+
+== Bio
+
+Yury Polyanskiy is an Associate Professor of Electrical Engineering and Computer Science and a member of IDSS and LIDS at MIT. Yury received M.S. degree in applied mathematics and physics from the Moscow Institute of Physics and Technology, Moscow, Russia in 2005 and Ph.D. degree in electrical engineering from Princeton University, Princeton, NJ in 2010. His research interests span information theory, statistical learning, error-correcting codes, wireless communication and fault tolerance. Dr. Polyanskiy won the 2020 IEEE Information Theory Society James Massey Award, 2013 NSF CAREER award and 2011 IEEE Information Theory Society Paper Award.
