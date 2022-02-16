@@ -8,7 +8,6 @@ Feb 2, 2022
 *Rates of convergence of Gaussian smoothed empirical measures in Wasserstein and KL distances*\n
 \n
 
-
 Consider an empirical measure P_n induced by n iid samples from a d-dimensional K-subgaussian distribution P. Classical work going back to Dudley shows that the speed of convergence of P_n to P in squared 2-Wasserstein distance is of order $n^{-2/d}$. We study the
 rate of convergence of P_n*N(0,\sigma) -- the Gaussian smoothed version of the empirical measure -- to P*N(0,\sigma). We show that the rate is n^{-1} for $\sigma > K$ (and any d) and polynomially slower for $\sigma < K$ (at least for d=1). Surprisingly, the convergence rate in KL remains the same in the former regime, while it provably slows down for $\sigma < K$, albeit by at most
 polylogarithmic (in n) factor. Mismatch in convergence rates between W2 and KL resolves an open problem from
