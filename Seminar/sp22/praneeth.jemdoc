@@ -5,10 +5,12 @@ Mar 9, 2022
 
 == Title and Abstract
 
-**\n
+*Byzantine robust collaborative learning*\n
 \n
 
-
+Collaborative learning enables multiple users to cooperatively train machine learning models on their combined datasets, without transferring any raw data. This potentially improves privacy and democratizes machine learning. However, this may also open the system to malicious or buggy agents who may derail the training procedure. We investigate if we can build systems which are robust to such Byzantine agents. 
+We formalize the Byzantine robust stochastic optimization problem and identify three ways agents may attack the system: first they may try hide their attacks within the inherent disagreement among the different users in a single round, second they may add small systematic bias to the updates over multiple rounds, and finally they may target any information bottlenecks in the communication network. We examine these attacks and potential defenses.
 
 == Bio
 
+Praneeth (website) is a postdoc working with Mike I. Jordan at UC Berkeley. He recently finished his PhD advised by Prof. Martin Jaggi at EPFL. He studies collaborative machine learning and more generally collective intelligence. His research has been awarded an SNSF fellowship, best paper award at FL-ICML workshop 2021, and the Dimitris N. Chorafas Foundation Award.
