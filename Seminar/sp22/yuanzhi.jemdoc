@@ -1,0 +1,15 @@
+# jemdoc: menu{MENU}{yuanzhi.html}
+= Yuanzhi Li (CMU)
+
+Apr 6, 2022
+
+== Title and Abstract
+
+*Deep learning when the data set has multiple features*\n
+\n
+
+Standard (supervised learning) data set typically contains multiple features that we can use to classify the label correctly. For example, we can distinguish a car from a cat by looking at the light of the car, the window, or the wheels etc. In this talk, we will discuss how deep learning can perform fundamentally different compared to linear models (including NTKs) on data sets with multiple features. We develop a new theorem framework on top of that to explain many intricating behaviors in deep learning, such as ensemble, knowledge distillation, and self-distillation; The role of the prediction head in self-supervised learning, and how linear mix-up data augmentation works for non-linearly separable data.
+
+== Bio
+
+Yuanzhi Li is an assistant professor at CMU, Machine Learning Department, and a visiting researcher at Microsoft. His primary research area is deep learning theory, focusing on understanding the (hierarchical) feature learning process in neural networks, how its better than shallow learning methods and how its influenced by the choice of optimization algorithms. He did his Ph.D. at Princeton under the advise of Sanjeev Arora. 
