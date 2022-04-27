@@ -1,0 +1,17 @@
+# jemdoc: menu{MENU}{quanquan.html}
+= Quanquan Gu (UCLA)
+
+May 4, 2022
+
+== Title and Abstract
+
+*Stochastic Gradient Descent: Benign Overfitting and Implicit Regularization*\n
+\n
+
+There is an increasing realization that algorithmic inductive biases are central in preventing overfitting; empirically, we often see a benign overfitting phenomenon in overparameterized settings for natural learning algorithms, such as stochastic gradient descent (SGD), where little to no explicit regularization has been employed. In the first part of this talk, I will discuss benign overfitting of constant-stepsize SGD in arguably the most basic setting: linear regression in the overparameterized regime. Our main results provide a sharp excess risk bound, stated in terms of the full eigenspectrum of the data covariance matrix, that reveals a bias-variance decomposition characterizing when generalization is possible. In the second part of this talk, I will introduce sharp instance-based comparisons of the implicit regularization of SGD with the explicit regularization of ridge regression, which are conducted in a sample-inflation manner. I will show that provided up to polylogarithmically more sample size, the generalization performance of SGD is always no worse than that of ridge regression for a broad class of least squares problem instances, and could be much better for some problem instances. This suggests the benefits of implicit regularization in SGD compared with the explicit regularization of ridge regression.
+
+This talk is based on joint work with Difan Zou, Jingfeng Wu, Vladimir Braverman, Dean P. Foster and Sham M. Kakade.
+
+== Bio
+
+Quanquan Gu is an Assistant Professor of Computer Science at UCLA. His research is in the area of artificial intelligence and machine learning, with a focus on developing and analyzing nonconvex optimization algorithms for machine learning to understand large-scale, dynamic, complex, and heterogeneous data and building the theoretical foundations of deep learning and reinforcement learning. He received his Ph.D. degree in Computer Science from the University of Illinois at Urbana-Champaign in 2014. He is a recipient of the Sloan Research Fellowship, NSF CAREER Award, Simons Berkeley Research Fellowship among other industrial research awards. 
