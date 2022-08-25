@@ -12,6 +12,7 @@ A calendar of all the talks is maintained [https://calendar.google.com/calendar/
 *Fall 2022* \n
 Location: Virtual (subscribe to our [https://lists.eecs.berkeley.edu/sympa/subscribe/bliss-seminar mailing list] for details) \n
 Regular seminar time: *Mondays 3 PM - 4 PM PT* \n
+Regular seminar venue: *Hughes Conference Room, 400 Cory Hall, Berkeley* ([https://goo.gl/maps/2QyKkPSB1Nr5gCHW6 map])
 
 To subscribe to our mailing list, click [https://lists.eecs.berkeley.edu/sympa/subscribe/bliss-seminar here]. \n
 
@@ -27,7 +28,8 @@ Dates marked in bold indicate that talks are at non-regular dates / times.
 ~~~
 {}{table}{tlayout}
 *Friday, August 26, 3-4 PM* | Weijie Su | When Will You Become the Best Reviewer of Your Own Papers? A Mechanism-Design-Based Approach to Statistical Estimation | [./fa22/weijie.html details] ||
-August 29 | Haipeng Luo | title | [./fa22/haipeng.html details] ||
+August 29 | Haipeng Luo | Near-Optimal No-Regret Learning for General Convex Games --- The Role of Positive Regret
+ | [./fa22/haipeng.html details] ||
 Sep 14 | speaker | title | [./fa22/.html details] ||
 Sep 21 | speaker | title | [./fa22/.html details] ||
 Sep 28 | speaker | title | [./fa22/.html details] ||

@@ -1,0 +1,21 @@
+# jemdoc: menu{MENU}{haipeng.html}
+= Haipeng Luo (University of Southern California)
+
+August 29, 2022
+
+== Title and Abstract
+
+*Near-Optimal No-Regret Learning for General Convex Games --- The Role of Positive Regret
+*\n
+\n
+
+A recent line of work has established uncoupled learning dynamics such that, when employed by all players in a game, each player’s regret after T repetitions grows polylogarithmically in T, an exponential improvement over the traditional guarantees within the no-regret framework. However, so far these results have only been limited to certain classes of games with structured strategy spaces, such as normal-form and extensive-form games. In this work, we significantly simplify, improve, and extend these results, showing that near-optimal O(log T) per-player regret is achievable for general convex games via a new and efficient learning dynamic. The key idea of our approach starts from a simple observation that it suffices to control the positive part of the regret, which we then show can be converted to the standard regret of a modified problem in a lifted space. 
+
+This talk is based on the following two joint works with Ioannis Anagnostides, Gabriele Farina, Christian Kroer, Chung-Wei Lee, and Tuomas Sandholm:\n
+[https://arxiv.org/pdf/2204.11417.pdf]\n
+[https://arxiv.org/pdf/2206.08742.pdf]
+
+
+== Bio
+
+Haipeng Luo is an assistant professor in the Department of Computer Science at the University of Southern California. He obtained his PhD from Princeton University in 2016 and spent a year at Microsoft Research, NYC as a post-doc researcher afterwards. His research interest is in developing practical machine learning algorithms with strong theoretical guarantees, with a focus on online learning, bandit algorithms, reinforcement learning, learning in games, and others. He has received several awards over the years, including NSF CAREER award, NSF CRII award, Google Faculty Research Award, Google Research Scholar Award, Best Paper Awards at ICML'15, NeurIPS'15, and COLT'21, and Best Student Paper Award at COLT'18.
