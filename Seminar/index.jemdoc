@@ -9,33 +9,32 @@ is the area seminar of the [http://bliss.eecs.berkeley.edu Berkeley Laboratory f
 A calendar of all the talks is maintained [https://calendar.google.com/calendar/b/1?cid=YmVya2VsZXkuZWR1X2Fub2JqY2JqMjJ2Z2M2M3F0cXJtZWowN21jQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20 here]. Feel free to add it to your own.
 
 ~~~
-*Spring 2022* \n
+*Fall 2022* \n
 Location: Virtual (subscribe to our [https://lists.eecs.berkeley.edu/sympa/subscribe/bliss-seminar mailing list] for details) \n
-Regular seminar time: *Wednesdays 10 AM - 11 AM PT* \n
+Regular seminar time: *Mondays 3 PM - 4 PM PT* \n
 
 To subscribe to our mailing list, click [https://lists.eecs.berkeley.edu/sympa/subscribe/bliss-seminar here]. \n
 
 To give a talk at the seminar, contact [https://people.eecs.berkeley.edu/~nived.rajaraman Nived Rajaraman] or [http://www.eecs.berkeley.edu/~courtade Tom Courtade].
 ~~~
 
-Recordings of the talks from Spring 2022 are available [https://berkeley.box.com/v/bliss-seminar-s2022 here].\n
-Recordings from Fall 2021 are available [https://berkeley.box.com/v/bliss-seminar-f2021 here].
+Recordings of the talks from Fall 2022 are available [https://berkeley.box.com/v/bliss-seminar-f2022 here].\n
+Recordings from Spring 2022 are available [https://berkeley.box.com/v/bliss-seminar-s2022 here].
 
-== Spring 2022 Talks
+== Fall 2022 Talks
 
 Dates marked in bold indicate that talks are at non-regular dates / times.
 ~~~
 {}{table}{tlayout}
-Jan 26 | Qian Yu (Princeton) | Coding Theory for Large-scale Distributed Computing | [./sp22/qian.html details] ||
-Feb 2 | Yury Polyanskiy (MIT) | Rates of convergence of Gaussian smoothed empirical measures in Wasserstein and KL distances | [./sp22/yury.html details] ||
-Feb 9 | Chenguang Zhu (MSR) | How We Achieved Human Parity in CommonsenseQA -- Fusing Knowledge into Language Models | [./sp22/chenguang.html details] ||
-*Feb 18, 9:30-10:30 AM PT* | Kangwook Lee (Wisconsin-Madison)| Improving Fairness via Federated Learning | [./sp22/kangwook.html details] ||
-Mar 2 | Ashwin Pananjady (Georgia Tech) | Sharp convergence guarantees for iterative algorithms in random optimization problems | [./sp22/ashwin.html details] ||
-Mar 9 | Sai Praneeth Karimireddy (UC Berkeley) | Byzantine robust collaborative learning | [./sp22/praneeth.html details] ||
-Mar 16 | speaker | title | [./sp22/.html details] ||
-Mar 30 | Yuansi Chen (Duke) | Localization schemes: A framework for proving mixing bounds for Markov chains | [./sp22/yuansi.html details] ||
-Apr 6 | Yuanzhi Li (CMU) | Deep learning when the data set has multiple features | [./sp22/yuanzhi.html details] ||
-Apr 13 | Vidya Muthukumar (Georgia Tech) | Classification versus regression in overparameterized regimes: Does the loss function matter? | [./sp22/vidya.html details] ||
-Apr 27 | Dylan Foster (Microsoft Research) | The Statistical Complexity of Interactive Decision Making | [./sp22/dylan.html details] ||
-May 4 | Quanquan Gu (UCLA) | Stochastic Gradient Descent: Benign Overfitting and Implicit Regularization | [./sp22/quanquan.html details] ||
+*Friday, August 26, 3-4 PM* | Weijie Su | When Will You Become the Best Reviewer of Your Own Papers? A Mechanism-Design-Based Approach to Statistical Estimation | [./fa22/weijie.html details] ||
+August 29 | Haipeng Luo | title | [./fa22/haipeng.html details] ||
+Sep 14 | speaker | title | [./fa22/.html details] ||
+Sep 21 | speaker | title | [./fa22/.html details] ||
+Sep 28 | speaker | title | [./fa22/.html details] ||
+Oct 5 | speaker | title | [./fa22/ details] ||
+Oct 12 | speaker | title | [./fa22/.html details] ||
+Oct 19 | speaker | title | [./fa22/.html details] ||
+Oct 26 | speaker | title | [./fa22/.html details] ||
+Nov 2 | speaker | title | [./fa22/.html details] ||
+Nov 9 | speaker | title | [./fa22/.html details] ||
 ~~~

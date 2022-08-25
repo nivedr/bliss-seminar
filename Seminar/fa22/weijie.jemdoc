@@ -1,0 +1,16 @@
+# jemdoc: menu{MENU}{weijie.html}
+= Weijie Su (University of Pennsylvania)
+
+August 26, 2022
+
+== Title and Abstract
+
+*When Will You Become the Best Reviewer of Your Own Papers? A Mechanism-Design-Based Approach to Statistical Estimation*\n
+\n
+
+Alice owns a few items and has knowledge of the underlying quality of her items. Given noisy grades provided by an independent party, can Bob obtain accurate estimates of the ground-truth grades of the items by asking Alice a question? This talk addresses this when the payoff of Alice is additive convex utility over all her items. First, we show that if Alice has to truthfully answer the question so that her payoff is maximized, the question must be formulated as pairwise comparisons between her items. Next, we prove that if Alice is required to provide a ranking of her items, which is the most fine-grained question via pairwise comparisons, she would be truthful. By incorporating the ground-truth ranking, we show that Bob can obtain an estimator with the optimal squared error in certain regimes based on any possible way of truthful information elicitation. Moreover, the estimated grades are substantially more accurate than the raw grades when the number of items is large and the raw grades are very noisy. Finally, we conclude the talk with several extensions and some refinements for practical considerations. This is based on arXiv:2206.08149 and arXiv:2110.14802.
+
+
+== Bio
+
+Weijie Su is an Associate Professor in the Wharton Statistics and Data Science Department and, by courtesy, in the Department of Computer and Information Science, at the University of Pennsylvania. He is a co-director of Penn Research in Machine Learning. Prior to joining Penn, he received his Ph.D. from Stanford University in 2016 and his bachelor’s degree from Peking University in 2011. His research interests span, privacy-preserving data analysis, deep learning theory, optimization, and high-dimensional statistics. He is a recipient of the Stanford Theodore Anderson Dissertation Award in 2016, an NSF CAREER Award in 2019, an Alfred Sloan Research Fellowship in 2020, the SIAM Early Career Prize in Data Science in 2022, and the IMS Peter Gavin Hall Prize in 2022.

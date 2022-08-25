@@ -1,6 +1,44 @@
 # jemdoc: menu{MENU}{past.html}
 = Past talks
 
+== Spring 2022 Talks 
+
+Talk recordings from Spring 2022 are available [https://berkeley.box.com/v/bliss-seminar-s2022 here].
+
+~~~
+{}{table}{tlayout}
+Jan 26 | Qian Yu (Princeton) | Coding Theory for Large-scale Distributed Computing | [./sp22/qian.html details] ||
+Feb 2 | Yury Polyanskiy (MIT) | Rates of convergence of Gaussian smoothed empirical measures in Wasserstein and KL distances | [./sp22/yury.html details] ||
+Feb 9 | Chenguang Zhu (MSR) | How We Achieved Human Parity in CommonsenseQA -- Fusing Knowledge into Language Models | [./sp22/chenguang.html details] ||
+*Feb 18, 9:30-10:30 AM PT* | Kangwook Lee (Wisconsin-Madison)| Improving Fairness via Federated Learning | [./sp22/kangwook.html details] ||
+Mar 2 | Ashwin Pananjady (Georgia Tech) | Sharp convergence guarantees for iterative algorithms in random optimization problems | [./sp22/ashwin.html details] ||
+Mar 9 | Sai Praneeth Karimireddy (UC Berkeley) | Byzantine robust collaborative learning | [./sp22/praneeth.html details] ||
+Mar 16 | speaker | title | [./sp22/.html details] ||
+Mar 30 | Yuansi Chen (Duke) | Localization schemes: A framework for proving mixing bounds for Markov chains | [./sp22/yuansi.html details] ||
+Apr 6 | Yuanzhi Li (CMU) | Deep learning when the data set has multiple features | [./sp22/yuanzhi.html details] ||
+Apr 13 | Vidya Muthukumar (Georgia Tech) | Classification versus regression in overparameterized regimes: Does the loss function matter? | [./sp22/vidya.html details] ||
+Apr 27 | Dylan Foster (Microsoft Research) | The Statistical Complexity of Interactive Decision Making | [./sp22/dylan.html details] ||
+May 4 | Quanquan Gu (UCLA) | Stochastic Gradient Descent: Benign Overfitting and Implicit Regularization | [./sp22/quanquan.html details] ||
+~~~
+
+
+== Fall 2021 Talks 
+
+Talk recordings from Fall 2021 are available [https://berkeley.box.com/v/bliss-seminar-f2021 here].
+
+~~~
+{}{table}{tlayout}
+Sep 10 | Simon Du (University of Washington) | Horizon-Free Reinforcement Learning | [./fa21/simon.html details] ||
+Sep 17 | Hessam Mahdavifar (University of Michigan) | Machine Learning-Aided Channel Coding: Opportunities and Challenges | [./fa21/hessam.html details] ||
+Sep 24 | Jingbo Liu (UIUC) | A few interactions improve distributed nonparametric estimation | [./fa21/jingbo.html details] ||
+Oct 15 | Xiaowu Dai (UC Berkeley) | Statistical Learning and Market Design | [./fa21/.html details] ||
+Oct 22 | Dheeraj Nagaraj (MIT) | Reverse Experience Replay: A Streaming Method to Learn with Dependent Data | [./fa21/.html details] ||
+Oct 29 | Angela Zhou (UC Berkeley) | Robust Policy Learning and Evaluation under Unobserved Confounding | [./fa21/angela.html details] ||
+Nov 12 | Suvrit Sra (MIT) | Some surprising gaps between optimization theory and ML practice | [./sp22/suvrit.html details] ||
+Nov 19 | Junchi Li (UC Berkeley) | Some Recent Progress in Nonconvex and Statistical Optimization | [./fa21/.html details] ||
+~~~
+
+
 == Spring 2021 Talks 
 
 Talk recordings from Spring 2021 are available [https://berkeley.box.com/v/bliss-seminar-s2021 here].
