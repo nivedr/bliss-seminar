@@ -1,0 +1,17 @@
+# jemdoc: menu{MENU}{chen-yu.html}
+= Chen-Yu Wei (Simons institute)
+
+October 24, 2022
+
+== Title and Abstract
+
+*Optimal Dynamic Regret for Bandits without Prior Knowledge*\n
+\n
+
+
+To evaluate the performance of a bandit learner in a changing environment, the standard notion of regret is insufficient. Instead, "dynamic regret" is a better measure that can evaluate the learner's ability to track the changes. How to achieve the optimal dynamic regret without prior knowledge on the number of times the environment changes had been open for a long time, and was recently resolved by Auer, Gajane, and Ortner in their COLT 2019 paper. We will discuss their consecutive sampling technique, which is rare in the bandit literature, and see how their idea can be elegantly generalized to a wide range of bandit/RL problems. Finally, we will discuss important open problems that remain in the area.
+
+
+== Bio
+
+Chen-Yu Wei is a Research Fellow at the Simons Institute for the Theory of Computing, UC Berkeley. He obtained his Ph.D. in Computer Science from the University of Southern California (USC) in 2022. Before that, he received a M.S. degree in Communication Engineering and a B.S. degree in Electrical Engineering both from National Taiwan University. His research focuses on machine learning theory, with emphasis on online decision making, multi-agent learning, and learning under the presence of an adversary. His works were recognized by Best Paper Awards in Conference on Learning Theory (COLT 2021) and Algorithmic Learning Theory (ALT 2022), as well as a CAMS Award from the Math department at USC. He will join the Computer Science department at the University of Virginia as an assistant professor from Fall 2023.
