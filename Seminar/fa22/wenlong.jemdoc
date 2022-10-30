@@ -1,0 +1,16 @@
+# jemdoc: menu{MENU}{wenlong.html}
+= Wenlong Mou (UC Berkeley)
+
+October 31, 2022
+
+== Title and Abstract
+
+*Rethinking semi-parametric efficiency for off-policy estimation: a non-asymptotic perspective*\n
+\n
+
+Estimating linear functionals from observational data is a central problem in causal inference and bandit algorithms. The notion of semi-parametric efficiency is a canonical measure for instance-dependent asymptotic optimality. With a finite sample size, the practical performance of estimators is not captured by asymptotics. In this talk, I will present some recent progress towards a non-asymptotic theory for semiparametric efficiency. Among other results, we discuss finite-sample guarantees for a class of semi-parametric estimators, and establish their instance optimality via information-theoretic tools. The optimal risk exhibits non-trivial impacts from the structures in the nonparametric component, which would otherwise be washed out by asymptotics.
+Joint works with Peter Bartlett, Peng Ding, and Martin Wainwright.
+
+== Bio
+
+Wenlong Mou is a Ph.D. student at Department of EECS, UC Berkeley, advised by Martin Wainwright and Peter Bartlett. Prior to Berkeley, he received his B.Sc. degree in Computer Science from Peking University. Wenlong's research interests include statistics, machine learning theory, dynamic programming and optimization, and applied probability. He is particularly interested in designing optimal statistical methods that enable optimal data-driven decision making, powered by efficient computational algorithms.

@@ -1,0 +1,17 @@
+# jemdoc: menu{MENU}{kevin.html}
+= Kevin Jamieson (University of Washington)
+
+Nov 1, 2022
+
+== Title and Abstract
+
+*Towards Instance-Optimal Algorithms for Reinforcement Learning*\n
+\n
+
+The theory of reinforcement learning has focused on two fundamental problems: achieving low regret, and identifying epsilon-optimal policies. While in multi-armed bandits there exists a single algorithm that is instance-optimal for both, I will show in this talk that for tabular MDPs this is no longer possible—there exists a fundamental tradeoff between achieving low regret and identifying an epsilon-optimal policy at the instance-optimal rate. That is, popular algorithms that exploit optimism cannot be instance optimal. I will then present an algorithm that achieves the best known instance-dependent sample complexity for PAC tabular reinforcement learning which explicitly accounts for the sub-optimality gaps and attainable state visitation distributions in the underlying MDP. I will then discuss our recent work in the more general linear MDP setting where we have proposed an algorithm that is qualitatively very different but nevertheless achieves an instance-dependent sample complexity.
+
+This talk is based on the papers, https://arxiv.org/abs/1905.03814, https://arxiv.org/abs/2108.02717 and https://arxiv.org/abs/2207.02575
+
+== Bio
+
+Kevin Jamieson is an Assistant Professor in the Paul G. Allen School of Computer Science & Engineering at the University of Washington. His research explores how to leverage already-collected data to inform what future measurements to make next, in a closed loop. Jamieson has shown that such active learning can substantially reduce the sample complexity of learning in scenarios like multi-armed bandits, reinforcement learning, regression, and multi-class classification. He received his Ph.D. from the University of Wisconsin - Madison under the advisement of Robert Nowak, and was a post-doctoral researcher at UC Berkeley with Benjamin Recht. Jamieson's work has been recognized by an NSF CAREER award and Amazon Faculty Research award.
