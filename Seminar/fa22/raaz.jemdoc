@@ -1,0 +1,17 @@
+# jemdoc: menu{MENU}{raaz.html}
+= Raaz Dwivedi (Harvard and MIT)
+
+November 14, 2022
+
+== Title and Abstract
+
+*Two vignettes on efficient procedures for personalized decision making*\n
+\n
+
+Accessible technology and extensive digitization are fueling detailed data collection at the user level. These novel data streams enable decision making about what and when to deliver that is personalized to users by taking their behaviors and contexts into account. Such data is especially useful in domains like mobile health and medicine. On the other hand, the rise of inexpensive computation has enabled extensive computational simulations at the user-level. To fully leverage these developments for personalized decision-making, we need to revisit the two fundamental tasks: (1) estimation and inference from data when there is no model for the decision’s effect on a user and (2) simulations when there is a known model for the decision’s effect on the user. Here we must overcome the issues facing classical approaches, namely statistical biases due to adaptively collected data and computational bottlenecks caused by high-dimensional models. 
+In this talk, I will present one vignette for each of these tasks. In the first part, I provide a nearest neighbor based approach for unit-level statistical inference in sequential experiments. I also introduce a doubly robust variant of classical nearest neighbors that provides sharp error guarantees and help estimate if a mobile app is effective in promoting healthier lifestyle in users with limited data. In the second part, I will introduce kernel thinning, a practical strategy that provides near-optimal distribution compression in near-linear time. This method offers significant computational savings when simulating models for cardiac functioning.
+
+
+== Bio
+
+Raaz Dwivedi is a FODSI postdoc fellow with Prof. Susan Murphy and Prof. Devavrat Shah jointly between CS and Statistics, Harvard and EECS, MIT. He finished his Ph. D. co-advised by Prof. Martin Wainwright and Prof. Bin Yu at EECS, UC Berkeley and bachelors advised by Prof. Vivek Borkar at EE, IIT Bombay. His research builds statistically and computationally efficient strategies for personalized decision-making with theory and methods spanning the areas of causal inference, reinforcement learning, random sampling, and high-dimensional statistics. He is a recipient of the President of India Gold Medal, Berkeley Fellowship, teaching awards at UC Berkeley and Harvard university, and a best student paper award for his work on optimal compression in near-linear time.
