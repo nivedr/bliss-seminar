@@ -1,6 +1,23 @@
 # jemdoc: menu{MENU}{past.html}
 = Past talks
 
+== Fall 2022 Talks 
+
+~~~
+{}{table}{tlayout}
+*Friday, August 26, 3-4 PM* | Weijie Su (U Penn) | When Will You Become the Best Reviewer of Your Own Papers? A Mechanism-Design-Based Approach to Statistical Estimation | [./fa22/weijie.html details] ||
+August 29 | Haipeng Luo (USC) | Near-Optimal No-Regret Learning for General Convex Games --- The Role of Positive Regret
+ | [./fa22/haipeng.html details] ||
+Oct 10 | Yuxin Chen (U Penn) | Towards Optimal Sample Complexities in Offline Reinforcement Learning and Markov Games | [./fa22/yuxin.html details] ||
+Oct 17 | Wen Sun (Cornell) | Hybrid RL: Using both offline and online data can make RL efficient | [./fa22/wen.html details] ||
+Oct 24 | Chen-Yu Wei (Simons) | Optimal Dynamic Regret for Bandits without Prior Knowledge | [./fa22/chen-yu.html details] ||
+Oct 31 | Wenlong Mou (UC Berkeley) | Rethinking semi-parametric efficiency for off-policy estimation: a non-asymptotic perspective | [./fa22/wenlong.html details] ||
+*Tuesday, Nov 1, 2-3 PM* | Kevin Jamieson (University of Washington) | Towards Instance-Optimal Algorithms for Reinforcement Learning | [./fa22/kevin.html details] ||
+Nov 14 | Raaz Dwivedi (Harvard and MIT) | Two vignettes on efficient procedures for personalized decision making | [./fa22/raaz.html details] ||
+Nov 28 | Gautam Kamath and Mahbod Majid (University of Waterloo) | Efficient Mean Estimation with Pure Differential Privacy via a Sum-Of-Squares Exponential Mechanism | [./fa22/gautam_mahbod.html details] ||
+~~~
+
+
 == Spring 2022 Talks 
 
 Talk recordings from Spring 2022 are available [https://berkeley.box.com/v/bliss-seminar-s2022 here].
