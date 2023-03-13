@@ -39,6 +39,8 @@ body {
     background: white;
     text-align: left;
     vertical-align: top;
+    min-width: 800px;
+    width: 800px;
 }
 
 #layout-menu a {
@@ -297,7 +299,10 @@ span.comment, span.comment > *, span.string, span.string > * {
 }
 
 @media print {
-    #layout-menu { display: none; }
+    #layout-menu {
+        display: none;
+    }
+
 }
 
 #fwtitle {
@@ -338,7 +343,6 @@ img.eqwl {
 table {
     border: 2px solid black;
     border-collapse: collapse;
-    table-layout: fixed;
 }
 
 td {
@@ -346,7 +350,7 @@ td {
     padding-left: 0.5em;
     padding-right: 0.5em;
     text-align: center;
-    border: none;
+    border: 1px solid gray;
 }
 
 table + table {
