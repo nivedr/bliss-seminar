@@ -9,10 +9,10 @@ is the area seminar of the [http://bliss.eecs.berkeley.edu Berkeley Laboratory f
 A calendar of all the talks is maintained [https://calendar.google.com/calendar/b/1?cid=YmVya2VsZXkuZWR1X2Fub2JqY2JqMjJ2Z2M2M3F0cXJtZWowN21jQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20 here]. Feel free to add it to your own.
 
 ~~~
-*Fall 2022* \n
+*Spring 2023* \n
 Location: Virtual (subscribe to our [https://lists.eecs.berkeley.edu/sympa/subscribe/bliss-seminar mailing list] for details) \n
 Regular seminar time: *Wednesdays 2 PM - 3 PM PT* \n
-Regular seminar venue: *Hughes Conference Room, 400 Cory Hall, Berkeley* ([https://goo.gl/maps/2QyKkPSB1Nr5gCHW6 map])
+Regular seminar venue: *Wang Room, 531 Cory Hall, Berkeley*
 
 To subscribe to our mailing list, click [https://lists.eecs.berkeley.edu/sympa/subscribe/bliss-seminar here]. \n
 
@@ -26,8 +26,8 @@ Dates marked in bold indicate that talks are at non-regular dates / times.
 ~~~
 {}{table}{tlayout}
 March 1 | Ananya Kumar (Stanford) | Foundation Models for Robustness to Distribution Shifts | [./sp23/ananya.html details] ||
-March 15 | Ayush Sekhari (MIT) |  | [./fa22/ayush.html details] ||
-March 22 | Venugopal Veeravalli (UIUC) |  | [./fa22/venugopal.html details] ||
+March 15 | Ayush Sekhari (MIT) | On the Complexity of Adversarial Decision Making | [./fa22/ayush.html details] ||
+March 22 | Venugopal Veeravalli (UIUC) | Quickest Change Detection for Monitoring Pandemics | [./fa22/venugopal.html details] ||
 March 29 | Spring break | - | - ||
 April 5 | Max Simchowitz (MIT) |  | [./sp23/max.html details] ||
 April 12 | Gautam Goel (Simons Institute) |  | [./sp23/gautam.html details] ||

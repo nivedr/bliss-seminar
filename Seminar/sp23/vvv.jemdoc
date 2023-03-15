@@ -1,0 +1,21 @@
+# jemdoc: menu{MENU}{vvv.html}
+= Venugopal Veeravalli (University of Illinois at Urbana-Champaign)
+
+March 22, 2023
+
+== Title and Abstract
+
+*Quickest Change Detection for Monitoring Pandemics*\n
+\n
+
+The problem of efficiently detecting changes in stochastic systems and time series, often referred to as the quickest change detection (QCD) problem, arises in various branches of science and engineering. It is assumed that the observations of the system undergo a change in distribution in response to a change or disruption in the environment. The observations are obtained sequentially, and if the state changes from the normal state, then it is of interest to detect this change as soon as possible, subject to false alarm constraints, and take any necessary action in response to the change. The goal in this talk is to explore how quickest change detection can be used in detecting the onset of a new wave of an existing pandemic using test positivity rate data. 
+
+Parametric and non-parametric approaches to constructing useful tests for pandemic monitoring will be discussed. In both approaches, the pre-change distribution is assumed to be stationary, while the post-change distribution is allowed to be non-stationary. In the parametric setting, the pre-change distribution is assumed to be known, while the post-change distribution is allowed to have parametric uncertainty.  In the non-parametric approach, only knowledge of the pre-change mean and variance is assumed, and the post-change distributions are characterized simply as having mean greater than some pre-specified threshold, which is larger than the pre-change mean. New asymptotic theories are developed for both settings. Both approaches are shown to be effective in monitoring pandemics based on COVID-19 test positivity rate data.
+
+(This is joint work with Yuchen Liang and Alexander Tartakovsky.)
+
+== Bio
+
+Prof. Veeravalli received the Ph.D. degree in Electrical Engineering from the University of Illinois at Urbana-Champaign in 1992, the M.S. degree from Carnegie-Mellon University in 1987, and the B.Tech degree from Indian Institute of Technology, Bombay (Silver Medal Honors) in 1985. He is currently the Henry Magnuski Professor in the Department of Electrical and Computer Engineering (ECE) at the University of Illinois at Urbana-Champaign, where he also holds appointments with the Coordinated Science Laboratory (CSL) and the Department of Statistics. He was on the faculty of the School of ECE at Cornell University before he joined Illinois in 2000. He served as a program director for communications research at the U.S. National Science Foundation in Arlington, VA during 2003-2005. His research interests span the theoretical areas of statistical inference, machine learning, and information theory, with applications to data science, wireless communications, and cyberphysical systems.  He is a Fellow of the IEEE. Among the awards he has received for research and teaching are the IEEE Browder J. Thompson Best Paper Award, the U.S. Presidential Early Career Award for Scientists and Engineers (PECASE), and the Abraham Wald Prize in Sequential Analysis (twice).
+
+

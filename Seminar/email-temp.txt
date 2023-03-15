@@ -1,0 +1,24 @@
+Dear all,
+
+This week we have speaker-name presenting at the BLISS seminar will start in about 2 hours from now at 11am PT.
+
+The talk is at the venue and will be in-person/virtual/hybrid (please follow the Zoom link attached below if you are unable to join in person.)
+
+--
+Title: title
+Speaker: Speaker name (affiliation)
+Time: time @ Day, Date
+Venue:
+	In person: venue
+ 	Virtual: Zoom link
+
+Abstract:
+
+Abstract here
+
+Bio:
+
+Bio here
+
+---------
+BLISS Seminar [https://bliss.eecs.berkeley.edu/Seminar/index.html]: Calendar link [https://calendar.google.com/calendar/b/1/r?cid=YmVya2VsZXkuZWR1X2Fub2JqY2JqMjJ2Z2M2M3F0cXJtZWowN21jQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20] and Subscription link [https://lists.eecs.berkeley.edu/sympa/subscribe/bliss-seminar]
