@@ -7,6 +7,7 @@ jemdoc/jemdoc -c ./jemdoc/mysite.conf ./sp23/*.jemdoc
 echo 'Enter commit message'
 read msg
 
+git pull
 git add .
 git commit -m "$msg"
 git push --set-upstream origin master
