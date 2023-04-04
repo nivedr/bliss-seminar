@@ -1,0 +1,17 @@
+# jemdoc: menu{MENU}{max.html}
+= Max Simchowitz (MIT)
+
+April 5, 2023
+
+== Title and Abstract
+
+*Randomized Smoothing,  Online Learning, and Planning Through Contact.*\n
+\n
+
+Trajectory planning through discontinuous and “stiff” (large Lipschitz) dynamics is a fundamental problem in robotic manipulation. In this talk, we explore the statistical and computational challenges of stiff trajectory optimization through the lens of randomized smoothing, where the dynamics are intentionally corrupted with a small bit of continuous noise. We begin with empirical evidence and a heuristic justification of randomized smoothing  for trajectory optimization in comparison to alternatives such as automated differentiation. We then introduce the framework of smoothed online learning and turn our attention to piecewise affine systems, a class of models that exhibit the stiffness property encountered in contact. Finally, we propose novel oracle-efficient, low-regret algorithms for smooth online learning that lead to algorithms for online prediction, online simulation, and robust planning under piecewise affine dynamics, as well as considerable generalizations. 
+
+Joint work with Adam Block, Terry Suh, Tao Peng, Kaiqing Zhang, and Russ Tedrake at MIT.
+
+== Bio
+
+Max Simchowitz is a postdoctoral researcher under Russ Tedrake in the Robot Locomotion group, part of CSAIL at MIT. He received his PhD in the EECS department at UC Berkeley under Michael I. Jordan and Benjamin Recht, generously supported by Open Philanthropy, NSF GRFP, and Berkeley Fellowships, and was fortunate enough to receive two ICML outstanding paper awards. His work focuses broadly on machine learning theory, with a recent focus on the plentiful intersections between statistical learning theory, online learning, non-convex optimization, and control theory.  
