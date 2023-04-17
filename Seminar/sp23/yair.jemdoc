@@ -1,0 +1,18 @@
+# jemdoc: menu{MENU}{yair.html}
+= Yair Carmon (Tel Aviv University)
+
+April 19, 2023
+
+== Title and Abstract
+
+*Stochastic gradient descent without learning rate tuning*\n
+\n
+
+While stochastic optimization methods drive continual improvements in machine learning, choosing the optimization parameters—and particularly the learning rate (LR)—remains a difficulty. In this talk, I will describe our work on removing LR tuning from stochastic gradient descent (SGD), culminating in a tuning-free dynamic SGD step size formula, which we call Distance over Gradients (DoG). We show that DoG removes the need to tune learning rate both theoretically (obtaining strong parameter-free convergence guarantees) and empirically (performing nearly as well as expensively-tuned SGD on neural network training tasks). Our developments rely on a novel certificate for the SGD step size choice, and strong time-uniform empirical-Bernstein-type concentration bounds.
+
+Based on the following joint work with Maor Ivgi and Oliver Hinder:
+- Making SGD Parameter Free ([https://arxiv.org/abs/2205.02160])
+- DoG is SGD’s Best Friend ([https://arxiv.org/abs/2302.12022])
+
+== Bio
+Yair Carmon is an assistant professor of computer science at Tel Aviv university. Yair received a PhD from Stanford University, advised by  John Duchi and Aaron Sidford, and M.Sc. and B.Sc. degrees from the Technion. He works on the foundations of optimization and machine learning, focusing on questions about fundamental limits and robustness. 
