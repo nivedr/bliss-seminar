@@ -1,7 +1,7 @@
 #!/bin/bash
 
-jemdoc/jemdoc -c mysite.conf ./index.jemdoc
-jemdoc/jemdoc -c mysite.conf ./past.jemdoc
+jemdoc/jemdoc -c mysite.conf ./index/index.jemdoc
+jemdoc/jemdoc -c mysite.conf ./index/past.jemdoc
 jemdoc/jemdoc -c ./jemdoc/mysite.conf ./sp23/*.jemdoc
 
 echo 'Enter commit message'
