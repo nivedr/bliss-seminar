@@ -1,3 +1,5 @@
-Seminar home            [//Seminar/index.html]
-Past Talks    		[//Seminar/past.html]
+Seminar home            [//Seminar/past.html]
+Past Talks    		[../past.html]
+Past Talks    		[//past.html]
+Old Talks    		[..past.html]
 
