@@ -2,7 +2,7 @@
 
 jemdoc/jemdoc -c ./jemdoc/mysite.conf ./index.jemdoc
 jemdoc/jemdoc -c ./jemdoc/mysite.conf ./past.jemdoc
-jemdoc/jemdoc -c ./jemdoc/mysite.conf ./sp23/*.jemdoc
+jemdoc/jemdoc -c ./jemdoc/mysite.conf ./fa23/*.jemdoc
 
 echo 'Enter commit message'
 read msg
