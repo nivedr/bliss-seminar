@@ -9,32 +9,30 @@ is the area seminar of the [http://bliss.eecs.berkeley.edu Berkeley Laboratory f
 A calendar of all the talks is maintained [https://calendar.google.com/calendar/b/1?cid=YmVya2VsZXkuZWR1X2Fub2JqY2JqMjJ2Z2M2M3F0cXJtZWowN21jQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20 here]. Feel free to add it to your own.
 
 ~~~
-*Spring 2023* \n
-Location: Virtual (subscribe to our [https://lists.eecs.berkeley.edu/sympa/subscribe/bliss-seminar mailing list] for details) \n
-Regular seminar time: *Wednesdays 2 PM - 3 PM PT* \n
-Regular seminar venue: *Wang Room, 531 Cory Hall, Berkeley*
-
-To subscribe to our mailing list, click [https://lists.eecs.berkeley.edu/sympa/subscribe/bliss-seminar here]. \n
+*Fall 2023* \n
+Regular seminar time: *Fridays 2 PM - 3 PM PT* \n
+Regular seminar venue: *Hughes Room, 400 Cory Hall, Berkeley*
+subscribe to our [https://lists.eecs.berkeley.edu/sympa/subscribe/bliss-seminar mailing list] for more details. \n
 
 To give a talk at the seminar, contact [https://people.eecs.berkeley.edu/~nived.rajaraman Nived Rajaraman] or [http://www.eecs.berkeley.edu/~courtade Tom Courtade].
 ~~~
 
 
-== Spring 2023 Schedule
+== Fall 2023 Schedule
+
+Recordings of the talks are available [https://berkeley.box.com/v/bliss-seminar-f2023 here]
 
 Dates marked in bold indicate that talks are at non-regular dates / times.
 ~~~
 {}{table}{tlayout}
-March 1 | Ananya Kumar (Stanford) | Foundation Models for Robustness to Distribution Shifts | [./sp23/ananya.html details] ||
-March 15 | Ayush Sekhari (MIT) | On the Complexity of Adversarial Decision Making | [./sp23/ayush.html details] ||
-March 22 | Venugopal Veeravalli (UIUC) | Quickest Change Detection for Monitoring Pandemics | [./sp23/vvv.html details] ||
-March 29 | Spring break | - | - ||
-April 5 | Max Simchowitz (MIT) | Randomized Smoothing, Online Learning, and Planning Through Contact. | [./sp23/max.html details] ||
-April 12 | Gautam Goel (Simons Institute) | Competitive Control | [./sp23/gautam.html details] ||
-*10-11am PT, April 19* | Yair Carmon (Tel Aviv University) | Stochastic gradient descent without learning rate tuning | [./sp23/yair.html details] ||
-*10-11am PT, April 26* | Ramon Van Handel (Princeton) | A new approach to nonasymptotic random matrix theory
- | [./sp23/ramon.html details] ||
-May 3 |  |  | [./sp23/.html details] ||
-May 10 | Ari Morcos (FAIR) |  | [./sp23/ari.html details] ||
+Oct 6 |  |  | [./sp23/.html details] ||
+Oct 13 | Alireza Fallah |  | [./sp23/alireza.html details] ||
+Oct 20 |  |  | [./sp23/.html details] ||
+*2-3pm PT Oct 26* | Chiwei Yan |  | [./fa23/chiwei.html details] ||
+Nov 3 |  |  | [./sp23/.html details] ||
+Nov 10 |  |  | [./sp23/.html details] ||
+Nov 17 |  |  | [./sp23/.html details] ||
+Nov 24 |  |  | [./sp23/.html details] ||
+Dec 1 |  |  | [./sp23/.html details] ||
 ~~~
 

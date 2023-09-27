@@ -1,6 +1,23 @@
 # jemdoc: menu{MENU}{past.html}
 = Past talks
 
+== Spring 2023 Talks 
+
+~~~
+{}{table}{tlayout}
+March 1 | Ananya Kumar (Stanford) | Foundation Models for Robustness to Distribution Shifts | [./sp23/ananya.html details] ||
+March 15 | Ayush Sekhari (MIT) | On the Complexity of Adversarial Decision Making | [./sp23/ayush.html details] ||
+March 22 | Venugopal Veeravalli (UIUC) | Quickest Change Detection for Monitoring Pandemics | [./sp23/vvv.html details] ||
+March 29 | Spring break | - | - ||
+April 5 | Max Simchowitz (MIT) | Randomized Smoothing, Online Learning, and Planning Through Contact. | [./sp23/max.html details] ||
+April 12 | Gautam Goel (Simons Institute) | Competitive Control | [./sp23/gautam.html details] ||
+*10-11am PT, April 19* | Yair Carmon (Tel Aviv University) | Stochastic gradient descent without learning rate tuning | [./sp23/yair.html details] ||
+*10-11am PT, April 26* | Ramon Van Handel (Princeton) | A new approach to nonasymptotic random matrix theory
+ | [./sp23/ramon.html details] ||
+May 3 |  |  | [./sp23/.html details] ||
+May 10 | Ari Morcos (FAIR) |  | [./sp23/ari.html details] ||
+~~~
+
 == Fall 2022 Talks 
 
 ~~~
