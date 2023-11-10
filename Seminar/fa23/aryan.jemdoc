@@ -1,0 +1,22 @@
+# jemdoc: menu{MENU}{aryan.html}
+= Aryan Mokhtari (UT Austin)
+
+Nov 10, 2023
+
+== Title and Abstract
+
+*Online Learning Guided Quasi-Newton Methods: Improved Global Non-asymptotic Guarantees*\n
+\n
+
+Quasi-Newton (QN) methods are popular iterative algorithms known for their superior practical performance compared to Gradient Descent (GD)-type methods. However, the existing theoretical results for this class of algorithms do not sufficiently justify their advantage over GD-type methods. Specifically, in the strongly convex setting, where GD-type methods converge globally at a linear rate, the global convergence guarantees for QN methods are no better than those for GD. While there are results that demonstrate a faster superlinear convergence rate for QN methods, they are either “asymptotic”  or “local” and fail to provide a global iteration complexity superior to that of GD-type methods. Similarly, in the convex setting, the convergence guarantees for QN methods only match the sublinear rate of GD-type methods and do not exhibit any form of speed-up.
+
+In this talk, we discuss our recent efforts to address these limitations. In the strongly convex setting, we propose the first “globally” convergent QN method that achieves an explicit “non-asymptotic superlinear” rate. We show that the rate presented for our method is provably faster than GD after at most O(d) iterations, where d is the problem dimension. Additionally, in the convex setting, we present an accelerated variant of our proposed method that provably outperforms the accelerated gradient method and converges at a rate of O(\min\{1/k^2, \sqrt{d \log k }/ k^{2.5} \}), where k is the number of iterations. To attain these results, we diverge from conventional approaches and construct our QN methods based on the Hybrid Proximal Extragradient (HPE) framework and its accelerated variants. Furthermore, a pivotal algorithmic concept underpinning our methodologies is an online learning framework for updating the Hessian approximation matrices. Specifically, we relate our method's convergence rate to the regret of a specific online convex optimization problem in the matrix space and choose the sequence of Hessian approximation matrices to minimize its overall regret.
+
+Based on the following papers:
+
+- COLT 2023: https://arxiv.org/pdf/2302.08580.pdf
+- NeurIPS 2023: https://arxiv.org/pdf/2306.02212.pdf
+
+== Bio
+
+Aryan Mokhtari is an Assistant Professor in the Electrical and Computer Engineering (ECE) Department at the University of Texas at Austin (UT Austin), where he holds the title of Fellow of Texas Instruments/Kilby. Prior to joining UT Austin, he served as a Postdoctoral Associate in the Laboratory for Information and Decision Systems (LIDS) at MIT. Before that, he worked as a Research Fellow at the Simons Institute for the program on “Bridging Continuous and Discrete Optimization.” He earned his Ph.D. in electrical and systems engineering from the University of Pennsylvania (Penn). Aryan has received the Army Research Office (ARO) Early Career Program Award, UT Austin ECE Department’s Junior Faculty Excellence in Teaching Award, the Simons-Berkeley Research Fellowship, and Penn’s Joseph and Rosaline Wolf Award for Best Doctoral Dissertation.
