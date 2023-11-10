@@ -25,12 +25,11 @@ Recordings of the talks are available [https://berkeley.box.com/v/bliss-seminar-
 Dates marked in bold indicate that talks are at non-regular dates / times.
 ~~~
 {}{table}{tlayout}
-Oct 6 |  |  | [./sp23/.html details] ||
-Oct 13 | Alireza Fallah (MSRI and UC Berkeley) |  | [./fa23/alireza.html details] ||
-Oct 20 | Surbhi Goel (U Penn) |  | [./sp23/surbhi.html details] ||
-*2-3pm PT, Oct 26* | Chiwei Yan (UC Berkeley IEOR) |  | [./fa23/chiwei.html details] ||
-Nov 3 |  |  | [./sp23/.html details] ||
-Nov 10 | Aryan Mokhtari (UT Austin) |  | [./sp23/aryan.html details] ||
+Oct 13 | Alireza Fallah (MSRI and UC Berkeley) | Privacy Mechanisms for Data MarketsI | [./fa23/alireza.html details] ||
+Oct 20 | Surbhi Goel (U Penn) | Beyond Worst-case Sequential Prediction: Adversarial Robustness via Abstention | [./sp23/surbhi.html details] ||
+*2-3pm PT, Oct 26* | Chiwei Yan (UC Berkeley IEOR) | Incentive-aware Dynamic Matching Problems | [./fa23/chiwei.html details] ||
+Nov 3 | Jingyan Wang (Georgia Tech) | Modeling and Correcting Bias in Sequential Evaluation | [./sp23/.html details] ||
+Nov 10 | Aryan Mokhtari (UT Austin) | Online Learning Guided Quasi-Newton Methods: Improved Global Non-asymptotic Guarantees | [./sp23/aryan.html details] ||
 Nov 17 | Gaurav Mahajan (Yale) |  | [./sp23/gaurav.html details] ||
 Nov 24 | Thanksgiving break | - | - ||
 Dec 1 | Jason Altschuler (University of Pennsylvania) |  | [./sp23/jason.html details] ||
