@@ -12,4 +12,4 @@ git add .
 git commit -m "$msg"
 git push --set-upstream origin master
 
-rsync -av /Users/nived.rajaraman/Dropbox/websites/bliss-website-and-seminar/ -e ssh mert_cemri@login.eecs.berkeley.edu:/home/eecs/jiantao/public_html/bliss
+rsync -av /home/mert/local/bliss-seminar -e ssh mert_cemri@login.eecs.berkeley.edu:/home/eecs/jiantao/public_html/bliss
