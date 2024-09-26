@@ -1,6 +1,20 @@
 # jemdoc: menu{MENU}{past.html}
 = Past talks
 
+== Fall 2023 Talks 
+
+~~~
+{}{table}{tlayout}
+Oct 13 | Alireza Fallah (MSRI and UC Berkeley) | Privacy Mechanisms for Data MarketsI | [./fa23/alireza.html details] ||
+Oct 20 | Surbhi Goel (U Penn) | Beyond Worst-case Sequential Prediction: Adversarial Robustness via Abstention | [./fa23/surbhi.html details] ||
+*2-3pm PT, Oct 26* | Chiwei Yan (UC Berkeley IEOR) | Incentive-aware Dynamic Matching Problems | [./fa23/chiwei.html details] ||
+Nov 3 | Jingyan Wang (Georgia Tech) | Modeling and Correcting Bias in Sequential Evaluation | [./fa23/jingyan.html details] ||
+Nov 10 | Aryan Mokhtari (UT Austin) | Online Learning Guided Quasi-Newton Methods: Improved Global Non-asymptotic Guarantees | [./fa23/aryan.html details] ||
+Nov 17 | Gaurav Mahajan (Yale) |  | [./fa23/gaurav.html details] ||
+Nov 24 | Thanksgiving break | - | - ||
+Dec 1 | Jason Altschuler (University of Pennsylvania) |  | [./fa23/jason.html details] ||
+~~~
+
 == Spring 2023 Talks 
 
 ~~~
